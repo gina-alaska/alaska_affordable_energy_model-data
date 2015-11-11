@@ -1,70 +1,70 @@
 City,System Type,SQFT,HF Used,HF w/Retro,kWh/yr,kWh/yr w/ retro,Implementation Cost,HR,Steam District
-Akiak,Circulating Water/Sewer System,1280,711,601,98533,86541,18480,,
-Alakanuk,Circulating System/Vacuum Sewer,9860,24327,17732,276196,204113,95220,,
+Akiak,Circulating/Gravity,1280,711,601,98533,86541,18480,,
+Alakanuk,Circulating/Vac,9860,24327,17732,276196,204113,95220,,
 Anaktuvuk Pass,,6373,0,,260202.342,,,0,0
 Atqasuk,,12237,0,,415863.743,,,0,0
 Bethel,,35925,15192.654,,340683.066,,,0,0
-Brevig Mission,Circulating Water/Sewer System,2800,12811,2643,118202,89551,605160,,
-Chefornak,Watering Point/Washeteria,950,2060,765,46022,30819,65358,,
-Chevak,Circulating System/Vacuum Sewer,2584,12134,5727,265409,196045,333325,,
-Chuathbaluk,Buried Circulating System,971,2018,357,25982,24157,151210,,
+Brevig Mission,Circulating/Gravity,2800,12811,2643,118202,89551,605160,,
+Chefornak,Wash/HB,950,2060,765,46022,30819,65358,,
+Chevak,Circulating/Vac,2584,12134,5727,265409,196045,333325,,
+Chuathbaluk,Circulating/Gravity,971,2018,357,25982,24157,151210,,
 Craig,Pressure/Gravity,,,,,,,,
-Dillingham,Circulating/gravity,,,,,,,,
+Dillingham,Circulating/Gravity,,,,,,,,
 Eagle,,684,0,,1176.511,,,0,0
-Eek,Watering Point/Washeteria,2032,6965,5671,42891,33405,42000,,
-Elim,Buried Circulating System,1854,9363,3139,78148,54777,144030,,
-Emmonak,Circulating System/Vacuum Sewer,4952,18490,12086,446534,362954,150539,,
-Gambell,Circulating System/Vacuum Sewer,4664,16307,14262,107513,79008,8719,,
-Goodnews Bay,Buried Circulating System,2196,5024,477,20944,19980,22400,,
-Grayling,Buried Circulating System,1536,6850,1747,91836,65099,397160,,
+Eek,Wash/HB,2032,6965,5671,42891,33405,42000,,
+Elim,Circulating/Gravity,1854,9363,3139,78148,54777,144030,,
+Emmonak,Circulating/Vac,4952,18490,12086,446534,362954,150539,,
+Gambell,Circulating/Vac,4664,16307,14262,107513,79008,8719,,
+Goodnews Bay,Circulating/Gravity,2196,5024,477,20944,19980,22400,,
+Grayling,Circulating/Gravity,1536,6850,1747,91836,65099,397160,,
 Haines,Pressure/Gravity,,6900,,260000,,,,
-Holy Cross,Buried Circulating System,704,5812,758,65948,56710,395681,,
+Holy Cross,Circulating/Gravity,704,5812,758,65948,56710,395681,,
 Hoonah,,5880,2324.236,,163503.156,,,0,0
 Hooper Bay,,33890,43350,,430807.877,,,0,0
-Huslia,Buried Circulating System,4215,6614,1093,96387.419,46357,285680,0,0
+Huslia,Circulating/Gravity,4215,6614,1093,96387.419,46357,285680,0,0
 Juneau,,50231,100753.577,,945058.505,,,0,0
 Kake,,1200,876.788,,12463.779,,,0,0
 Kaktovik,,11320,0,,532062.789,,,0,0
 Kipnuk,Circulating Water,1760,0,0,0,0,153200,,
 Kodiak,,12100,16303.445,,491998.928,,,0,0
 Kongiganak,,8903,4581.942,,36182.826,,,0,0
-Kongiginak,Watering Point/Washeteria,8903,9519,7409,68144,58567,30130,,
-Koyuk,Buried Circulating System,2753,13303,3378,90964,69040,476935,,
+Kongiginak,Wash/HB,8903,9519,7409,68144,58567,30130,,
+Koyuk,Circulating/Gravity,2753,13303,3378,90964,69040,476935,,
 Koyukuk,,1089,1811.387,,21248.191,,,0,0
 Lower Kalskag,,1512,1946,179,71221,58232,13350,,
 Manley Hot Springs,Haul,,,,,,,,
-Marshall,Circulating Water/Sewer System,1560,6000,1457,96843,75377,80355,,
+Marshall,Circulating/Gravity,1560,6000,1457,96843,75377,80355,,
 Naknek,,3020,1877,1352,5494,5012,9366,,
-Napaskiak,Watering Point/Washeteria,2961,9161,5839,55111,49028,17735,,
-Newtok,Watering Point/Washeteria,1568,0,0,22565.108,9127,1500,0,0
+Napaskiak,Wash/HB,2961,9161,5839,55111,49028,17735,,
+Newtok,Wash/HB,1568,0,0,22565.108,9127,1500,0,0
 Nightmute,Watering Point,450,0,0,21148,10156,4905,,
-Nome,Circulating/gravity,,,,,,,,
+Nome,Circulating/Gravity,,,,,,,,
 Northway,,510,0,,0,,,0,0
 Nuiqsut,,7566,0,,535641.821,,,0,0
-Nulato,Buried Circulating System,6941,12506,10896,143068,85565,37100,,
-Nunam Iqua,Circulating System/Vacuum Sewer,4620,3857,1928,149965,111853,28220,7550.725,3611.803
+Nulato,Circulating/Gravity,6941,12506,10896,143068,85565,37100,,
+Nunam Iqua,Circulating/Vac,4620,3857,1928,149965,111853,28220,7550.725,3611.803
 Nunapitchuk,,3270,7410,4684,33613,31010,16650,,
-Pilot Station,Buried Circulating System,800,2687,1367,122398,71215,86637,,
-Pitkas Point,Circulating Water/System,2160,5166,3356,79856,33046,38740,,
+Pilot Station,Circulating/Gravity,800,2687,1367,122398,71215,86637,,
+Pitkas Point,Circulating/Gravity,2160,5166,3356,79856,33046,38740,,
 Point Hope,,11647,0,,189313.204,,,0,0
 Point Lay,,7537,0,,198494.286,,,0,0
 Port Lions,,1200,534.263,,13553.122,,,0,0
 Quinhagak,,3072,4645.34,,88161.293,,,0,0
-Russian Mission,Circulating Water/Sewer,944,2340,457,33713,29762,5546,,
+Russian Mission,Circulating/Gravity,944,2340,457,33713,29762,5546,,
 Sand Point,Pressure/Gravity,,,,,,,,
 Savoonga,,1722,9626,333,166485,158007,330630,,
-Selawik,Circulating System/Vacuum Sewer,6820,15595,9703.273,734410,402276,508955,,
-Shaktoolik,Buried Circulating System,4224,25029.672,407,80988.362,37637,326222,0,0
+Selawik,Circulating/Vac,6820,15595,9703.273,734410,402276,508955,,
+Shaktoolik,Circulating/Gravity,4224,25029.672,407,80988.362,37637,326222,0,0
 Sitka,,17100,11562.044,,474844.274,,,0,0
 Skagway,,7700,7665.635,,145441.309,,,0,0
-Sleetmute,Buried Circulating System,1386,4333.095,182,51103.242,21515,125700,0,0
+Sleetmute,Circulating/Gravity,1386,4333.095,182,51103.242,21515,125700,0,0
 St. Mary'S,,2160,2360.584,,38335.345,,,0,0
-Teller,Watering Point/Washeteria,3039,7716,6981,35529,817,23100,,
+Teller,Wash/HB,3039,7716,6981,35529,817,23100,,
 Tok,Pressure/Gravity,,,,,,,,
-Toksook Bay,Circulating Water/Sewer,354,2694,1918,109786,78413,14320,,
-Tuluksak,Watering Point/Washeteria,1800,6255,4012,34664,31954,20650,,
-Tuntutuliak,Watering Point/Washeteria,4480,14629.328,1083,17702.548,11146,311025,0,0
-Tununak,Watering Point/Washeteria,2048,2174,1815,37367,28294,29123,,
+Toksook Bay,Circulating/Gravity,354,2694,1918,109786,78413,14320,,
+Tuluksak,Wash/HB,1800,6255,4012,34664,31954,20650,,
+Tuntutuliak,Wash/HB,4480,14629.328,1083,17702.548,11146,311025,0,0
+Tununak,Wash/HB,2048,2174,1815,37367,28294,29123,,
 Twin Hills,,600,999,841,13723,5012,42667,,
 Upper Kalskag,Sewer System,30,0,0,26700,8478,20200,,
 Valdez,Pressure/Gravity,,,,,,,,
