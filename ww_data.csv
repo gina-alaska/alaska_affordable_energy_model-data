@@ -1,72 +1,262 @@
-City,System Type,SQFT,HF Used,HF w/Retro,kWh/yr,kWh/yr w/ retro,Implementation Cost,HR,Steam District
-Akiak,Circulating/Gravity,1280,711,601,98533,86541,18480,,
-Alakanuk,Circulating/Vac,9860,24327,17732,276196,204113,95220,,
-Anaktuvuk Pass,,6373,0,,260202.342,,,0,0
-Atqasuk,,12237,0,,415863.743,,,0,0
-Bethel,,35925,15192.654,,340683.066,,,0,0
-Brevig Mission,Circulating/Gravity,2800,12811,2643,118202,89551,605160,,
-Chefornak,Wash/HB,950,2060,765,46022,30819,65358,,
-Chevak,Circulating/Vac,2584,12134,5727,265409,196045,333325,,
-Chuathbaluk,Circulating/Gravity,971,2018,357,25982,24157,151210,,
-Craig,Pressure/Gravity,,,,,,,,
-Dillingham,Circulating/Gravity,,,,,,,,
-Eagle,,684,0,,1176.511,,,0,0
-Eek,Wash/HB,2032,6965,5671,42891,33405,42000,,
-Elim,Circulating/Gravity,1854,9363,3139,78148,54777,144030,,
-Emmonak,Circulating/Vac,4952,18490,12086,446534,362954,150539,,
-Gambell,Circulating/Vac,4664,16307,14262,107513,79008,8719,,
-Goodnews Bay,Circulating/Gravity,2196,5024,477,20944,19980,22400,,
-Grayling,Circulating/Gravity,1536,6850,1747,91836,65099,397160,,
-Haines,Pressure/Gravity,,6900,,260000,,,,
-Holy Cross,Circulating/Gravity,704,5812,758,65948,56710,395681,,
-Hoonah,,5880,2324.236,,163503.156,,,0,0
-Hooper Bay,,33890,43350,,430807.877,,,0,0
-Huslia,Circulating/Gravity,4215,6614,1093,96387.419,46357,285680,0,0
-Juneau,,50231,100753.577,,945058.505,,,0,0
-Kake,,1200,876.788,,12463.779,,,0,0
-Kaktovik,,11320,0,,532062.789,,,0,0
-Kipnuk,Circulating Water,1760,0,0,0,0,153200,,
-Kodiak,,12100,16303.445,,491998.928,,,0,0
-Kongiganak,,8903,4581.942,,36182.826,,,0,0
-Kongiginak,Wash/HB,8903,9519,7409,68144,58567,30130,,
-Koyuk,Circulating/Gravity,2753,13303,3378,90964,69040,476935,,
-Koyukuk,,1089,1811.387,,21248.191,,,0,0
-Lower Kalskag,,1512,1946,179,71221,58232,13350,,
-Manley Hot Springs,Haul,,,,,,,,
-Marshall,Circulating/Gravity,1560,6000,1457,96843,75377,80355,,
-Naknek,,3020,1877,1352,5494,5012,9366,,
-Napaskiak,Wash/HB,2961,9161,5839,55111,49028,17735,,
-Newtok,Wash/HB,1568,0,0,22565.108,9127,1500,0,0
-Nightmute,Watering Point,450,0,0,21148,10156,4905,,
-Nome,Circulating/Gravity,,,,,,,,
-Northway,,510,0,,0,,,0,0
-Nuiqsut,,7566,0,,535641.821,,,0,0
-Nulato,Circulating/Gravity,6941,12506,10896,143068,85565,37100,,
-Nunam Iqua,Circulating/Vac,4620,3857,1928,149965,111853,28220,7550.725,3611.803
-Nunapitchuk,,3270,7410,4684,33613,31010,16650,,
-Pilot Station,Circulating/Gravity,800,2687,1367,122398,71215,86637,,
-Pitkas Point,Circulating/Gravity,2160,5166,3356,79856,33046,38740,,
-Point Hope,,11647,0,,189313.204,,,0,0
-Point Lay,,7537,0,,198494.286,,,0,0
-Port Lions,,1200,534.263,,13553.122,,,0,0
-Quinhagak,,3072,4645.34,,88161.293,,,0,0
-Russian Mission,Circulating/Gravity,944,2340,457,33713,29762,5546,,
-Sand Point,Pressure/Gravity,,,,,,,,
-Savoonga,,1722,9626,333,166485,158007,330630,,
-Selawik,Circulating/Vac,6820,15595,9703.273,734410,402276,508955,,
-Shaktoolik,Circulating/Gravity,4224,25029.672,407,80988.362,37637,326222,0,0
-Sitka,,17100,11562.044,,474844.274,,,0,0
-Skagway,,7700,7665.635,,145441.309,,,0,0
-Sleetmute,Circulating/Gravity,1386,4333.095,182,51103.242,21515,125700,0,0
-St. Mary'S,,2160,2360.584,,38335.345,,,0,0
-Teller,Wash/HB,3039,7716,6981,35529,817,23100,,
-Tok,Pressure/Gravity,,,,,,,,
-Toksook Bay,Circulating/Gravity,354,2694,1918,109786,78413,14320,,
-Tuluksak,Wash/HB,1800,6255,4012,34664,31954,20650,,
-Tuntutuliak,Wash/HB,4480,14629.328,1083,17702.548,11146,311025,0,0
-Tununak,Wash/HB,2048,2174,1815,37367,28294,29123,,
-Twin Hills,,600,999,841,13723,5012,42667,,
-Upper Kalskag,Sewer System,30,0,0,26700,8478,20200,,
-Valdez,Pressure/Gravity,,,,,,,,
-Wainwright,,14501,0,,262230.36,,,0,0
-Yakutat,Pressure/Gravity,,,,,,,,
+City,System Type,SQFT,HF Used,HF w/Retro,kWh/yr,kWh/yr w/ retro,Implementation Cost,HR gallons,Steam District,HR Installed
+Adak,Pressure/Gravity,,,,,,,,,0
+Akhiok,Pressure/Gravity,,,,,,,,,0
+Akiachak,,,,,,,,,,Yes
+Akiak,Circulating/Gravity,1280,711,601,98533,86541,18480,0,0,Yes
+Akutan,Pressure/Gravity,,,,,,,,,0
+Alakanuk,Circulating/Vacuum,9860,24327,17732,276196,204113,95220,0,0,Yes
+Alatna,Washeteria,,,,,,,,,0
+Aleknagik,Wells/ST/DF,,,,,,,,,0
+Allakaket,Washeteria,,,,,,,,,Yes
+Ambler,Circulating/Gravity,,,,,,,,,0
+Anaktuvuk Pass,Circulating/Gravity,6373,0,0,260202.3418,0,0,0,0,0
+Anchor Point,Pressure/NA,,,,,,,,,0
+Anderson,Wells/Gravity,,,,,,,,,0
+Angoon,Pressure/Gravity,,,,,,,,,0
+Aniak,Wells/ST/DF,,,,,,,,,0
+Anvik,Circulating/Gravity,,,,,,,,,0
+Arctic Village,Washeteria,,,,,,,,,0
+Atka,Pressure/Gravity,,,,,,,,,0
+Atmautluak,Washeteria,,,,,,,,,0
+Atqasuk,Circulating/Gravity,12237,0,0,415863.74274,0,0,0,0,0
+Barrow,Circulating/Gravity,,,,,,,,,0
+Beaver,Closed Haul/Closed Haul,,,,,,,,,Yes
+Bethel,Circulating/Gravity,35925,15192.6540145985,0,340683.06612,0,0,0,0,0
+Bettles,Wells/ST/DF,,,,,,,,,0
+Birch Creek,Washeteria,,,,,,,,,0
+Brevig Mission,Circulating/Gravity,2800,12811,2643,118202,89551,605160,0,0,0
+Buckland,Circulating/Gravity,,,,,,,,,0
+Cantwell,Wells/ST/DF,,,,,,,,,0
+Central,Wells/ST/DF,,,,,,,,,0
+Chalkyitsik,Washeteria,,,,,,,,,0
+Chase,Wells/ST/DF,,,,,,,,,0
+Chefornak,Washeteria,950,2060,765,46022,30819,65358,0,0,Yes
+Chenega,Pressure/Gravity,,,,,,,,,0
+Chevak,Circulating/Vacuum,2584,12134,5727,265409,196045,333325,0,0,0
+Chickaloon,Wells/ST/DF,,,,,,,,,0
+Chignik,Circulating/Gravity,,,,,,,,,0
+Chignik Lagoon,Circulating/Gravity,,,,,,,,,0
+Chignik Lake,Circulating/Gravity,,,,,,,,,0
+Chiniak,Wells/ST/DF,,,,,,,,,0
+Chistochina,Wells/ST/DF,,,,,,,,,0
+Chitina,Watering Point,,,,,,,,,0
+Chuathbaluk,Circulating/Gravity,971,2018,357,25982,24157,151210,0,0,0
+Circle,Washeteria,,,,,,,,,0
+Clam Gulch,Wells/ST/DF,,,,,,,,,0
+Clark'S Point,Pressure/Gravity,,,,,,,,,0
+Coffman Cove,Pressure/Gravity,,,,,,,,,0
+Cold Bay,Pressure/Gravity,,,,,,,,,0
+Cooper Landing,Wells/ST/DF,,,,,,,,,0
+Copper Center,Wells/ST/DF,,,,,,,,,0
+Copperville,Wells/ST/DF,,,,,,,,,0
+Cordova,Pressure/Gravity,,,,,,,,,0
+Craig,Pressure/Gravity,0,0,0,0,0,0,0,0,0
+Crooked Creek,Washeteria,,,,,,,,,Yes
+Crown Point,Wells/ST/DF,,,,,,,,,0
+Deering,Closed Haul/Vacuum,,,,,,,,,0
+Delta Junction,Wells/ST/DF,,,,,,,,,0
+Dillingham,Pressure/Gravity,0,0,0,0,0,0,0,0,0
+Diomede,Washeteria,,,,,,,,,0
+Dot Lake,Circulating/Gravity,,,,,,,,,0
+Dry Creek,Watering Point,,,,,,,,,0
+Eagle,Watering Point,684,0,0,1176.5105885,0,0,0,0,0
+Eagle Village,Washeteria,,,,,,,,,0
+Eek,Circulating/Pressure,2032,6965,5671,42891,33405,42000,0,0,0
+Egegik,Pressure/Gravity,,,,,,,,,0
+Eklutna,Pressure/Gravity,,,,,,,,,0
+Ekwok,Wells/ST/DF,,,,,,,,,0
+Elfin Cove,Wells/ST/OF,,,,,,,,,0
+Elim,Circulating/Gravity,1854,9363,3139,78148,54777,144030,0,0,0
+Emmonak,Circulating/Vacuum,4952,18490,12086,446534,362954,150539,0,0,Yes
+Evansville,Wells/ST/DF,,,,,,,,,0
+False Pass,Wells/ST/DF,,,,,,,,,0
+Ferry,Wells/ST/DF,,,,,,,,,0
+Fort Yukon,Circulating/Gravity,,,,,,,,,0
+Fox,Watering Point,,,,,,,,,0
+Fox River,Wells/ST/DF,,,,,,,,,0
+Gakona,Wells/ST/DF,,,,,,,,,0
+Galena,Closed Haul/Closed Haul,,,,,,,,,Yes
+Gambell,Circulating/Gravity,4664,16307,14262,107513,79008,8719,0,0,0
+Game Creek,Watering Point,,,,,,,,,0
+Glennallen,Wells/ST/DF,,,,,,,,,0
+Golovin,Circulating/Gravity,,,,,,,,,0
+Goodnews Bay,Pressure/Gravity,2196,5024,477,20944,19980,22400,0,0,0
+Grayling,Circulating/Gravity,1536,6850,1747,91836,65099,397160,0,0,0
+Gulkana,Circulating/Gravity,,,,,,,,,0
+Gustavus,Wells/ST/DF,,,,,,,,,0
+Haines,Pressure/Gravity,0,6900,0,260000,0,0,0,0,0
+Halibut Cove,Watering Point,,,,,,,,,0
+Happy Valley,Pressure/Gravity,,,,,,,,,0
+Harding-Birch Lakes,Wells/ST/DF,,,,,,,,,0
+Healy Lake,Washeteria,,,,,,,,,0
+Hollis,None,,,,,,,,,0
+Holy Cross,Circulating/Gravity,704,5812,758,65948,56710,395681,0,0,0
+Hoonah,Pressure/Gravity,5880,2324.2357664234,0,163503.15649905,0,0,0,0,0
+Hooper Bay,Circulating/Vacuum,33890,43350,0,430807.87665,0,0,0,0,0
+Hope,Wells/ST/DF,,,,,,,,,0
+Hughes,Circulating/Pressure,,,,,,,,,Yes
+Huslia,Circulating/Gravity,4215,6614,1093,96387.418869,46357,285680,0,0,0
+Hydaburg,Pressure/Gravity,,,,,,,,,0
+Hyder,Wells/ST/DF,,,,,,,,,0
+Igiugig,Wells/ST/DF,,,,,,,,,Yes
+Iliamna,Wells/ST/DF,,,,,,,,,0
+Juneau,Pressure/Gravity,50231,100753.576642336,0,945058.50545,0,0,0,0,0
+Kachemak,Closed Haul/Closed Haul,,,,,,,,,0
+Kake,Pressure/Gravity,1200,876.7883211679,0,12463.7788396667,0,0,0,0,0
+Kaktovik,Circulating/Gravity,11320,0,0,532062.788522,0,0,0,0,0
+Kaltag,Circulating/Gravity,,,,,,,,,0
+Karluk,Pressure/Gravity,,,,,,,,,0
+Kasaan,Pressure/Gravity,,,,,,,,,0
+Kasigluk,Circulating/Pressure,,,,,,,,,0
+Kasilof,Wells/ST/DF,,,,,,,,,0
+Kenny Lake,Watering Point,,,,,,,,,0
+Kiana,Circulating/Gravity,,,,,,,,,0
+King Cove,Pressure/Gravity,,,,,,,,,0
+King Salmon,Pressure/Gravity,,,,,,,,,0
+Kipnuk,Washeteria,1760,0,0,0,0,153200,0,0,0
+Kivalina,Washeteria,,,,,,,,,0
+Klawock,Pressure/Gravity,,,,,,,,,0
+Klukwan,Pressure/Gravity,,,,,,,,,0
+Kobuk,Circulating/Gravity,,,,,,,,,0
+Kodiak,Pressure/Gravity,12100,16303.4452554745,0,491998.9279505,0,0,0,0,0
+Kokhanok,Pressure/Gravity,,,,,,,,,0
+Koliganek,Pressure/Gravity,,,,,,,,,0
+Kongiganak,Washeteria,8903,4581.9416058394,0,36182.826375,0,0,0,0,Yes
+Kotlik,Circulating/Vacuum,,,,,,,,,0
+Kotzebue,Circulating/Gravity,,,,,,,,,0
+Koyuk,Circulating/Gravity,2753,13303,3378,90964,69040,476935,0,0,0
+Koyukuk,Washeteria,1089,1811.3868613139,0,21248.191232,0,0,0,0,0
+Kwethluk,Circulating/Pressure,,,,,,,,,0
+Kwigillingok,Closed Haul/Closed Haul,,,,,,,,,Yes
+Lake Minchumina,Wells/ST/DF,,,,,,,,,0
+Larsen Bay,Pressure/Gravity,,,,,,,,,0
+Levelock,Pressure/Gravity,,,,,,,,,0
+Lime Village,Washeteria,,,,,,,,,0
+Livengood,Wells/ST/DF,,,,,,,,,0
+Lowell Point,None,,,,,,,,,0
+Lower Kalskag,Circulating/Gravity,1512,1946,179,71221,58232,13350,0,0,0
+Lutak,Wells/ST/DF,,,,,,,,,0
+Manley Hot Springs,Watering Point,0,0,0,0,0,0,0,0,0
+Manokotak,Pressure/Gravity,,,,,,,,,0
+Marshall,Circulating/Gravity,1560,6000,1457,96843,75377,80355,0,0,Yes
+Mccarthy,Pressure/Gravity,,,,,,,,,0
+Mcgrath,Circulating/Gravity,,,,,,,,,0
+Mckinley Park,Pressure/Gravity,,,,,,,,,0
+Mekoryuk,Closed Haul/Closed Haul,,,,,,,,,0
+Mendeltna,Closed Haul/Closed Haul,,,,,,,,,0
+Mentasta Lake,Wells/ST/DF,,,,,,,,,0
+Metlakatla,Pressure/Gravity,,,,,,,,,0
+Minto,Circulating/Gravity,,,,,,,,,Yes
+Moose Creek,Wells/ST/DF,,,,,,,,,0
+Moose Pass,Wells/ST/DF,,,,,,,,,0
+Mosquito Lake,Wells/ST/DF,,,,,,,,,0
+Mountain Village,Pressure/Gravity,,,,,,,,,0
+Naknek,Wells/ST/DF,3020,1877,1352,5494,5012,9366,0,0,0
+Nanwalek,Pressure/Gravity,,,,,,,,,0
+Napakiak,Closed Haul/Closed Haul,,,,,,,,,0
+Napaskiak,Closed Haul/Closed Haul,2961,9161,5839,55111,49028,17735,0,0,0
+Naukati Bay,None,,,,,,,,,0
+Nelson Lagoon,Pressure/NA,,,,,,,,,0
+Nenana,Circulating/Gravity,,,,,,,,,0
+New Stuyahok,Circulating/Gravity,,,,,,,,,0
+Newhalen,Circulating/Gravity,,,,,,,,,0
+Newtok,Washeteria,1568,0,0,22565.10793,9127,1500,0,0,Yes
+Nightmute,Closed Haul/Closed Haul,450,0,0,21148,10156,4905,0,0,0
+Nikolaevsk,Pressure/Gravity,,,,,,,,,0
+Nikolai,Wells/NA,,,,,,,,,0
+Nikolski,Pressure/NA,,,,,,,,,0
+Ninilchik,,,,,,,,,,0
+Noatak,Circulating/Gravity,,,,,,,,,0
+Nome,Circulating/Gravity,0,0,0,0,0,0,0,0,0
+Nondalton,Pressure/Gravity,,,,,,,,,0
+Noorvik,Circulating/Vacuum,,,,,,,,,0
+Northway,Closed Haul/Closed Haul,510,0,0,0,0,0,0,0,0
+Northway Junction,Wells/ST/DF,,,,,,,,,0
+Northway Village,Closed Haul/Closed Haul,,,,,,,,,0
+Nuiqsut,Circulating/Gravity,7566,0,0,535641.820733,0,0,0,0,0
+Nulato,Circulating/Gravity,6941,12506,10896,143068,85565,37100,0,0,0
+Nunam Iqua,Circulating/Vacuum,4620,3857,1928,149965,111853,28220,7550.7246376812,3611.8032786885,Yes
+Nunapitchuk,Closed Haul/Closed Haul,3270,7410,4684,33613,31010,16650,0,0,0
+Old Harbor,Pressure/Gravity,,,,,,,,,0
+Oscarville,Washeteria,,,,,,,,,0
+Ouzinkie,Pressure/Gravity,,,,,,,,,0
+Paxson,Wells/ST/DF,,,,,,,,,0
+Pedro Bay,Wells/ST/DF,,,,,,,,,0
+Pelican,Pressure/Gravity,,,,,,,,,0
+Perryville,Pressure/NA,,,,,,,,,0
+Petersburg,Pressure/Gravity,,,,,,,,,0
+Pilot Point,Pressure/Gravity,,,,,,,,,0
+Pilot Station,Circulating/Gravity,800,2687,1367,122398,71215,86637,0,0,0
+Pitkas Point,Circulating/Gravity,2160,5166,3356,79856,33046,38740,0,0,0
+Platinum,Washeteria,,,,,,,,,0
+Point Baker,Wells/ST/DF,,,,,,,,,0
+Point Hope,Circulating/Gravity,11647,0,0,189313.2038035,0,0,0,0,0
+Point Lay,Circulating/Gravity,7537,0,0,198494.2864325,0,0,0,0,0
+Port Alexander,,,,,,,,,,0
+Port Graham,Pressure/Gravity,,,,,,,,,0
+Port Heiden,Wells/NA,,,,,,,,,0
+Port Lions,Pressure/Gravity,1200,534.2627737226,0,13553.121977,0,0,0,0,0
+Port Protection,None,,,,,,,,,0
+Portage Creek,None,,,,,,,,,0
+Primrose,Wells/ST/DF,,,,,,,,,0
+Quinhagak,Circulating/Pressure,3072,4645.3401459854,0,88161.2934445,0,0,0,0,0
+Rampart,Washeteria,,,,,,,,,0
+Red Devil,Wells/NA,,,,,,,,,0
+Ruby,Washeteria,,,,,,,,,Yes
+Russian Mission,Circulating/Gravity,944,2340,457,33713,29762,5546,0,0,0
+Saint George,Pressure/Gravity,,,,,,,,,0
+Saint Mary'S,Circulating/Gravity,2160,2360.5839416058,0,38335.345015,0,0,0,0,0
+Saint Michael,Circulating/Vacuum,,,,,,,,,0
+Saint Paul,Pressure/Gravity,,,,,,,,,0
+Salamatof,Wells/ST/DF,,,,,,,,,0
+Sand Point,Pressure/Gravity,0,0,0,0,0,0,0,0,0
+Savoonga,Circulating/Vacuum,1722,9626,333,166485,158007,330630,0,0,0
+Saxman,Pressure/Gravity,,,,,,,,,0
+Scammon Bay,Circulating/Gravity,,,,,,,,,0
+Selawik,Circulating/Vacuum,6820,15595,9703.2733118971,734410,402276,508955,0,0,0
+Seldovia,Pressure/Gravity,,,,,,,,,0
+Shageluk,,,,,,,,,,0
+Shaktoolik,Circulating/ST/DF,4224,25029.6715328467,407,80988.362,37637,326222,0,0,0
+Shishmaref,Closed Haul/Closed Haul,,,,,,,,,0
+Shungnak,Circulating/Gravity,,,,,,,,,0
+Sitka,Pressure/Gravity,17100,11562.0437956204,0,474844.27356,0,0,0,0,0
+Skagway,Pressure/Gravity,7700,7665.6350364964,0,145441.30896,0,0,0,0,0
+Slana,Wells/ST/DF,,,,,,,,,0
+Sleetmute,Circulating/ST/DF,1386,4333.094890511,182,51103.2421575,21515,125700,0,0,0
+South Naknek,Pressure/Gravity,,,,,,,,,0
+Stebbins,Washeteria,,,,,,,,,0
+Stevens Village,Washeteria,,,,,,,,,Yes
+Stony River,Washeteria,,,,,,,,,0
+Takotna,Watering Point,,,,,,,,,0
+Tanacross,Circulating/Gravity,,,,,,,,,0
+Tanana,Circulating/Gravity,,,,,,,,,0
+Tatitlek,Pressure/Gravity,,,,,,,,,0
+Tazlina,Wells/ST/DF,,,,,,,,,0
+Teller,Washeteria,3039,7716,6981,35529,817,23100,0,0,0
+Tenakee Springs,Pressure/Gravity,,,,,,,,,0
+Tetlin,Closed Haul/Closed Haul,,,,,,,,,0
+Thorne Bay,Pressure/Gravity,,,,,,,,,0
+Togiak,Pressure/Gravity,,,,,,,,,0
+Tok,Circulating/Gravity,0,0,0,0,0,0,0,0,0
+Toksook Bay,Circulating/Gravity,354,2694,1918,109786,78413,14320,0,0,Yes
+Tonsina,Wells/ST/DF,,,,,,,,,0
+Trapper Creek,Wells/ST/DF,,,,,,,,,0
+Tuluksak,Washeteria,1800,6255,4012,34664,31954,20650,0,0,0
+Tuntutuliak,Closed Haul/Closed Haul,4480,14629.3284671533,1083,17702.547595,11146,311025,0,0,0
+Tununak,Washeteria,2048,2174,1815,37367,28294,29123,0,0,0
+Twin Hills,Pressure/Gravity,600,999,841,13723,5012,42667,0,0,0
+Two Rivers,Wells/ST/DF,,,,,,,,,0
+Tyonek,Pressure/Gravity,,,,,,,,,0
+Unalakleet,Circulating/Gravity,,,,,,,,,0
+Unalaska,Pressure/Gravity,,,,,,,,,0
+Upper Kalskag,Wells/Gravity,30,0,0,26700,8478,20200,0,0,0
+Valdez,Pressure/Gravity,0,0,0,0,0,0,0,0,0
+Venetie,Washeteria,,,,,,,,,0
+Voznesenka,Pressure/ST/DF,,,,,,,,,
+Wainwright,Circulating/Gravity,14501,0,0,262230.360052,0,0,0,0,0
+Wales,Washeteria,,,,,,,,,0
+Whale Pass,None,,,,,,,,,0
+White Mountain,Circulating/Gravity,,,,,,,,,0
+Whittier,Pressure/Gravity,,,,,,,,,0
+Wrangell,Pressure/Gravity,,,,,,,,,0
+Yakutat,Pressure/Gravity,0,0,0,0,0,0,0,0,0
