@@ -1,5 +1,5 @@
 # estimates based on work by ANTHC (clinic and office audits) CCHRC (analysis of ARIS data) Neil McMahon (Analysis of ARIS data),,,,,,,,,,,,
-,Av Gal/sf<300,"Av Gal/sf>300,<1200",Av Gal/sf>1200,Avg kWh/sf<300,"Avg kWh/sf>300,<1200",Avg kWh/sf>1200,Average sf<300,"Average sf>300,<1000",Average sf>1200,HDD<300,"HDD>300,<1200",HDD>1000
+#,Av Gal/sf<300,"Av Gal/sf>300,<1200",Av Gal/sf>1200,Avg kWh/sf<300,"Avg kWh/sf>300,<1200",Avg kWh/sf>1200,Average sf<300,"Average sf>300,<1000",Average sf>1200,HDD<300,"HDD>300,<1200",HDD>1000
 ,Gal/sf Low,Gal/sf Mid,Gal/sf High,kWh/sf Low,kWh/sf Mid,kWh/sf High,Sqft Low ,Sqft Mid,Sqft High,HDD Low,HDD Mid,HDD High
 Estimate units,Gal/sf,Gal/sf,Gal/sf,kWh/sf,kWh/sf,kWh/sf,Sqft,Sqft,Sqft,HDD,HDD,HDD
 Lower Limit,0,300,1200,0,300,1200,0,300,1000,0,300,1000
