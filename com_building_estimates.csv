@@ -1,5 +1,9 @@
-"# estimates based on work by ANTHC (clinic and office audits), CCHRC (analysis of ARIS data), Neil McMahon (Analysis of ARIS data)",,,,,,,,,,,,
-,Av Gal/sf<300,"Av Gal/sf>300,<1200",Av Gal/sf>1200,Avg kWh/sf<300,"Avg kWh/sf>300,<1200",Avg kWh/sf>1200,Average sf<300,"Average sf>300,<1000",Average sf>1200,HDD<300,"HDD>300,<1200",HDD>1000
+# estimates based on work by ANTHC (clinic and office audits) CCHRC (analysis of ARIS data) Neil McMahon (Analysis of ARIS data),,,,,,,,,,,,
+# estimates based on work by ANTHC (clinic and office audits) CCHRC (analysis of ARIS data) Neil McMahon (Analysis of ARIS data),Av Gal/sf<300,"Av Gal/sf>300,<1200",Av Gal/sf>1200,Avg kWh/sf<300,"Avg kWh/sf>300,<1200",Avg kWh/sf>1200,Average sf<300,"Average sf>300,<1000",Average sf>1200,HDD<300,"HDD>300,<1200",HDD>1000
+,Gal/sf Low,Gal/sf Mid,Gal/sf High,kWh/sf Low,kWh/sf Mid,kWh/sf High,Sqft Low ,Sqft Mid,Sqft High,HDD Low,HDD Mid,HDD High
+Estimate units,Gal/sf,Gal/sf,Gal/sf,kWh/sf,kWh/sf,kWh/sf,Sqft,Sqft,Sqft,HDD,HDD,HDD
+Lower Limit,0,300,1200,0,300,1200,0,300,1000,0,300,1000
+Upper Limit,299,1199,inf,299,1199,inf,299,999,inf,299,999,inf
 Accomodation Services,0.6264125039,1.0310267339,0.8287196189,7.3370927318,21.7992525158,14.5681726238,4770.8148148148,7260.0625,7259.6666666667,11648.0571428571,13700.1111111111,13700.1111111111
 Education - K - 12,0.847764444,0.7346311002,1.3215780646,6.4984138652,7.0807218182,8.7094987337,10668.4155555556,20928.2239572193,80660.6929824561,13118.2756756757,13433.1609756098,13433.1609756098
 Education - University,,,1.0972663905,,,11.916331699,,,20842.9090909091,,,10475.5
