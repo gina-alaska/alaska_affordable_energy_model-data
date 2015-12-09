@@ -1,5 +1,5 @@
 #source (Master list of Non-Res Building Inventory 11242015.xlsx),,,,,,, (gal),(gal HF Eq), (kWh),(ccf), (gal),(gal), (gal HF equiv), (kWh), (ccf), (gal),Dollars
-City,Data Source,Building,Building Type,Square Feet,Audited,Retrofits Done,Fuel Oil,HW District,Electric,Natural Gas,Propane,Fuel Oil,HW District,Electric,Natural Gas,Propane,implementation cost
+City,Data Source,Building,Building Type,Square Feet,Audited,Retrofits Done,Fuel Oil,HW District,Electric,Natural Gas,Propane,Fuel Oil Post,HW District Post,Electric Post,Natural Gas Post,Propane Post,implementation cost
 Adak,ARIS,SRE Building --2531000118*Central Region,Other,5000,,,2520.53,,,,,,,,,,
 Adak,End Use Study,City Shop,Other,8081,,,917,,8440,,,,,,,,
 Adak,ARIS,Maintenance Shop/SEF --2531000119*Central Region,Other,12000,,,3625.18,,30040.27036,,,,,,,,
