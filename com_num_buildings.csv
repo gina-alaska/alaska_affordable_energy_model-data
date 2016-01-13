@@ -1,4 +1,5 @@
 #Estimate of Buildings in Community,
+# from Draft 01122016,
 Community,Buildings
 Adak,42
 Akhiok,13
@@ -69,7 +70,7 @@ Goodnews Bay,19
 Grayling,17
 Gulkana,23
 Gustavus,38
-Haines,86
+Haines/Mud Bay,142
 Healy,73
 Hollis,18
 Holy Cross,20
@@ -126,7 +127,6 @@ Metlakatla,72
 Minto,19
 Mosquito Lake,24
 Mountain Village,49
-Mud Bay,32
 Naknek,47
 Napakiak,26
 Napaskiak,30
@@ -140,7 +140,7 @@ Nightmute,30
 Nikolai,16
 Nikolski,11
 Noatak,42
-Nome,158
+Nome,128
 Nondalton,17
 Noorvik,44
 Northway,34
@@ -151,7 +151,7 @@ Nulato,23
 Nunam Iqua,25
 Nunapitchuk,36
 Old Harbor,24
-Oscarville,18
+Oscarville,8
 Ouzinkie,22
 Pedro Bay,19
 Pelican,34
@@ -169,7 +169,7 @@ Port Alsworth,27
 Port Heiden,25
 Port Lions,29
 Port Protection,14
-Quinhagak,39
+Quinhagak,36
 Rampart,19
 Red Devil,20
 Ruby,18
@@ -184,7 +184,7 @@ Shaktoolik,25
 Shishmaref,36
 Shungnak,30
 Silver Springs,34
-Sitka,351
+Sitka,276
 Skagway,59
 Slana,16
 Sleetmute,16
@@ -216,7 +216,7 @@ Ugashik,21
 Unalakleet,45
 Unalaska,203
 Upper Kalskag,23
-Valdez,181
+Valdez,205
 Venetie,15
 Wainwright,42
 Wales,20
@@ -224,5 +224,5 @@ White Mountain,19
 Willow Creek,16
 Womens Bay,65
 Wrangell,106
-Yakutat,49
+Yakutat,84
 ,9819
