@@ -8,8 +8,8 @@ Model ID,Community,Energy Region,FIPS
 7,Nelson Lagoon,Aleutians,52940
 8,Nikolski,Aleutians,54260
 9,Sand Point,Aleutians,67020
-10,St. George,Aleutians,72230
-11,St. Paul,Aleutians,72230
+10,Saint George,Aleutians,72230
+11,Saint Paul,Aleutians,72230
 12,Unalaska,Aleutians,81320
 13,Brevig Mission,Bering Straits,8740
 14,Diomede,Bering Straits,19060
@@ -21,13 +21,13 @@ Model ID,Community,Energy Region,FIPS
 20,Savoonga,Bering Straits,67460
 21,Shaktoolik,Bering Straits,68890
 22,Shishmaref,Bering Straits,69770
-23,St. Michael,Bering Straits,72230
+23,Saint Michael,Bering Straits,72230
 24,Stebbins,Bering Straits,72960
 25,Teller,Bering Straits,75930
 26,Unalakleet,Bering Straits,80660
 27,Wales,Bering Straits,82860
 28,White Mountain,Bering Straits,84070
-29,Aleknagik,Bristol Bay,1420
+#it#29,Aleknagik,Bristol Bay,1420
 30,Chignik,Bristol Bay,13550
 31,Chignik Lagoon,Bristol Bay,13670
 32,Chignik Lake,Bristol Bay,13780
@@ -36,8 +36,8 @@ Model ID,Community,Energy Region,FIPS
 35,Egegik,Bristol Bay,21150
 36,Ekwok,Bristol Bay,21810
 37,Igiugig,Bristol Bay,34790
-38,Iliamna,Bristol Bay,35120
-39,King Salmon,Bristol Bay,39630
+#it#38,Iliamna,Bristol Bay,35120
+#it#39,King Salmon,Bristol Bay,39630
 40,Kokhanok,Bristol Bay,41280
 41,Koliganek,Bristol Bay,41500
 42,Levelock,Bristol Bay,43810
@@ -45,33 +45,33 @@ Model ID,Community,Energy Region,FIPS
 44,Naknek,Bristol Bay,52060
 45,New Stuyahok,Bristol Bay,53162
 46,Newhalen,Bristol Bay,53710
-47,Nondalton,Bristol Bay,55030
+#it#47,Nondalton,Bristol Bay,55030
 48,Pedro Bay,Bristol Bay,59540
 49,Perryville,Bristol Bay,60200
 50,Pilot Point,Bristol Bay,60640
 51,Port Alsworth,Bristol Bay,62125
 52,Port Heiden,Bristol Bay,62125
-53,South Naknek,Bristol Bay,72190
+#it#53,South Naknek,Bristol Bay,72190
 54,Togiak,Bristol Bay,77690
 55,Twin Hills,Bristol Bay,79780
-56,Chenega Bay,Copper River/Chugach,12970
-57,Chistochina,Copper River/Chugach,14000
+#56,Chenega Bay,Copper River/Chugach,12970 # key error? Just Chenega?
+#it#57,Chistochina,Copper River/Chugach,14000
 58,Chitina,Copper River/Chugach,14110
-59,Copper Center,Copper River/Chugach,17300
+###59,Copper Center,Copper River/Chugach,17300 # Glennallen intertie
 60,Cordova,Copper River/Chugach,17410
-61,Gakona,Copper River/Chugach,27420
-62,Glennallen,Copper River/Chugach,28740
-63,Gulkana,Copper River/Chugach,30500
-64,Kenny Lake,Copper River/Chugach,38910
+###61,Gakona,Copper River/Chugach,27420 # Glennallen intertie
+###62,Glennallen,Copper River/Chugach,28740 # no Sales Data see all ###
+###63,Gulkana,Copper River/Chugach,30500 # Glennallen intertie
+###64,Kenny Lake,Copper River/Chugach,38910 # Glennallen intertie
 65,McCarthy,Copper River/Chugach,45790
-66,Mendeltna,Copper River/Chugach,48200
-67,Mentasta Lake,Copper River/Chugach,48540
+###66,Mendeltna,Copper River/Chugach,48200
+#it#67,Mentasta Lake,Copper River/Chugach,48540
 68,Nelchina,Copper River/Chugach,52915
-69,Paxson,Copper River/Chugach,59320
+#69,Paxson,Copper River/Chugach,59320 #zero division res sales are zero
 70,Silver Springs,Copper River/Chugach,70320
 71,Slana,Copper River/Chugach,70930
 72,Tatitlek,Copper River/Chugach,75380
-73,Tazlina,Copper River/Chugach,75480
+###73,Tazlina,Copper River/Chugach,75480
 74,Tolsona,Copper River/Chugach,78297
 75,Tonsina,Copper River/Chugach,78350
 76,Valdez,Copper River/Chugach,82200
@@ -80,12 +80,12 @@ Model ID,Community,Energy Region,FIPS
 79,Chiniak,Kodiak,13860
 80,Karluk,Kodiak,37540
 81,Kodiak,Kodiak,40950
-82,Kodiak Station,Kodiak,41210
+#it#82,Kodiak Station,Kodiak,41210
 83,Larsen Bay,Kodiak,43040
 84,Old Harbor,Kodiak,57340
 85,Ouzinkie,Kodiak,58550
-86,Port Lions,Kodiak,62125
-87,Womens Bay,Kodiak,85680
+#it#86,Port Lions,Kodiak,62125
+#it#87,Womens Bay,Kodiak,85680
 88,Akiachak,Lower Yukon-Kuskokwim,760
 89,Akiak,Lower Yukon-Kuskokwim,870
 90,Alakanuk,Lower Yukon-Kuskokwim,1200
@@ -97,7 +97,7 @@ Model ID,Community,Energy Region,FIPS
 96,Chuathbaluk,Lower Yukon-Kuskokwim,14330
 97,Crooked Creek,Lower Yukon-Kuskokwim,17850
 98,Eek,Lower Yukon-Kuskokwim,21040
-99,Emmonak,Lower Yukon-Kuskokwim,22910
+#it#99,Emmonak,Lower Yukon-Kuskokwim,22910
 100,Goodnews Bay,Lower Yukon-Kuskokwim,29290
 101,Hooper Bay,Lower Yukon-Kuskokwim,33470
 102,Kasigluk,Lower Yukon-Kuskokwim,37975
@@ -107,32 +107,32 @@ Model ID,Community,Energy Region,FIPS
 106,Kwethluk,Lower Yukon-Kuskokwim,42380
 107,Kwigillingok,Lower Yukon-Kuskokwim,42490
 108,Lime Village,Lower Yukon-Kuskokwim,44030
-109,Lower Kalskag,Lower Yukon-Kuskokwim,45460
+#$#109,Lower Kalskag,Lower Yukon-Kuskokwim,45460 # Fixing Upper Kalskag should fix this
 110,Marshall,Lower Yukon-Kuskokwim,45700
 111,Mekoryuk,Lower Yukon-Kuskokwim,47990
 112,Mountain Village,Lower Yukon-Kuskokwim,51180
-113,Napakiak,Lower Yukon-Kuskokwim,52390
+#it#113,Napakiak,Lower Yukon-Kuskokwim,52390
 114,Napaskiak,Lower Yukon-Kuskokwim,52720
 115,Newtok,Lower Yukon-Kuskokwim,53820
-116,Nightmute,Lower Yukon-Kuskokwim,53930
+#it#116,Nightmute,Lower Yukon-Kuskokwim,53930
 117,Nunam Iqua,Lower Yukon-Kuskokwim,56600
-118,Nunapitchuk,Lower Yukon-Kuskokwim,56680
-119,Oscarville,Lower Yukon-Kuskokwim,58330
+#it#118,Nunapitchuk,Lower Yukon-Kuskokwim,56680
+#it#119,Oscarville,Lower Yukon-Kuskokwim,58330
 120,Pilot Station,Lower Yukon-Kuskokwim,60750
-121,Pitkas Point,Lower Yukon-Kuskokwim,60860
+#it#121,Pitkas Point,Lower Yukon-Kuskokwim,60860
 122,Platinum,Lower Yukon-Kuskokwim,61080
 123,Quinhagak,Lower Yukon-Kuskokwim,64600
 124,Red Devil,Lower Yukon-Kuskokwim,64930
 125,Russian Mission,Lower Yukon-Kuskokwim,65700
 126,Scammon Bay,Lower Yukon-Kuskokwim,67680
 127,Sleetmute,Lower Yukon-Kuskokwim,71090
-128,St. Mary's,Lower Yukon-Kuskokwim,72230
+128,Saint Mary's,Lower Yukon-Kuskokwim,72230
 129,Stony River,Lower Yukon-Kuskokwim,73400
 130,Toksook Bay,Lower Yukon-Kuskokwim,78240
 131,Tuluksak,Lower Yukon-Kuskokwim,78790
 132,Tuntutuliak,Lower Yukon-Kuskokwim,79120
-133,Tununak,Lower Yukon-Kuskokwim,79230
-134,Upper Kalskag,Lower Yukon-Kuskokwim,81320
+#it#133,Tununak,Lower Yukon-Kuskokwim,79230
+#$#134,Upper Kalskag,Lower Yukon-Kuskokwim,81320 #intertie # is this the same as Kalskag
 135,Anaktuvuk Pass,North Slope,2080
 136,Atqasuk,North Slope,4500
 137,Barrow,North Slope,5200
@@ -146,53 +146,53 @@ Model ID,Community,Energy Region,FIPS
 145,Deering,Northwest Arctic,18510
 146,Kiana,Northwest Arctic,39300
 147,Kivalina,Northwest Arctic,39960
-148,Kobuk,Northwest Arctic,40840
+#it#148,Kobuk,Northwest Arctic,40840
 149,Kotzebue,Northwest Arctic,41830
 150,Noatak,Northwest Arctic,54700
 151,Noorvik,Northwest Arctic,55140
 152,Selawik,Northwest Arctic,68230
 153,Shungnak,Northwest Arctic,70100
 154,Angoon,Southeast,3440
-155,Coffman Cove,Southeast,16360
-156,Covenant Life,Southeast,17670
+#it#155,Coffman Cove,Southeast,16360
+#it#156,Covenant Life,Southeast,17670
 157,Craig,Southeast,17740
 158,Edna Bay,Southeast,20970
 159,Elfin Cove,Southeast,22140
-160,Excursion Inlet,Southeast,23900
+#it#160,Excursion Inlet,Southeast,23900
 161,Game Creek,Southeast,27700
 162,Gustavus,Southeast,30940
 163,Haines,Southeast,31050
 164,Hobart Bay,Southeast,32550
-165,Hollis,Southeast,32810
+#it#165,Hollis,Southeast,32810
 166,Hoonah,Southeast,33360
-167,Hydaburg,Southeast,34460
+#it#167,Hydaburg,Southeast,34460
 168,Hyder,Southeast,34570
 169,Juneau,Southeast,36400
 170,Kake,Southeast,36770
-171,Kasaan,Southeast,37650
-172,Ketchikan,Southeast,38970
-173,Klawock,Southeast,40400
-174,Klukwan,Southeast,40510
-175,Kupreanof,Southeast,42160
-176,Lutak,Southeast,45700
+#it#171,Kasaan,Southeast,37650
+172,Ketchikan,Southeast,38970 #intertie issue #Loring dosn't seem to exist 
+#it#173,Klawock,Southeast,40400
+#it#174,Klukwan,Southeast,40510
+#it#175,Kupreanof,Southeast,42160
+#it#176,Lutak,Southeast,45700
 177,Metlakatla,Southeast,48870
-178,Mosquito Lake,Southeast,50800
-179,Mud Bay,Southeast,51455
+#it#178,Mosquito Lake,Southeast,50800
+#it#179,Mud Bay,Southeast,51455
 180,Naukati Bay,Southeast,52845
 181,Pelican,Southeast,59650
-182,Petersburg,Southeast,60310
+#it#182,Petersburg,Southeast,60310
 183,Point Baker,Southeast,61190
 184,Port Alexander,Southeast,62125
 185,Port Protection,Southeast,62125
-186,Saxman,Southeast,67570
+#it#186,Saxman,Southeast,67570
 187,Sitka,Southeast,70540
 188,Skagway,Southeast,70760
 189,Tenakee Springs,Southeast,76260
-190,Thorne Bay,Southeast,77140
+#it#190,Thorne Bay,Southeast,77140
 191,Whale Pass,Southeast,84000
-192,Wrangell,Southeast,86380
+#it#192,Wrangell,Southeast,86380
 193,Yakutat,Southeast,86490
-194,Alatna,Yukon-Koyukuk/Upper Tanana,1305
+#it#194,Alatna,Yukon-Koyukuk/Upper Tanana,1305
 195,Alcan Border,Yukon-Koyukuk/Upper Tanana,1390
 196,Allakaket,Yukon-Koyukuk/Upper Tanana,1860
 197,Anvik,Yukon-Koyukuk/Upper Tanana,3880
@@ -205,12 +205,12 @@ Model ID,Community,Energy Region,FIPS
 204,Chicken,Yukon-Koyukuk/Upper Tanana,13450
 205,Circle,Yukon-Koyukuk/Upper Tanana,14880
 206,Coldfoot,Yukon-Koyukuk/Upper Tanana,16630
-207,Dot Lake,Yukon-Koyukuk/Upper Tanana,19720
-208,Dot Lake Village,Yukon-Koyukuk/Upper Tanana,19750
+#it#207,Dot Lake,Yukon-Koyukuk/Upper Tanana,19720
+#it#208,Dot Lake Village,Yukon-Koyukuk/Upper Tanana,19750
 209,Dry Creek,Yukon-Koyukuk/Upper Tanana,20020
 210,Eagle,Yukon-Koyukuk/Upper Tanana,20380
-211,Eagle Village,Yukon-Koyukuk/Upper Tanana,20600
-212,Evansville,Yukon-Koyukuk/Upper Tanana,23790
+#it#211,Eagle Village,Yukon-Koyukuk/Upper Tanana,20600
+#it#212,Evansville,Yukon-Koyukuk/Upper Tanana,23790
 213,Fort Yukon,Yukon-Koyukuk/Upper Tanana,26760
 214,Galena,Yukon-Koyukuk/Upper Tanana,27530
 215,Grayling,Yukon-Koyukuk/Upper Tanana,30060
@@ -228,17 +228,17 @@ Model ID,Community,Energy Region,FIPS
 227,New Allakaket,Yukon-Koyukuk/Upper Tanana,53162
 228,Nikolai,Yukon-Koyukuk/Upper Tanana,54150
 229,Northway,Yukon-Koyukuk/Upper Tanana,56220
-230,Northway Junction,Yukon-Koyukuk/Upper Tanana,56250
-231,Northway Village,Yukon-Koyukuk/Upper Tanana,56260
+#it#230,Northway Junction,Yukon-Koyukuk/Upper Tanana,56250
+#it#231,Northway Village,Yukon-Koyukuk/Upper Tanana,56260
 232,Nulato,Yukon-Koyukuk/Upper Tanana,56350
 233,Rampart,Yukon-Koyukuk/Upper Tanana,64820
 234,Ruby,Yukon-Koyukuk/Upper Tanana,65590
 235,Shageluk,Yukon-Koyukuk/Upper Tanana,68670
 236,Stevens Village,Yukon-Koyukuk/Upper Tanana,73290
 237,Takotna,Yukon-Koyukuk/Upper Tanana,74610
-238,Tanacross,Yukon-Koyukuk/Upper Tanana,75050
+#it#238,Tanacross,Yukon-Koyukuk/Upper Tanana,75050
 239,Tanana,Yukon-Koyukuk/Upper Tanana,75160
-240,Tetlin,Yukon-Koyukuk/Upper Tanana,76590
+#it#240,Tetlin,Yukon-Koyukuk/Upper Tanana,76590
 241,Tok,Yukon-Koyukuk/Upper Tanana,77800
 242,Venetie,Yukon-Koyukuk/Upper Tanana,82420
 243,Wiseman,Yukon-Koyukuk/Upper Tanana,85610
