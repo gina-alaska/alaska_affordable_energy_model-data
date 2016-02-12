@@ -1,5 +1,0 @@
-v 0.1.0
-  initial release
-v 0.1.1
-  updated pipulations.csv with all regions
-  added community list
