@@ -6,7 +6,9 @@ Akiak,13105
 Akutan,8554
 Alakanuk,13339
 Alatna,16625
+Alcan Border,15763
 Aleknagik,11751
+Aleneva,8539
 Allakaket,16625
 Ambler,15675
 Anaktuvuk Pass,18873
@@ -44,6 +46,7 @@ Chevak,13339
 Chickaloon,11790
 Chicken,14891
 Chignik,9612
+Chignik Lagoon,9612
 Chignik Lake,9612
 Chiniak,8539
 Chistochina,13534
@@ -74,13 +77,13 @@ Dry Creek,14829
 Dutch Harbor,9197
 Eagle,14891
 Eagle River,10816
+Edna Bay,7084
 Eek,11548
 Egegik,11836
 Ekwok,11306
 Elfin Cove,8140
 Elim,13943
 Emmonak,13467
-Nanwalek,10136
 Ester,14274
 Evansville,15788
 Eyak,9778
@@ -90,6 +93,7 @@ Fort Yukon,16326
 Gakona,13534
 Galena,14847
 Gambell,14572
+Game Creek,9105
 Girdwood,10336
 Glenallen,14067
 Golovin,13943
@@ -100,6 +104,8 @@ Gustavus,8858
 Haines,8505
 Halibut Cove,10349
 Healy,12582
+Healy Lake,14274
+Hobart Bay,8450
 Hollis,7802
 Holy Cross,13462
 Homer,10349
@@ -148,9 +154,11 @@ Koyukuk,14371
 Kupreanof,8134
 Kwethluk,13106
 Kwigillingok,12990
+Lake Minchumina,15214
 Larsen Bay,9065
 Levelock,11306
 Lime Village,13339
+Livengood,15528
 Lower Kalskag,13382
 Manley Hot Springs,14593
 Manokotak,11306
@@ -158,6 +166,7 @@ Marshall,12785
 McCarthy,13053
 McGrath,14574
 Mekoryok,13575
+Mekoryuk,13575
 Mentasta Lake,15400
 Metlakatla,7000
 Meyers Chuck,7165
@@ -166,12 +175,16 @@ Minto,15528
 Moose Pass,11126
 Mountain Village,13448
 Naknek,11716
+Nanwalek,10136
 Napaimute,13356
 Napakiak,13106
 Napaskiak,13106
 Naukati,7084
+Naukati Bay,7084
+Nelchina,14067
 Nelson Lagoon,8865
 Nenana,14539
+New Allakaket,16625
 New Stuyahok,11306
 Newhalen,11130
 Newtok,13048
@@ -189,8 +202,8 @@ North Pole,15403
 Northway,15763
 Nuiqsut,20370
 Nulato,14371
+Nunam Iqua,13467
 Nunapitchuk,13106
-Nunum Iqua,13467
 Old Harbor,8614
 Oscarville,13106
 Ouzinkie,8539
@@ -235,6 +248,7 @@ Shaktoolik,13919
 Shemya,9555
 Shishmaref,15790
 Shungnak,15586
+Silver Springs,14101
 Sitka,8011
 Skagway,8666
 Skwentna,11873
@@ -260,6 +274,7 @@ Thorne Bay,7802
 Togiak,11306
 Tok,15400
 Toksook Bay,12990
+Tolsona,14067
 Tonsina,13928
 Trapper Creek,11863
 Tuluksak,13106
