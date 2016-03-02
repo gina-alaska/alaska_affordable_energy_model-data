@@ -15,7 +15,7 @@
     1. Copy from source file Assumptions tab into a two-column file (region,premium) called heating_fuel_premium.csv
 
 ### Source File
-  * Description: Heating Fuel Price Adder for Alaska regions: Based on average of 2011-2013 PCE Diesel and AHFC/DCRA Heating Oil (Neil McMahon)
+  * Description: Manley Hot Springs Model Draft.  The Assumptions tab contains needed information. Heating Fuel Price Adder for Alaska regions: Based on average of 2011-2013 PCE Diesel and AHFC/DCRA Heating Oil (Neil McMahon)
   * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 11022015.xlsm
   * Date: 11/02/2015
   * Contact Name: Neil McMahon
