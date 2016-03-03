@@ -25,6 +25,7 @@
       - Ketchikan,Yes,Petersburg,Wrangell,Saxman,Kupreanof,,,#Loring
       - Saint Mary's,Yes,Pitkas Point,,,,,,#Andreafsky
       - +#Skagway,Yes,Haines,,,,,,
+      - Glennallen,Yes,Gakona,Gulkana,Copper Center,Kenny Lake,Mendeltna,Tazlina,#Sheep Mountain
 
 ### Source File
   * Description: List of intertied communities, identifying the community with the power generation and the other communities on the intertie. Neil McMahon suggests this data can be cross-checked  against the power house data in the energy statistics
