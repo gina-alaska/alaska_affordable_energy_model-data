@@ -14,6 +14,7 @@
   * Processing Steps
     1. Export HDD.xlsx to hdd.csv
       * Description: Export first two columns of HDD tab in HDD.xlsx file into .csv format used in python AAEM model. Save as hdd.csv.
+    2. Check spelling on glennallen (source file had spelling as Glenallen)
 
 ### Source File
   * Description: Excel spreadsheet containing heating degree days per year for Alaskan communities.
