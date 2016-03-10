@@ -16,7 +16,7 @@
       * Years (year) [2015 - 2076]
   * Processing Steps
     1. Export Diesel Fuel Prices tab from source file. Make sure to have enough digits & dollar signs removed.
-    2. Remove all headers but the one that begins with ID.
+    2. Remove all headers but the one that begins with ID. Make sure the ID column is all on one line (not split between Rural (0) and Urban(1)).
 
 ### Source File
   * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
