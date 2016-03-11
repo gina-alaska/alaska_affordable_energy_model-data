@@ -21,7 +21,9 @@
   * Processing Steps
     1. Export Interties tab in source file to interties.csv.
     2. Remove Napaskiak from Bethel intertie.
-    3. Remove communities that do not work with current model.
+    3. Remove double entry for Unalaska.
+    4. Add New Allakaket to intertie with Allakaket and Alatna.
+    5. Remove communities that do not work with current model.
       - Ketchikan,Yes,Petersburg,Wrangell,Saxman,Kupreanof,,,#Loring
       - Saint Mary's,Yes,Pitkas Point,,,,,,#Andreafsky
       - +#Skagway,Yes,Haines,,,,,,
