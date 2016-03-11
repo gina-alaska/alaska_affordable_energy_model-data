@@ -1,5 +1,12 @@
 #Change Log
 
+## [0.4.0]
+### added
+- readmes for data files
+
+### changed
+- orgaized files
+
 ## [0.3.0]
 ### changed
 - now traking this file
