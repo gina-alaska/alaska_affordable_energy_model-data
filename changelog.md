@@ -1,5 +1,14 @@
 #Change Log
 
+## [0.5.0]
+### changed
+- updated pce data through 2013
+- added New Allakaket to Alllakaket intertie
+- added propane priceestimates for 2016
+
+###
+- removed dupicate Unalaska interie
+
 ## [0.4.0]
 ### added
 - readmes for data files
