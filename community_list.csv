@@ -57,21 +57,21 @@ Model ID,Community,Energy Region,FIPS
 #56,Chenega Bay,Copper River/Chugach,12970 # key error? Just Chenega?
 57,Chistochina,Copper River/Chugach,14000
 58,Chitina,Copper River/Chugach,14110
-###59,Copper Center,Copper River/Chugach,17300 # Glennallen intertie
+59,Copper Center,Copper River/Chugach,17300 # Glennallen intertie
 60,Cordova,Copper River/Chugach,17410
-###61,Gakona,Copper River/Chugach,27420 # Glennallen intertie
-###62,Glennallen,Copper River/Chugach,28740 # no Sales Data see all ###
-###63,Gulkana,Copper River/Chugach,30500 # Glennallen intertie
-###64,Kenny Lake,Copper River/Chugach,38910 # Glennallen intertie
+61,Gakona,Copper River/Chugach,27420 # Glennallen intertie
+62,Glennallen,Copper River/Chugach,28740 # no Sales Data see all 
+63,Gulkana,Copper River/Chugach,30500 # Glennallen intertie
+64,Kenny Lake,Copper River/Chugach,38910 # Glennallen intertie
 65,McCarthy,Copper River/Chugach,45790
-###66,Mendeltna,Copper River/Chugach,48200
+66,Mendeltna,Copper River/Chugach,48200
 67,Mentasta Lake,Copper River/Chugach,48540
 68,Nelchina,Copper River/Chugach,52915
 #69,Paxson,Copper River/Chugach,59320 #zero division res sales are zero
 70,Silver Springs,Copper River/Chugach,70320
 71,Slana,Copper River/Chugach,70930
 72,Tatitlek,Copper River/Chugach,75380
-###73,Tazlina,Copper River/Chugach,75480
+73,Tazlina,Copper River/Chugach,75480
 74,Tolsona,Copper River/Chugach,78297
 75,Tonsina,Copper River/Chugach,78350
 76,Valdez,Copper River/Chugach,82200

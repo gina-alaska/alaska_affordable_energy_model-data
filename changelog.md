@@ -1,10 +1,16 @@
 #Change Log
 
+## [0.5.1]
+### changed
+- reinstated Copper River interties communities (interie is listed as Glennallen_intertie)
+
 ## [0.5.0]
 ### changed
 - updated pce data through 2013
 - added New Allakaket to Alllakaket intertie
-- added propane priceestimates for 2016
+
+### added
+- added propane price estimates for 2016
 
 ###
 - removed dupicate Unalaska interie
