@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.5.2]
+### added
+- added biomass prices
+
 ## [0.5.1]
 ### changed
 - reinstated Copper River interties communities (interie is listed as Glennallen_intertie)
@@ -7,7 +11,7 @@
 ## [0.5.0]
 ### changed
 - updated pce data through 2013
-- added New Allakaket to Alllakaket intertie
+- added New Allakaket to Allakaket intertie
 
 ### added
 - added propane price estimates for 2016
