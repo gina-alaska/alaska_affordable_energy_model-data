@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.6.0]
+### changed
+- version update to keep inline with code
+
 ## [0.5.2]
 ### added
 - added biomass prices
