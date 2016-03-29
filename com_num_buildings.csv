@@ -5,19 +5,19 @@ Akiachak,42
 Akiak,35
 Akutan,21
 Alakanuk,33
-Alatna,7
 Aleknagik,24
-Allakaket,13
+Alatna,7
+Allakaket,14
 Ambler,20
 Anaktuvuk Pass,46
-Angoon,28
+Angoon,35
 Aniak,53
 Anvik,20
 Arctic Village,16
 Atka,25
 Atmautluak,26
 Atqasuk,33
-Barrow,195
+Barrow,395
 Beaver,14
 Bethel,260
 Bettles,14
@@ -25,9 +25,9 @@ Birch Creek,11
 Brevig Mission,26
 Buckland,15
 Central,21
-Chalkyitsik,16
+Chalkyitsik,18
 Chefornak,19
-Chenega,19
+Chenega Bay,19
 Chevak,37
 Chignik,37
 Chignik Lagoon,29
@@ -37,12 +37,12 @@ Chitina,21
 Chuathbaluk,24
 Circle,19
 Clark's Point,35
-Coffman Cove,31
+Coffman Cove,32
 Cold Bay,38
 Copper Center,28
 Cordova,117
 Covenant Life,16
-Craig,89
+Craig,93
 Crooked Creek,18
 Deering,15
 Dillingham,111
@@ -59,7 +59,7 @@ Elim,34
 Emmonak,48
 Evansville,13
 Excursion Inlet,7
-False Pass,18
+False Pass,28
 Fort Yukon,62
 Gakona,43
 Galena,81
@@ -70,7 +70,7 @@ Goodnews Bay,17
 Grayling,22
 Gulkana,23
 Gustavus,38
-Haines/Mud Bay,142
+Haines,142
 Healy,73
 Hollis,18
 Holy Cross,31
@@ -82,11 +82,11 @@ Hydaburg,30
 Hyder,13
 Igiugig,30
 Iliamna,62
-Juneau,1221
-Kake,6
+Juneau,1163
+Kake,26
 Kaktovik,36
 Kaltag,18
-Karluk,11
+Karluk,13
 Kasaan,20
 Kasigluk,38
 Kenny Lake,42
@@ -103,11 +103,11 @@ Kodiak,251
 Kodiak Station,67
 Kokhanok,19
 Koliganek,32
-Kongiganak,30
+Kongiganak,32
 Kotlik,38
 Kotzebue,145
-Koyuk,24
-Koyukuk,13
+Koyuk,25
+Koyukuk,18
 Kupreanof,16
 Kwethluk,45
 Kwigillingok,28
@@ -129,6 +129,7 @@ Metlakatla,55
 Minto,16
 Mosquito Lake,24
 Mountain Village,33
+Mud Bay,32
 Naknek,40
 Napakiak,22
 Napaskiak,31
@@ -145,7 +146,7 @@ Noatak,25
 Nome,164
 Nondalton,17
 Noorvik,19
-Northway,6
+Northway,19
 Northway Junction,6
 Northway Village,6
 Nuiqsut,36
@@ -156,12 +157,12 @@ Old Harbor,39
 Oscarville,8
 Ouzinkie,31
 Pedro Bay,19
-Pelican,12
+Pelican,41
 Perryville,21
 Petersburg,131
 Pilot Point,17
 Pilot Station,27
-Pitkas Point,9
+Pitkas Point,11
 Platinum,19
 Point Baker,10
 Point Hope,38
@@ -173,16 +174,20 @@ Port Lions,30
 Port Protection,14
 Quinhagak,36
 Rampart,16
-Red Devil,9
+Red Devil,10
 Ruby,30
 Russian Mission,35
+Saint George,14
+Saint Mary's,56
+Saint Michael,24
+Saint Paul,20
 Sand Point,55
 Savoonga,37
 Saxman,16
 Scammon Bay,37
 Selawik,335
 Shageluk,29
-Shaktoolik,16
+Shaktoolik,24
 Shishmaref,51
 Shungnak,27
 Silver Springs,34
@@ -191,14 +196,10 @@ Skagway,59
 Slana,16
 Sleetmute,16
 South Naknek,40
-St. George,14
-St. Mary's,56
-St. Michael,21
-St. Paul,20
 Stebbins,19
-Stevens Village,10
+Stevens Village,11
 Stony River,22
-Takotna,18
+Takotna,21
 Tanacross,23
 Tanana,28
 Tatitlek,17
@@ -213,9 +214,9 @@ Toksook Bay,39
 Tuluksak,15
 Tuntutuliak,14
 Tununak,22
-Twin Hills,16
+Twin Hills,19
 Ugashik,21
-Unalakleet,45
+Unalakleet,46
 Unalaska,203
 Upper Kalskag,23
 Valdez,206
@@ -226,5 +227,4 @@ White Mountain,22
 Willow Creek,16
 Womens Bay,65
 Wrangell,106
-Yakutat,84
-,9819
+Yakutat,91
