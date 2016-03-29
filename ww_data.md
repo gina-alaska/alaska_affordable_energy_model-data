@@ -23,6 +23,7 @@
   * Processing Steps
     1. Export columns A:K from the Water & Sewer Data tab into ww_data.csv. Do not include the W&WW types in columns O:P.
     2. Change HR Installed (Yes,No) to TRUE (when YES) and FALSE (when 0). Modify header to be HR Installed.
+    3. Fix typo (Saint Mary'S -> Saint Mary's) 
 
 ### Source File
   * Description: Manley Hot Springs Model Draft.  The Water & Sewer tab contains needed information. Neil McMahon notes "I've included data for heat recovery as a column on w&ww the data page.  There are also more communities with identified system types.  For now, unless we get better info at a later date, I have categorized the 15 or so different w&ww types into the five categories already defined, with an additional category of "N/A"."
