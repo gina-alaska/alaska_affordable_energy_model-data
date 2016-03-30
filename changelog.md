@@ -1,5 +1,13 @@
 #Change Log
 
+## [0.7.0]
+### changed
+- updated some w&ww records
+- updated building count
+
+## added
+- gnis id to comunity list
+
 ## [0.6.0]
 ### changed
 - version update to keep inline with code
