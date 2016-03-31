@@ -2,8 +2,11 @@
 
 ## [0.7.2]
 ### fixed
-- GNIS id's are corrected, really
+- GNIS & FIPS id's are corrected
 
+## [0.7.2]
+### fixed
+- GNIS id's are corrected, really
 
 ## [0.7.1]
 ### fixed

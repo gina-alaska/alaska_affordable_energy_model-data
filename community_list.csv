@@ -127,9 +127,9 @@ Model ID,Community,Energy Region,GNIS,FIPS
 223,Livengood,Yukon-Koyukuk/Upper Tanana,1405579,44580
 #$#109 # Fixing Upper Kalskag should fix this,Lower Kalskag,Lower Yukon-Kuskokwim,1405763,45460
 176,Lutak,Southeast,1866960,45700
-224,Manley Hot Springs,Yukon-Koyukuk/Upper Tanana,1866960,45700
-43,Manokotak,Bristol Bay,1866960,45700
-110,Marshall,Lower Yukon-Kuskokwim,1866960,45700
+224,Manley Hot Springs,Yukon-Koyukuk/Upper Tanana,1405922,46780
+43,Manokotak,Bristol Bay,1405927,46890
+110,Marshall,Lower Yukon-Kuskokwim,1405984,47000
 65,McCarthy,Copper River/Chugach,1406098,45790
 225,McGrath,Yukon-Koyukuk/Upper Tanana,1406131,46010
 111,Mekoryuk,Lower Yukon-Kuskokwim,1406211,47990
@@ -147,8 +147,8 @@ Model ID,Community,Energy Region,GNIS,FIPS
 68,Nelchina,Copper River/Chugach,1865559,52915
 7,Nelson Lagoon,Aleutians,1418948,52940
 227,New Allakaket,Yukon-Koyukuk/Upper Tanana,2419536,53162
-45,New Stuyahok,Bristol Bay,2419536,53162
-46,Newhalen,Bristol Bay,1406972,53710
+45,New Stuyahok,Bristol Bay,1406972,53710
+46,Newhalen,Bristol Bay,1406978,53270
 115,Newtok,Lower Yukon-Kuskokwim,1406985,53820
 116,Nightmute,Lower Yukon-Kuskokwim,1407008,53930
 228,Nikolai,Yukon-Koyukuk/Upper Tanana,1407022,54150
@@ -179,20 +179,20 @@ Model ID,Community,Energy Region,GNIS,FIPS
 183,Point Baker,Southeast,1424323,61190
 140,Point Hope,North Slope,1408110,61630
 141,Point Lay,North Slope,1408115,61700
-184,Port Alexander,Southeast,2419181,62125
-51,Port Alsworth,Bristol Bay,2419181,62125
-52,Port Heiden,Bristol Bay,2419181,62125
-86,Port Lions,Kodiak,2419181,62125
-185,Port Protection,Southeast,2419181,62125
+184,Port Alexander,Southeast,1424551,62510
+51,Port Alsworth,Bristol Bay,1408208,62620
+52,Port Heiden,Bristol Bay,1419072,63390
+86,Port Lions,Kodiak,1408218,63610
+185,Port Protection,Southeast,1866970,63870
 123,Quinhagak,Lower Yukon-Kuskokwim,1408462,64600
 233,Rampart,Yukon-Koyukuk/Upper Tanana,1408519,64820
 124,Red Devil,Lower Yukon-Kuskokwim,1408580,64930
 234,Ruby,Yukon-Koyukuk/Upper Tanana,1408878,65590
 125,Russian Mission,Lower Yukon-Kuskokwim,1408925,65700
-10,Saint George,Aleutians,2582717,72230
-128,Saint Mary's,Lower Yukon-Kuskokwim,2582717,72230
-23,Saint Michael,Bering Straits,2582717,72230
-11,Saint Paul,Aleutians,2582717,72230
+10,Saint George,Aleutians,1419161,65800
+128,Saint Mary's,Lower Yukon-Kuskokwim,1398261,66140
+23,Saint Michael,Bering Straits,1408977,66360
+11,Saint Paul,Aleutians,1419163,66470
 9,Sand Point,Aleutians,1419182,67020
 20,Savoonga,Bering Straits,1409106,67460
 186,Saxman,Southeast,1414511,67570
@@ -230,8 +230,8 @@ Model ID,Community,Energy Region,GNIS,FIPS
 133,Tununak,Lower Yukon-Kuskokwim,1410644,79230
 55,Twin Hills,Bristol Bay,1416737,79780
 26,Unalakleet,Bering Straits,1411517,80660
-12,Unalaska,Aleutians,1419424,81320
-#$#134 #intertie # is this the same as Kalskag,Upper Kalskag,Lower Yukon-Kuskokwim,1419424,81320
+12,Unalaska,Aleutians,1419424,80770
+#$#134 #intertie # is this the same as Kalskag,Upper Kalskag,Lower Yukon-Kuskokwim,1419424,80770
 76,Valdez,Copper River/Chugach,1412465,82200
 242,Venetie,Yukon-Koyukuk/Upper Tanana,1411644,82420
 142,Wainwright,North Slope,1411728,82750
