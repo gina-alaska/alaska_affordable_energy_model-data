@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.7.1]
+### fixed
+- GNIS id's are corrected
+
 ## [0.7.0]
 ### changed
 - updated some w&ww records
