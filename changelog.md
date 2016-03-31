@@ -1,5 +1,10 @@
 #Change Log
 
+## [0.7.2]
+### fixed
+- GNIS id's are corrected, really
+
+
 ## [0.7.1]
 ### fixed
 - GNIS id's are corrected
