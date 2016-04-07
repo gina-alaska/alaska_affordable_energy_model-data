@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.8.0]
+### changed
+- version update
+
 ## [0.7.2]
 ### fixed
 - GNIS & FIPS id's are corrected
