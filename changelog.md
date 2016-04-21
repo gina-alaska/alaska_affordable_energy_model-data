@@ -1,6 +1,10 @@
 #Change Log
 
-## [0.8.0]
+## [0.9.1]
+### added
+- generation limits data
+
+## [0.8.1]
 ### changed
 - added communites to copper valley intertie
 
