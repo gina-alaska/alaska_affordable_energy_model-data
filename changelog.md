@@ -2,6 +2,10 @@
 
 ## [0.8.0]
 ### changed
+- added communites to copper valley intertie
+
+## [0.8.0]
+### changed
 - version update
 
 ## [0.7.2]
