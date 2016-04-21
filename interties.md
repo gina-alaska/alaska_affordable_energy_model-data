@@ -18,6 +18,14 @@
       * Other Community on Intertie [unitless] (child community)
       * Other Community on Intertie [unitless] (child community)
       * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
+      * Other Community on Intertie [unitless] (child community)
   * Processing Steps
     1. Export Interties tab in source file to interties.csv.
     2. Remove Napaskiak from Bethel intertie.
@@ -28,7 +36,10 @@
       - Saint Mary's,Yes,Pitkas Point,,,,,,#Andreafsky
       - +#Skagway,Yes,Haines,,,,,,
       - Glennallen,Yes,Gakona,Gulkana,Copper Center,Kenny Lake,Mendeltna,Tazlina,#Sheep Mountain
-
+    6. update Glennallen (copper valley) intertie (2015-04-21)
+      - added Nelchina, Silver Springs, Tolsona, Tonsina, Copperville, Nabesna, Nelchina, Willow Creek
+      - added header columns to support theses in prerpocessor
+    
 ### Source File
   * Description: List of intertied communities, identifying the community with the power generation and the other communities on the intertie. Neil McMahon suggests this data can be cross-checked  against the power house data in the energy statistics
   * Filename: Intertie Communities.xlsx
