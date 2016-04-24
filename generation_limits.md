@@ -10,9 +10,11 @@
     * First line: Header
     * Column Name [units] (Column Name)
       * Community [unitless] 
+      * Project Name [unitless]
       * Resource Type [unitless]
-      * Sum of Capacity (kW) [kW]
-      * Sum of Average Annual Generation (kWh) [kWh]
+      * Resource Sub-type [unitless]
+      * Capacity (kW) [kW]
+      * Average Annual Generation (kWh) [kWh]
   * Processing Steps
     1. export RE Capacity For Model tab of 'RE Capacity For Model.xlsx'
     2. rename 'row labels' column to 'community'

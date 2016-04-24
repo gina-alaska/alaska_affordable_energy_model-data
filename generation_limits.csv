@@ -1,52 +1,80 @@
-Community,Resource Type,Sum of Capacity (kW),Sum of Average Annual Generation (kWh)
-Akutan,Hydro,105,312652
-Atka,Hydro,284,443142
-Chevak,Wind,400,1103760
-Chignik Bay,Hydro,60,300000
-Chignik Lagoon,Hydro,167,521200
-Cordova,Hydro,7250,19482939
-Emmonak,Wind,400,699206
-Gambell,Wind,300,1103760
-Glennallen-Valdez,Hydro,18500,60056617
-Gustavus,Hydro,800,1939011
-Haines/Skagway,Hydro,8828,27365632
-Hoonah,Hydro,450,1810000
-Hooper Bay,Wind,300,814680
-Iliamna,Hydro,824,4048161
-Juneau,Hydro,106600,430000000
-Kasigluk,Wind,300,840960
-King Cove,Hydro,800,1997981
-Kodiak,Hydro,34000,135000000
-Kodiak,Wind,9000,26017200
-Kokhanok,Wind,180,531381.6
-Kongiganak,Wind,475,1019445
-Kotzebue,Wind,1800,4478112
-Kwigillingok,Wind,475,4173184
-Larsen Bay,Hydro,475,773021
-Mekoryuk,Wind,200,480048
-Metlakatla,Hydro,5000,21036690
-Nikolski,Wind,65,204984
-Nome,Wind,2970,5960707
-Ouzinkie,Hydro,125,167000
-Pelican,Hydro,650,799494
-Perryville,Wind,24,31536
-Port Armstrong Hatchery,Hydro,249,0
-Port Bailey Cannery,Hydro,75,0
-Prince of Wales,Hydro,11275,51590054
-Quinhagak,Wind,300,620208
-Railbelt,Hydro,181435,605084077
-Railbelt,Wind,43200,123139320
-Saint Paul,Wind,225,696748.5
-Sand Point,Wind,1000,1408608
-Savoonga,Wind,200,579912
-Selawik,Wind,260,296088
-Shaktoolik,Wind,200,411720
-Sitka,Hydro,34245,164000000
-Tenakee Springs,Hydro,180,1169000
-Tin City,Wind,225,
-Toksook Bay,Wind,400,219000
-Tuntutuliak,Wind,475,865488
-Unalakleet,Wind,600,1093248
-Wales,Wind,130,398580
-Wrangell/Petersburg/Ketchikan,Hydro,63100,298144400
-Grand Total,,539581,2003228955
+community,Project Name,Resource Type,Resource Sub-Type,Capacity (kW),Average Annual Generation (kWh)
+Akutan,Town Creek,Hydro,run-of-river,105,312652
+Atka,Chuniisax Creek,Hydro,run-of-river,284,443142
+Chevak,,Wind,,400,1103760
+Chignik Bay,Chignik,Hydro,storage,60,300000
+Chignik Lagoon,Packers Creek,Hydro,run-of-river,167,521200
+Cordova,Humpback Creek,Hydro,run-of-river,1250,3553542
+Cordova,Power Creek,Hydro,run-of-river,6000,15929397
+Emmonak,,Wind,,400,699206
+Gambell,,Wind,,300,1103760
+Glennallen,Allison Creek,Hydro,run-of-river,6500,15056617
+Glennallen,Solomon Gulch,Hydro,storage,12000,45000000
+Gustavus,Falls Creek,Hydro,run-of-river,800,1939011
+Haines,10 Mile Creek,Hydro,run-of-river,600,1000000
+Haines,Dewey Lakes,Hydro,run-of-river,943,3137760
+Haines,Goat Lake,Hydro,storage,4000,15617000
+Haines,Kasidaya Creek,Hydro,run-of-river,3000,7446440
+Haines,Lutak,Hydro,run-of-river,285,164432
+Hoonah,Gartina Falls,Hydro,run-of-river,450,1810000
+Hooper Bay,,Wind,,300,814680
+Newhalen,Tazimina,Hydro,run-of-river,824,4048161
+Juneau,Annex Creek,Hydro,lake tap,4000,26000000
+Juneau,Gold Creek,Hydro,run-of-river,1600,4500000
+Juneau,Lake Dorothy,Hydro,lake tap,14300,75000000
+Juneau,Salmon Creek,Hydro,storage,8500,29500000
+Juneau,Snettisham,Hydro,lake tap,78200,295000000
+Kasigluk,,Wind,,300,840960
+King Cove,Delta Creek,Hydro,run-of-river,800,1997981
+Kodiak,Terror Lake,Hydro,lake tap,34000,135000000
+Kodiak,Pillar Mtn.,Wind,,9000,26017200
+Kokhanok,,Wind,,180,531381.6
+Kongiganak,,Wind,,475,1019445
+Kotzebue,,Wind,,1800,4478112
+Kwigillingok,,Wind,,475,4173184
+Larsen Bay,Larsen Bay,Hydro,run-of-river,475,773021
+Mekoryuk,,Wind,,200,480048
+Metlakatla,Chester Lake,Hydro,lake tap,1100,4960915
+Metlakatla,Purple Lake,Hydro,lake tap,3900,16075775
+Nikolski,,Wind,,65,204984
+Nome,Banner Peak,Wind,,2970,5960707
+Ouzinkie,Mahoona Lake,Hydro,storage,125,167000
+Pelican,Pelican,Hydro,run-of-river,650,799494
+Perryville,,Wind,,24,31536
+Port Armstrong Hatchery,Jetty Lake (West Side Hydro),Hydro,(blank),249,0
+Port Bailey Cannery,Dry Spruce Creek,Hydro,(blank),75,0
+Craig,Black Bear Lake,Hydro,storage,4500,20600350
+Craig,South Fork Black Bear,Hydro,run-of-river,2000,5739704
+Craig,Hêilangaay (Reynolds Creek) Hydro,Hydro,storage,4775,25250000
+Quinhagak,,Wind,,300,620208
+Railbelt,AWWU Conduit,Hydro,conduit,750,0
+Railbelt,Bradley Lake,Hydro,lake tap,120000,380000000
+Railbelt,Cooper Lake,Hydro,diversion,0,6020000
+Railbelt,,Hydro,lake tap,19200,42000000
+Railbelt,Eklutna,Hydro,storage,40000,172076600
+Railbelt,Marathon Hydro,Hydro,run-of-river,160,876000
+Railbelt,McRoberts Creek,Hydro,run-of-river,125,386567
+Railbelt,South Fork Hydro (Eagle River),Hydro,run-of-river,1200,3724910
+Railbelt,Delta Junction,Wind,,1000,2076120
+Railbelt,Eva Creek,Wind,,24600,73268640
+Railbelt,Fire Island,Wind,,17600,47794560
+Saint Paul,TDX,Wind,,225,696748.5
+Sand Point,AWE,Wind,,1000,1408608
+Savoonga,,Wind,,200,579912
+Selawik,,Wind,,260,296088
+Shaktoolik,,Wind,,200,411720
+Sitka,Blue Lake,Hydro,lake tap/storage,15645,100200000
+Sitka,Green Lake,Hydro,storage,18600,63800000
+Tenakee Springs,Indian River,Hydro,run-of-river,180,1169000
+Tin City,,Wind,,225,
+Toksook_Bay,,Wind,,400,219000
+Tuntutuliak,,Wind,,475,865488
+Unalakleet,,Wind,,600,1093248
+Wales,,Wind,,130,398580
+Ketchikan,Beaver Falls,Hydro,run-of-river/lake tap,5200,44675500
+Ketchikan,Blind Slough (Crystal Lake),Hydro,storage,2000,982000
+Ketchikan,Ketchikan Lakes,Hydro,lake tap,4200,23025300
+Ketchikan,Silvis Lakes,Hydro,lake tap,2100,12461600
+Ketchikan,Swan Lake,Hydro,storage,22500,76000000
+Ketchikan,Tyee,Hydro,lake tap,22500,125000000
+Ketchikan,Whitman Lake,Hydro,storage,4600,16000000
