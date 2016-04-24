@@ -1,6 +1,11 @@
 #Change Log
 
-## [0.9.1]
+## [0.10.0]
+### changed
+- interties: copper valley(Glennallen) updated
+- generatin limits has had some keys changed
+
+## [0.9.0]
 ### added
 - generation limits data
 
