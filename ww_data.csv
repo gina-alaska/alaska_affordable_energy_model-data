@@ -1,272 +1,272 @@
-City,System Type,SQFT,HF Used,HF w/Retro,kWh/yr,kWh/yr w/ retro,Implementation Cost,HR gallons,Steam District,HR Installed
-Adak,Pressure/Gravity,,,,,,,,,FALSE
-Akhiok,Pressure/Gravity,,,,,,,,,FALSE
-Akiachak,,,,,,,,,,TRUE
-Akiak,Circulating/Gravity,1280,711,601,98533,86541,18480,0,0,TRUE
-Akutan,Pressure/Gravity,,,,,,,,,FALSE
-Alakanuk,Circulating/Vacuum,9860,24327,17732,276196,204113,95220,0,0,TRUE
-Alatna,Washeteria,,,,,,,,,FALSE
-Aleknagik,Wells/ST/DF,,,,,,,,,FALSE
-Allakaket,Washeteria,,,,,,,,,TRUE
-Ambler,Circulating/Gravity,,,,,,,,,FALSE
-Anaktuvuk Pass,Circulating/Gravity,6373,0,0,260202.3418,0,0,0,0,FALSE
-Anchor Point,Pressure/NA,,,,,,,,,FALSE
-Anderson,Wells/Gravity,,,,,,,,,FALSE
-Angoon,Pressure/Gravity,,,,,,,,,FALSE
-Aniak,Wells/ST/DF,,,,,,,,,FALSE
-Anvik,Circulating/Gravity,,,,,,,,,FALSE
-Arctic Village,Washeteria,,,,,,,,,FALSE
-Atka,Pressure/Gravity,,,,,,,,,FALSE
-Atmautluak,Washeteria,,,,,,,,,FALSE
-Atqasuk,Circulating/Gravity,12237,0,0,415863.74274,0,0,0,0,FALSE
-Barrow,Circulating/Gravity,,,,,,,,,FALSE
-Beaver,Closed Haul/Closed Haul,,,,,,,,,TRUE
-Bethel,Circulating/Gravity,35925,15192.6540145985,0,340683.06612,0,0,0,0,FALSE
-Bettles,Wells/ST/DF,,,,,,,,,FALSE
-Birch Creek,Washeteria,,,,,,,,,FALSE
-Brevig Mission,Circulating/Gravity,2800,12811,2643,118202,89551,605160,0,0,FALSE
-Buckland,Circulating/Gravity,,,,,,,,,FALSE
-Cantwell,Wells/ST/DF,,,,,,,,,FALSE
-Central,Wells/ST/DF,,,,,,,,,FALSE
-Chalkyitsik,Washeteria,,,,,,,,,FALSE
-Chase,Wells/ST/DF,,,,,,,,,FALSE
-Chefornak,Washeteria,950,2060,765,46022,30819,65358,0,0,TRUE
-Chenega,Pressure/Gravity,,,,,,,,,FALSE
-Chevak,Circulating/Vacuum,2584,12134,5727,265409,196045,333325,0,0,FALSE
-Chickaloon,Wells/ST/DF,,,,,,,,,FALSE
-Chignik,Circulating/Gravity,,,,,,,,,FALSE
-Chignik Lagoon,Circulating/Gravity,,,,,,,,,FALSE
-Chignik Lake,Circulating/Gravity,,,,,,,,,FALSE
-Chiniak,Wells/ST/DF,,,,,,,,,FALSE
-Chistochina,Wells/ST/DF,,,,,,,,,FALSE
-Chitina,Watering Point,,,,,,,,,FALSE
-Chuathbaluk,Circulating/Gravity,971,2018,357,25982,24157,151210,0,0,FALSE
-Circle,Washeteria,,,,,,,,,FALSE
-Clam Gulch,Wells/ST/DF,,,,,,,,,FALSE
-Clark'S Point,Pressure/Gravity,,,,,,,,,FALSE
-Coffman Cove,Pressure/Gravity,,,,,,,,,FALSE
-Cold Bay,Pressure/Gravity,,,,,,,,,FALSE
-Cooper Landing,Wells/ST/DF,,,,,,,,,FALSE
-Copper Center,Wells/ST/DF,,,,,,,,,FALSE
-Copperville,Wells/ST/DF,,,,,,,,,FALSE
-Cordova,Pressure/Gravity,,,,,,,,,FALSE
-Covenant Life,Pressure/Gravity,,,,,,,,,FALSE
-Craig,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE
-Crooked Creek,Washeteria,,,,,,,,,TRUE
-Crown Point,Wells/ST/DF,,,,,,,,,FALSE
-Deering,Closed Haul/Vacuum,,,,,,,,,FALSE
-Delta Junction,Wells/ST/DF,,,,,,,,,FALSE
-Dillingham,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE
-Diomede,Washeteria,,,,,,,,,FALSE
-Dot Lake,Circulating/Gravity,,,,,,,,,FALSE
-Dot Lake Village,Circulating/Gravity,,,,,,,,,FALSE
-Dry Creek,Watering Point,,,,,,,,,FALSE
-Eagle,Watering Point,684,0,0,1176.5105885,0,0,0,0,FALSE
-Eagle Village,Washeteria,,,,,,,,,FALSE
-Eek,Circulating/Pressure,2032,6965,5671,42891,33405,42000,0,0,FALSE
-Egegik,Pressure/Gravity,,,,,,,,,FALSE
-Eklutna,Pressure/Gravity,,,,,,,,,FALSE
-Ekwok,Wells/ST/DF,,,,,,,,,FALSE
-Elfin Cove,Wells/ST/OF,,,,,,,,,FALSE
-Elim,Circulating/Gravity,1854,9363,3139,78148,54777,144030,0,0,FALSE
-Emmonak,Circulating/Vacuum,4952,18490,12086,446534,362954,150539,0,0,TRUE
-Evansville,Wells/ST/DF,,,,,,,,,FALSE
-Excursion Inlet,None,,,,,,,,,FALSE
-False Pass,Wells/ST/DF,,,,,,,,,FALSE
-Ferry,Wells/ST/DF,,,,,,,,,FALSE
-Fort Yukon,Circulating/Gravity,,,,,,,,,FALSE
-Fox,Watering Point,,,,,,,,,FALSE
-Fox River,Wells/ST/DF,,,,,,,,,FALSE
-Gakona,Wells/ST/DF,,,,,,,,,FALSE
-Galena,Closed Haul/Closed Haul,,,,,,,,,TRUE
-Gambell,Circulating/Gravity,4664,16307,14262,107513,79008,8719,0,0,FALSE
-Game Creek,Watering Point,,,,,,,,,FALSE
-Glennallen,Wells/ST/DF,,,,,,,,,FALSE
-Golovin,Circulating/Gravity,,,,,,,,,FALSE
-Goodnews Bay,Pressure/Gravity,2196,5024,477,20944,19980,22400,0,0,FALSE
-Grayling,Circulating/Gravity,1536,6850,1747,91836,65099,397160,0,0,FALSE
-Gulkana,Circulating/Gravity,,,,,,,,,FALSE
-Gustavus,Wells/ST/DF,,,,,,,,,FALSE
-Haines,Pressure/Gravity,0,6900,0,260000,0,0,0,0,FALSE
-Halibut Cove,Watering Point,,,,,,,,,FALSE
-Happy Valley,Pressure/Gravity,,,,,,,,,FALSE
-Harding-Birch Lakes,Wells/ST/DF,,,,,,,,,FALSE
-Healy Lake,Washeteria,,,,,,,,,FALSE
-Hollis,None,,,,,,,,,FALSE
-Holy Cross,Circulating/Gravity,704,5812,758,65948,56710,395681,0,0,FALSE
-Hoonah,Pressure/Gravity,5880,2324.2357664234,0,163503.15649905,0,0,0,0,FALSE
-Hooper Bay,Circulating/Vacuum,33890,43350,0,430807.87665,0,0,0,0,FALSE
-Hope,Wells/ST/DF,,,,,,,,,FALSE
-Hughes,Circulating/Pressure,,,,,,,,,TRUE
-Huslia,Circulating/Gravity,4215,6614,1093,96387.418869,46357,285680,0,0,FALSE
-Hydaburg,Pressure/Gravity,,,,,,,,,FALSE
-Hyder,Wells/ST/DF,,,,,,,,,FALSE
-Igiugig,Wells/ST/DF,,,,,,,,,TRUE
-Iliamna,Wells/ST/DF,,,,,,,,,FALSE
-Juneau,Pressure/Gravity,50231,100753.576642336,0,945058.50545,0,0,0,0,FALSE
-Kachemak,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Kake,Pressure/Gravity,1200,876.7883211679,0,12463.7788396667,0,0,0,0,FALSE
-Kaktovik,Circulating/Gravity,11320,0,0,532062.788522,0,0,0,0,FALSE
-Kaltag,Circulating/Gravity,,,,,,,,,FALSE
-Karluk,Pressure/Gravity,,,,,,,,,FALSE
-Kasaan,Pressure/Gravity,,,,,,,,,FALSE
-Kasigluk,Circulating/Pressure,,,,,,,,,FALSE
-Kasilof,Wells/ST/DF,,,,,,,,,FALSE
-Kenny Lake,Watering Point,,,,,,,,,FALSE
-Ketchikan,Pressure/Gravity,,,,,,,,,FALSE
-Kiana,Circulating/Gravity,,,,,,,,,FALSE
-King Cove,Pressure/Gravity,,,,,,,,,FALSE
-King Salmon,Pressure/Gravity,,,,,,,,,FALSE
-Kipnuk,Washeteria,1760,0,0,0,0,153200,0,0,FALSE
-Kivalina,Washeteria,,,,,,,,,FALSE
-Klawock,Pressure/Gravity,,,,,,,,,FALSE
-Klukwan,Pressure/Gravity,,,,,,,,,FALSE
-Kobuk,Circulating/Gravity,,,,,,,,,FALSE
-Kodiak,Pressure/Gravity,12100,16303.4452554745,0,491998.9279505,0,0,0,0,FALSE
-Kodiak Station,Pressure/Gravity,,,,,,,,,FALSE
-Kokhanok,Pressure/Gravity,,,,,,,,,FALSE
-Koliganek,Pressure/Gravity,,,,,,,,,FALSE
-Kongiganak,Washeteria,8903,4581.9416058394,0,36182.826375,0,0,0,0,TRUE
-Kotlik,Circulating/Vacuum,,,,,,,,,FALSE
-Kotzebue,Circulating/Gravity,,,,,,,,,FALSE
-Koyuk,Circulating/Gravity,2753,13303,3378,90964,69040,476935,0,0,FALSE
-Koyukuk,Washeteria,1089,1811.3868613139,0,21248.191232,0,0,0,0,FALSE
-Kupreanof,,,,,,,,,,FALSE
-Kwethluk,Circulating/Pressure,,,,,,,,,FALSE
-Kwigillingok,Closed Haul/Closed Haul,,,,,,,,,TRUE
-Lake Minchumina,Wells/ST/DF,,,,,,,,,FALSE
-Larsen Bay,Pressure/Gravity,,,,,,,,,FALSE
-Levelock,Pressure/Gravity,,,,,,,,,FALSE
-Lime Village,Washeteria,,,,,,,,,FALSE
-Livengood,Wells/ST/DF,,,,,,,,,FALSE
-Lowell Point,None,,,,,,,,,FALSE
-Lower Kalskag,Circulating/Gravity,1512,1946,179,71221,58232,13350,0,0,FALSE
-Lutak,Wells/ST/DF,,,,,,,,,FALSE
-Manley Hot Springs,Watering Point,0,0,0,0,0,0,0,0,FALSE
-Manokotak,Pressure/Gravity,,,,,,,,,FALSE
-Marshall,Circulating/Gravity,1560,6000,1457,96843,75377,80355,0,0,TRUE
-Mccarthy,Pressure/Gravity,,,,,,,,,FALSE
-Mcgrath,Circulating/Gravity,,,,,,,,,FALSE
-Mckinley Park,Pressure/Gravity,,,,,,,,,FALSE
-Mekoryuk,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Mendeltna,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Mentasta Lake,Wells/ST/DF,,,,,,,,,FALSE
-Metlakatla,Pressure/Gravity,,,,,,,,,FALSE
-Minto,Circulating/Gravity,,,,,,,,,TRUE
-Moose Creek,Wells/ST/DF,,,,,,,,,FALSE
-Moose Pass,Wells/ST/DF,,,,,,,,,FALSE
-Mosquito Lake,Wells/ST/DF,,,,,,,,,FALSE
-Mountain Village,Pressure/Gravity,,,,,,,,,FALSE
-Mud Bay,,,,,,,,,,FALSE
-Naknek,Wells/ST/DF,3020,1877,1352,5494,5012,9366,0,0,FALSE
-Nanwalek,Pressure/Gravity,,,,,,,,,FALSE
-Napakiak,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Napaskiak,Closed Haul/Closed Haul,2961,9161,5839,55111,49028,17735,0,0,FALSE
-Naukati Bay,None,,,,,,,,,FALSE
-Nelson Lagoon,Pressure/NA,,,,,,,,,FALSE
-Nenana,Circulating/Gravity,,,,,,,,,FALSE
-New Allakaket,Washeteria,,,,,,,,,TRUE
-New Stuyahok,Circulating/Gravity,,,,,,,,,FALSE
-Newhalen,Circulating/Gravity,,,,,,,,,FALSE
-Newtok,Washeteria,1568,0,0,22565.10793,9127,1500,0,0,TRUE
-Nightmute,Closed Haul/Closed Haul,450,0,0,21148,10156,4905,0,0,FALSE
-Nikolaevsk,Pressure/Gravity,,,,,,,,,FALSE
-Nikolai,Wells/NA,,,,,,,,,FALSE
-Nikolski,Pressure/NA,,,,,,,,,FALSE
-Ninilchik,,,,,,,,,,FALSE
-Noatak,Circulating/Gravity,,,,,,,,,FALSE
-Nome,Circulating/Gravity,0,0,0,0,0,0,0,0,FALSE
-Nondalton,Pressure/Gravity,,,,,,,,,FALSE
-Noorvik,Circulating/Vacuum,,,,,,,,,FALSE
-Northway,Closed Haul/Closed Haul,510,0,0,0,0,0,0,0,FALSE
-Northway Junction,Wells/ST/DF,,,,,,,,,FALSE
-Northway Village,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Nuiqsut,Circulating/Gravity,7566,0,0,535641.820733,0,0,0,0,FALSE
-Nulato,Circulating/Gravity,6941,12506,10896,143068,85565,37100,0,0,FALSE
-Nunam Iqua,Circulating/Vacuum,4620,3857,1928,149965,111853,28220,7550.7246376812,3611.8032786885,TRUE
-Nunapitchuk,Closed Haul/Closed Haul,3270,7410,4684,33613,31010,16650,0,0,FALSE
-Old Harbor,Pressure/Gravity,,,,,,,,,FALSE
-Oscarville,Washeteria,,,,,,,,,FALSE
-Ouzinkie,Pressure/Gravity,,,,,,,,,FALSE
-Paxson,Wells/ST/DF,,,,,,,,,FALSE
-Pedro Bay,Wells/ST/DF,,,,,,,,,FALSE
-Pelican,Pressure/Gravity,,,,,,,,,FALSE
-Perryville,Pressure/NA,,,,,,,,,FALSE
-Petersburg,Pressure/Gravity,,,,,,,,,FALSE
-Pilot Point,Pressure/Gravity,,,,,,,,,FALSE
-Pilot Station,Circulating/Gravity,800,2687,1367,122398,71215,86637,0,0,FALSE
-Pitkas Point,Circulating/Gravity,2160,5166,3356,79856,33046,38740,0,0,FALSE
-Platinum,Washeteria,,,,,,,,,FALSE
-Point Baker,Wells/ST/DF,,,,,,,,,FALSE
-Point Hope,Circulating/Gravity,11647,0,0,189313.2038035,0,0,0,0,FALSE
-Point Lay,Circulating/Gravity,7537,0,0,198494.2864325,0,0,0,0,FALSE
-Port Alexander,,,,,,,,,,FALSE
-Port Alsworth,,,,,,,,,,FALSE
-Port Graham,Pressure/Gravity,,,,,,,,,FALSE
-Port Heiden,Wells/NA,,,,,,,,,FALSE
-Port Lions,Pressure/Gravity,1200,534.2627737226,0,13553.121977,0,0,0,0,FALSE
-Port Protection,None,,,,,,,,,FALSE
-Portage Creek,None,,,,,,,,,FALSE
-Primrose,Wells/ST/DF,,,,,,,,,FALSE
-Quinhagak,Circulating/Pressure,3072,4645.3401459854,0,88161.2934445,0,0,0,0,FALSE
-Rampart,Washeteria,,,,,,,,,FALSE
-Red Devil,Wells/NA,,,,,,,,,FALSE
-Ruby,Washeteria,,,,,,,,,TRUE
-Russian Mission,Circulating/Gravity,944,2340,457,33713,29762,5546,0,0,FALSE
-Saint George,Pressure/Gravity,,,,,,,,,FALSE
-Saint Mary's,Circulating/Gravity,2160,2360.5839416058,0,38335.345015,0,0,0,0,FALSE
-Saint Michael,Circulating/Vacuum,,,,,,,,,FALSE
-Saint Paul,Pressure/Gravity,,,,,,,,,FALSE
-Salamatof,Wells/ST/DF,,,,,,,,,FALSE
-Sand Point,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE
-Savoonga,Circulating/Vacuum,1722,9626,333,166485,158007,330630,0,0,FALSE
-Saxman,Pressure/Gravity,,,,,,,,,FALSE
-Scammon Bay,Circulating/Gravity,,,,,,,,,FALSE
-Selawik,Circulating/Vacuum,6820,15595,9703.2733118971,734410,402276,508955,0,0,FALSE
-Seldovia,Pressure/Gravity,,,,,,,,,FALSE
-Shageluk,,,,,,,,,,FALSE
-Shaktoolik,Circulating/ST/DF,4224,25029.6715328467,407,80988.362,37637,326222,0,0,FALSE
-Shishmaref,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Shungnak,Circulating/Gravity,,,,,,,,,FALSE
-Sitka,Pressure/Gravity,17100,11562.0437956204,0,474844.27356,0,0,0,0,FALSE
-Skagway,Pressure/Gravity,7700,7665.6350364964,0,145441.30896,0,0,0,0,FALSE
-Slana,Wells/ST/DF,,,,,,,,,FALSE
-Sleetmute,Circulating/ST/DF,1386,4333.094890511,182,51103.2421575,21515,125700,0,0,FALSE
-South Naknek,Pressure/Gravity,,,,,,,,,FALSE
-Stebbins,Washeteria,,,,,,,,,FALSE
-Stevens Village,Washeteria,,,,,,,,,TRUE
-Stony River,Washeteria,,,,,,,,,FALSE
-Takotna,Watering Point,,,,,,,,,FALSE
-Tanacross,Circulating/Gravity,,,,,,,,,FALSE
-Tanana,Circulating/Gravity,,,,,,,,,FALSE
-Tatitlek,Pressure/Gravity,,,,,,,,,FALSE
-Tazlina,Wells/ST/DF,,,,,,,,,FALSE
-Teller,Washeteria,3039,7716,6981,35529,817,23100,0,0,FALSE
-Tenakee Springs,Pressure/Gravity,,,,,,,,,FALSE
-Tetlin,Closed Haul/Closed Haul,,,,,,,,,FALSE
-Thorne Bay,Pressure/Gravity,,,,,,,,,FALSE
-Togiak,Pressure/Gravity,,,,,,,,,FALSE
-Tok,Circulating/Gravity,0,0,0,0,0,0,0,0,FALSE
-Toksook Bay,Circulating/Gravity,354,2694,1918,109786,78413,14320,0,0,TRUE
-Tonsina,Wells/ST/DF,,,,,,,,,FALSE
-Trapper Creek,Wells/ST/DF,,,,,,,,,FALSE
-Tuluksak,Washeteria,1800,6255,4012,34664,31954,20650,0,0,FALSE
-Tuntutuliak,Closed Haul/Closed Haul,4480,14629.3284671533,1083,17702.547595,11146,311025,0,0,FALSE
-Tununak,Washeteria,2048,2174,1815,37367,28294,29123,0,0,FALSE
-Twin Hills,Pressure/Gravity,600,999,841,13723,5012,42667,0,0,FALSE
-Two Rivers,Wells/ST/DF,,,,,,,,,FALSE
-Tyonek,Pressure/Gravity,,,,,,,,,FALSE
-Unalakleet,Circulating/Gravity,,,,,,,,,FALSE
-Unalaska,Pressure/Gravity,,,,,,,,,FALSE
-Upper Kalskag,Wells/Gravity,30,0,0,26700,8478,20200,0,0,FALSE
-Valdez,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE
-Venetie,Washeteria,,,,,,,,,FALSE
-Voznesenka,Pressure/ST/DF,,,,,,,,,FALSE
-Wainwright,Circulating/Gravity,14501,0,0,262230.360052,0,0,0,0,FALSE
-Wales,Washeteria,,,,,,,,,FALSE
-Whale Pass,None,,,,,,,,,FALSE
-White Mountain,Circulating/Gravity,,,,,,,,,FALSE
-Whittier,Pressure/Gravity,,,,,,,,,FALSE
-Womens Bay,,,,,,,,,,FALSE
-Wrangell,Pressure/Gravity,,,,,,,,,FALSE
-Yakutat,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE
+City,System Type,SQFT,HF Used,HF w/Retro,kWh/yr,kWh/yr w/ retro,Implementation Cost,HR gallons,Steam District,HR Installed,Biomass
+Adak,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Akhiok,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Akiachak,,,,,,,,,,TRUE,FALSE
+Akiak,Circulating/Gravity,1280,711,601,98533,86541,18480,0,0,TRUE,FALSE
+Akutan,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Alakanuk,Circulating/Vacuum,9860,24327,17732,276196,204113,95220,0,0,TRUE,FALSE
+Alatna,Washeteria,,,,,,,,,FALSE,FALSE
+Aleknagik,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Allakaket,Washeteria,,,,,,,,,TRUE,FALSE
+Ambler,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Anaktuvuk Pass,Circulating/Gravity,6373,0,0,260202.3418,0,0,0,0,FALSE,FALSE
+Anchor Point,Pressure/NA,,,,,,,,,FALSE,FALSE
+Anderson,Wells/Gravity,,,,,,,,,FALSE,FALSE
+Angoon,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Aniak,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Anvik,Circulating/Gravity,,,,,,,,,FALSE,TRUE
+Arctic Village,Washeteria,,,,,,,,,FALSE,FALSE
+Atka,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Atmautluak,Washeteria,,,,,,,,,FALSE,FALSE
+Atqasuk,Circulating/Gravity,12237,0,0,415863.7427,0,0,0,0,FALSE,FALSE
+Barrow,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Beaver,Closed Haul/Closed Haul,,,,,,,,,TRUE,FALSE
+Bethel,Circulating/Gravity,35925,15192.65401,0,340683.0661,0,0,0,0,FALSE,FALSE
+Bettles,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Birch Creek,Washeteria,,,,,,,,,FALSE,FALSE
+Brevig Mission,Circulating/Gravity,2800,12811,2643,118202,89551,605160,0,0,FALSE,FALSE
+Buckland,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Cantwell,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Central,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Chalkyitsik,Washeteria,,,,,,,,,FALSE,FALSE
+Chase,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Chefornak,Washeteria,950,2060,765,46022,30819,65358,0,0,TRUE,FALSE
+Chenega,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Chevak,Circulating/Vacuum,2584,12134,5727,265409,196045,333325,0,0,FALSE,FALSE
+Chickaloon,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Chignik,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Chignik Lagoon,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Chignik Lake,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Chiniak,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Chistochina,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Chitina,Watering Point,,,,,,,,,FALSE,FALSE
+Chuathbaluk,Circulating/Gravity,971,2018,357,25982,24157,151210,0,0,FALSE,FALSE
+Circle,Washeteria,,,,,,,,,FALSE,FALSE
+Clam Gulch,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Clark'S Point,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Coffman Cove,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Cold Bay,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Cooper Landing,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Copper Center,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Copperville,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Cordova,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Covenant Life,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Craig,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
+Crooked Creek,Washeteria,,,,,,,,,TRUE,FALSE
+Crown Point,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Deering,Closed Haul/Vacuum,,,,,,,,,FALSE,FALSE
+Delta Junction,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Dillingham,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
+Diomede,Washeteria,,,,,,,,,FALSE,FALSE
+Dot Lake,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Dot Lake Village,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Dry Creek,Watering Point,,,,,,,,,FALSE,FALSE
+Eagle,Watering Point,684,0,0,1176.510589,0,0,0,0,FALSE,FALSE
+Eagle Village,Washeteria,,,,,,,,,FALSE,FALSE
+Eek,Circulating/Pressure,2032,6965,5671,42891,33405,42000,0,0,FALSE,FALSE
+Egegik,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Eklutna,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Ekwok,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Elfin Cove,Wells/ST/OF,,,,,,,,,FALSE,FALSE
+Elim,Circulating/Gravity,1854,9363,3139,78148,54777,144030,0,0,FALSE,TRUE
+Emmonak,Circulating/Vacuum,4952,18490,12086,446534,362954,150539,0,0,TRUE,FALSE
+Evansville,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Excursion Inlet,None,,,,,,,,,FALSE,FALSE
+False Pass,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Ferry,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Fort Yukon,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Fox,Watering Point,,,,,,,,,FALSE,FALSE
+Fox River,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Gakona,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Galena,Closed Haul/Closed Haul,,,,,,,,,TRUE,FALSE
+Gambell,Circulating/Gravity,4664,16307,14262,107513,79008,8719,0,0,FALSE,FALSE
+Game Creek,Watering Point,,,,,,,,,FALSE,FALSE
+Glennallen,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Golovin,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Goodnews Bay,Pressure/Gravity,2196,5024,477,20944,19980,22400,0,0,FALSE,FALSE
+Grayling,Circulating/Gravity,1536,6850,1747,91836,65099,397160,0,0,FALSE,FALSE
+Gulkana,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Gustavus,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Haines,Pressure/Gravity,0,6900,0,260000,0,0,0,0,FALSE,FALSE
+Halibut Cove,Watering Point,,,,,,,,,FALSE,FALSE
+Happy Valley,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Harding-Birch Lakes,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Healy Lake,Washeteria,,,,,,,,,FALSE,FALSE
+Hollis,None,,,,,,,,,FALSE,FALSE
+Holy Cross,Circulating/Gravity,704,5812,758,65948,56710,395681,0,0,FALSE,FALSE
+Hoonah,Pressure/Gravity,5880,2324.235766,0,163503.1565,0,0,0,0,FALSE,FALSE
+Hooper Bay,Circulating/Vacuum,33890,43350,0,430807.8767,0,0,0,0,FALSE,FALSE
+Hope,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Hughes,Circulating/Pressure,,,,,,,,,TRUE,TRUE
+Huslia,Circulating/Gravity,4215,6614,1093,96387.41887,46357,285680,0,0,FALSE,FALSE
+Hydaburg,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Hyder,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Igiugig,Wells/ST/DF,,,,,,,,,TRUE,FALSE
+Iliamna,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Juneau,Pressure/Gravity,50231,100753.5766,0,945058.5055,0,0,0,0,FALSE,FALSE
+Kachemak,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Kake,Pressure/Gravity,1200,876.7883212,0,12463.77884,0,0,0,0,FALSE,FALSE
+Kaktovik,Circulating/Gravity,11320,0,0,532062.7885,0,0,0,0,FALSE,FALSE
+Kaltag,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Karluk,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kasaan,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kasigluk,Circulating/Pressure,,,,,,,,,FALSE,FALSE
+Kasilof,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Kenny Lake,Watering Point,,,,,,,,,FALSE,FALSE
+Ketchikan,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kiana,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+King Cove,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+King Salmon,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kipnuk,Washeteria,1760,0,0,0,0,153200,0,0,FALSE,FALSE
+Kivalina,Washeteria,,,,,,,,,FALSE,FALSE
+Klawock,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Klukwan,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kobuk,Circulating/Gravity,,,,,,,,,FALSE,TRUE
+Kodiak,Pressure/Gravity,12100,16303.44526,0,491998.928,0,0,0,0,FALSE,FALSE
+Kodiak Station,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kokhanok,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Koliganek,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Kongiganak,Washeteria,8903,4581.941606,0,36182.82638,0,0,0,0,TRUE,FALSE
+Kotlik,Circulating/Vacuum,,,,,,,,,FALSE,FALSE
+Kotzebue,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Koyuk,Circulating/Gravity,2753,13303,3378,90964,69040,476935,0,0,FALSE,FALSE
+Koyukuk,Washeteria,1089,1811.386861,0,21248.19123,0,0,0,0,FALSE,TRUE
+Kupreanof,,,,,,,,,,FALSE,FALSE
+Kwethluk,Circulating/Pressure,,,,,,,,,FALSE,FALSE
+Kwigillingok,Closed Haul/Closed Haul,,,,,,,,,TRUE,FALSE
+Lake Minchumina,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Larsen Bay,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Levelock,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Lime Village,Washeteria,,,,,,,,,FALSE,FALSE
+Livengood,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Lowell Point,None,,,,,,,,,FALSE,FALSE
+Lower Kalskag,Circulating/Gravity,1512,1946,179,71221,58232,13350,0,0,FALSE,FALSE
+Lutak,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Manley Hot Springs,Watering Point,0,0,0,0,0,0,0,0,FALSE,FALSE
+Manokotak,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Marshall,Circulating/Gravity,1560,6000,1457,96843,75377,80355,0,0,TRUE,FALSE
+Mccarthy,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Mcgrath,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Mckinley Park,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Mekoryuk,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Mendeltna,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Mentasta Lake,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Metlakatla,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Minto,Circulating/Gravity,,,,,,,,,TRUE,FALSE
+Moose Creek,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Moose Pass,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Mosquito Lake,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Mountain Village,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Mud Bay,,,,,,,,,,FALSE,FALSE
+Naknek,Wells/ST/DF,3020,1877,1352,5494,5012,9366,0,0,FALSE,FALSE
+Nanwalek,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Napakiak,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Napaskiak,Closed Haul/Closed Haul,2961,9161,5839,55111,49028,17735,0,0,FALSE,FALSE
+Naukati Bay,None,,,,,,,,,FALSE,FALSE
+Nelson Lagoon,Pressure/NA,,,,,,,,,FALSE,FALSE
+Nenana,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+New Allakaket,Washeteria,,,,,,,,,TRUE,FALSE
+New Stuyahok,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Newhalen,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Newtok,Washeteria,1568,0,0,22565.10793,9127,1500,0,0,TRUE,FALSE
+Nightmute,Closed Haul/Closed Haul,450,0,0,21148,10156,4905,0,0,FALSE,FALSE
+Nikolaevsk,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Nikolai,Wells/NA,,,,,,,,,FALSE,FALSE
+Nikolski,Pressure/NA,,,,,,,,,FALSE,FALSE
+Ninilchik,,,,,,,,,,FALSE,FALSE
+Noatak,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Nome,Circulating/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
+Nondalton,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Noorvik,Circulating/Vacuum,,,,,,,,,FALSE,FALSE
+Northway,Closed Haul/Closed Haul,510,0,0,0,0,0,0,0,FALSE,FALSE
+Northway Junction,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Northway Village,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Nuiqsut,Circulating/Gravity,7566,0,0,535641.8207,0,0,0,0,FALSE,FALSE
+Nulato,Circulating/Gravity,6941,12506,10896,143068,85565,37100,0,0,FALSE,FALSE
+Nunam Iqua,Circulating/Vacuum,4620,3857,1928,149965,111853,28220,7550.724638,3611.803279,TRUE,FALSE
+Nunapitchuk,Closed Haul/Closed Haul,3270,7410,4684,33613,31010,16650,0,0,FALSE,FALSE
+Old Harbor,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Oscarville,Washeteria,,,,,,,,,FALSE,FALSE
+Ouzinkie,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Paxson,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Pedro Bay,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Pelican,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Perryville,Pressure/NA,,,,,,,,,FALSE,FALSE
+Petersburg,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Pilot Point,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Pilot Station,Circulating/Gravity,800,2687,1367,122398,71215,86637,0,0,FALSE,FALSE
+Pitkas Point,Circulating/Gravity,2160,5166,3356,79856,33046,38740,0,0,FALSE,FALSE
+Platinum,Washeteria,,,,,,,,,FALSE,FALSE
+Point Baker,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Point Hope,Circulating/Gravity,11647,0,0,189313.2038,0,0,0,0,FALSE,FALSE
+Point Lay,Circulating/Gravity,7537,0,0,198494.2864,0,0,0,0,FALSE,FALSE
+Port Alexander,,,,,,,,,,FALSE,FALSE
+Port Alsworth,,,,,,,,,,FALSE,FALSE
+Port Graham,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Port Heiden,Wells/NA,,,,,,,,,FALSE,FALSE
+Port Lions,Pressure/Gravity,1200,534.2627737,0,13553.12198,0,0,0,0,FALSE,FALSE
+Port Protection,None,,,,,,,,,FALSE,FALSE
+Portage Creek,None,,,,,,,,,FALSE,FALSE
+Primrose,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Quinhagak,Circulating/Pressure,3072,4645.340146,0,88161.29344,0,0,0,0,FALSE,FALSE
+Rampart,Washeteria,,,,,,,,,FALSE,FALSE
+Red Devil,Wells/NA,,,,,,,,,FALSE,FALSE
+Ruby,Washeteria,,,,,,,,,TRUE,FALSE
+Russian Mission,Circulating/Gravity,944,2340,457,33713,29762,5546,0,0,FALSE,FALSE
+Saint George,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Saint Mary's,Circulating/Gravity,2160,2360.583942,0,38335.34502,0,0,0,0,FALSE,FALSE
+Saint Michael,Circulating/Vacuum,,,,,,,,,FALSE,FALSE
+Saint Paul,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Salamatof,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Sand Point,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
+Savoonga,Circulating/Vacuum,1722,9626,333,166485,158007,330630,0,0,FALSE,FALSE
+Saxman,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Scammon Bay,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Selawik,Circulating/Vacuum,6820,15595,9703.273312,734410,402276,508955,0,0,FALSE,FALSE
+Seldovia,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Shageluk,,,,,,,,,,FALSE,FALSE
+Shaktoolik,Circulating/ST/DF,4224,25029.67153,407,80988.362,37637,326222,0,0,FALSE,FALSE
+Shishmaref,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Shungnak,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Sitka,Pressure/Gravity,17100,11562.0438,0,474844.2736,0,0,0,0,FALSE,FALSE
+Skagway,Pressure/Gravity,7700,7665.635036,0,145441.309,0,0,0,0,FALSE,FALSE
+Slana,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Sleetmute,Circulating/ST/DF,1386,4333.094891,182,51103.24216,21515,125700,0,0,FALSE,FALSE
+South Naknek,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Stebbins,Washeteria,,,,,,,,,FALSE,FALSE
+Stevens Village,Washeteria,,,,,,,,,TRUE,FALSE
+Stony River,Washeteria,,,,,,,,,FALSE,FALSE
+Takotna,Watering Point,,,,,,,,,FALSE,FALSE
+Tanacross,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Tanana,Circulating/Gravity,,,,,,,,,FALSE,TRUE
+Tatitlek,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Tazlina,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Teller,Washeteria,3039,7716,6981,35529,817,23100,0,0,FALSE,FALSE
+Tenakee Springs,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Tetlin,Closed Haul/Closed Haul,,,,,,,,,FALSE,FALSE
+Thorne Bay,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Togiak,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Tok,Circulating/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
+Toksook Bay,Circulating/Gravity,354,2694,1918,109786,78413,14320,0,0,TRUE,FALSE
+Tonsina,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Trapper Creek,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Tuluksak,Washeteria,1800,6255,4012,34664,31954,20650,0,0,FALSE,FALSE
+Tuntutuliak,Closed Haul/Closed Haul,4480,14629.32847,1083,17702.5476,11146,311025,0,0,FALSE,FALSE
+Tununak,Washeteria,2048,2174,1815,37367,28294,29123,0,0,FALSE,FALSE
+Twin Hills,Pressure/Gravity,600,999,841,13723,5012,42667,0,0,FALSE,FALSE
+Two Rivers,Wells/ST/DF,,,,,,,,,FALSE,FALSE
+Tyonek,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Unalakleet,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Unalaska,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Upper Kalskag,Wells/Gravity,30,0,0,26700,8478,20200,0,0,FALSE,FALSE
+Valdez,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
+Venetie,Washeteria,,,,,,,,,FALSE,FALSE
+Voznesenka,Pressure/ST/DF,,,,,,,,,FALSE,FALSE
+Wainwright,Circulating/Gravity,14501,0,0,262230.3601,0,0,0,0,FALSE,FALSE
+Wales,Washeteria,,,,,,,,,FALSE,FALSE
+Whale Pass,None,,,,,,,,,FALSE,FALSE
+White Mountain,Circulating/Gravity,,,,,,,,,FALSE,FALSE
+Whittier,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Womens Bay,,,,,,,,,,FALSE,FALSE
+Wrangell,Pressure/Gravity,,,,,,,,,FALSE,FALSE
+Yakutat,Pressure/Gravity,0,0,0,0,0,0,0,0,FALSE,FALSE
