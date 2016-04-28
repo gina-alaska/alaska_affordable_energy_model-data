@@ -29,7 +29,7 @@
       * Exxcursion Outlet misspelled in this file (should be Excursion Outlett); None is entered as "unknown"
       * Unknown systems entered with a blank entry in the System Type column
       * McGrath has a more complete entry (with data) in the original file so keep that (do not replace McGrath with this entry)
-    5. added the biomass column
+    5. added the biomass column (2016-04-28)
 
 ### Source Files
   * Description: Manley Hot Springs Model Draft.  The Water & Sewer tab contains needed information. Neil McMahon notes "I've included data for heat recovery as a column on w&ww the data page.  There are also more communities with identified system types.  For now, unless we get better info at a later date, I have categorized the 15 or so different w&ww types into the five categories already defined, with an additional category of "N/A"."

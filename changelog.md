@@ -1,5 +1,10 @@
 #Change Log
 
+## [0.10.1]
+### changed
+- added biomass column to ww_data.csv, indicating if biomass is used or not
+
+
 ## [0.10.0]
 ### changed
 - interties: copper valley(Glennallen) updated
