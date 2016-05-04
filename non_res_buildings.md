@@ -41,6 +41,7 @@
   * Processing Steps
     1. Export to non_res_buildings.csv.
     2. Be sure to use the columns as identified in this file, replacing the original columns where needed.  Naming is important in running the AAEM model.
+    3. removed '#Ref?' values from address rows (2015-05-04)
 
 ### Source File
   * Description: Building inventory as determined by AEA (via many methods)
