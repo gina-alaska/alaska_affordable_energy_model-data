@@ -1,5 +1,13 @@
 #Change Log
 
+## [0.10.3]
+### changed
+- removed Skagway to Haines intertie, as it was not ready to be merged yet before
+
+## [0.10.2]
+### changed
+- added Skagway to Haines intertie
+
 ## [0.10.1]
 ### changed
 - added biomass column to ww_data.csv, indicating if biomass is used or not
