@@ -1,5 +1,12 @@
 #Change Log
 
+## [0.12.0]
+### updated
+- residential data
+- wastewater data
+- building count
+- EIA Ketchican data
+
 ##[0.11.0]
 ### updated
 - non_residential_buildings.csv
