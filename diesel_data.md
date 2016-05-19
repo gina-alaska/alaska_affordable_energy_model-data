@@ -1,0 +1,36 @@
+## diesel_data.md
+
+### Responsible Party
+  * Organization Name: Geographic Information Network of Alaska (GINA)
+  * Email: support+aaem@gina.alaska.edu
+
+### Data Lineage
+  * Data File: diesel_data.csv
+  * Description: Diesel data file
+    * First line: Header
+    * Column Name [units] (Column Name)
+      * Community [unitless] ()
+      * Total Number of generators [unitless] ()
+      * Total Capacity 
+      * Largest
+      * Sizing
+      * Number to replace ("Poor")
+      * Switchgear Suitable [unitless] ()
+      * Waste Heat Recovery Opperational [unitless] ()
+      * Add waste heat Avail [unitless] ()
+      * Est. current annual heating fuel gallons displaced
+      * Est. potential annual heating fuel gallons displaced 
+  * Processing Steps
+    1. Export Diesel Fuel Prices tab from source file. 
+    2. Relpace '#' signs in header with word 'Number'
+    3. replace 'Alllakaket/Alatna' with 'Allakaket'
+    
+### Source File
+  * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
+  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 01262016.xlsm
+  * Date: 10/28/2015
+  * Contact Name: Contact Name: Neil McMahon
+  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
+  * Contact Email: NMcMahon@aidea.org
+  * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+
