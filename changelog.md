@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.13.2]
+### added 
+- population data
+
 ## [0.13.1]
 ### added 
 - wind data metadata
