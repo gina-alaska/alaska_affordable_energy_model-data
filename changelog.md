@@ -1,5 +1,14 @@
 #Change Log
 
+## [0.13.1]
+### added 
+- wind data metadata
+- diesel data
+
+## [0.13.0]
+### added
+- wind data
+
 ## [0.12.0]
 ### updated
 - residential data
