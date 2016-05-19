@@ -1,30 +1,31 @@
-## diesel_data.md
+## wind_data_potential.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: diesel_data.csv
-  * Description: Diesel data file
+  * Data File: wind_data_potential.csv
+  * Description: data for potential data
     * First line: Header
     * Column Name [units] (Column Description)
-      * Community [unitless] ()
-      * Total Number of generators [unitless] ()
-      * Total Capacity 
-      * Largest
-      * Sizing
-      * Number to replace ("Poor")
-      * Switchgear Suitable [unitless] ()
-      * Waste Heat Recovery Opperational [unitless] ()
-      * Add waste heat Avail [unitless] ()
-      * Est. current annual heating fuel gallons displaced
-      * Est. potential annual heating fuel gallons displaced 
+      * name [unitless] (community)
+      * Wind Potential [unitless] ()
+      * Wind-Resource [unitless] ()
+      * Assumed Wind Class [unitless] ()
+      * Wind Developability [unitless] ()
+      * Site Accessible [unitless] ()
+      * Permittability [unitless] ()
+      * Site Availability [unitless] ()
+      * Load [unitless] ()
+      * Certainty [unitless] ()
+      * Estimated Generation [kWh] ()
+      * Estimated Cost [$] ()
+      * Note [unitless] ()
+      * Resource Note [unitless] ()
   * Processing Steps
-    1. Export Diesel Data tab from source file. 
-    2. Relpace '#' signs in header with word 'Number'
-    3. replace 'Alllakaket/Alatna' with 'Allakaket'
-    
+    1. Export Wind Data tab from source file.
+
 ### Source File
   * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
   * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 01262016.xlsm

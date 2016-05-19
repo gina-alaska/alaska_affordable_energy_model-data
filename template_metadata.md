@@ -8,7 +8,7 @@
   * Data File: FILL_IN
   * Description: FILL_IN
     * First line: Header
-    * Column Name [units] (Column Name)
+    * Column Name [units] (Column Description)
       * FILL_IN
   * Processing Steps
     1. FILL_IN
