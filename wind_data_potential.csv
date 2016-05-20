@@ -75,7 +75,7 @@ Elim,,,4,,,,,,H,,,Met tower study,
 Emmonak,M,M,4,H,Y,Y,Y,Y,H,,,OPERATING,
 Evansville,,,3,,,,,,,,,,
 Eyak,M,M,4,H,Y,Y,Y,Y,H,,,,"MET>12 IN TWO SITES, MORE PLANNED"
-0 Pass,L,H,6,L,Y,Y,Y,X,H,,,CDR BY MARSH CR:  NEED RPSU,MET >12
+False Pass,L,H,7,L,Y,Y,Y,X,H,,,CDR BY MARSH CR:  NEED RPSU,MET >12
 Fort Yukon,L,L,2,H,Y,Y,Y,,M,,,,
 Gakona,L,L,2,M,N,Y,Y,Y,H,,,MET TOWER NEAR GAKONA,MET>12
 Galena,L,L,2,H,Y,Y,Y,,M,,,,
@@ -100,7 +100,7 @@ Igiugig,L,L,2,L,Y,Y,Y,X,H,,,,MET >12
 Iliamna,L,L,2,H,Y,Y,Y,Y,L,,,TIE TO ILIAMNA NEWHALEN AND NONDALTON,
 Ivanof Bay,,,0,,,,,,,,,,
 Jakolof Bay,,,0,,,,,,,,,,
-Juneau,,,0,,,,,,,,,,
+Juneau,,,6,,,,,,,,,,
 Kake,,,3,,,,,,H,,,Two met tower studies,
 Kaktovik,,,5,,,,,,,,,,
 Kalskag,M,M,4,M,Y,Y,Y,Y,L,,,ASSUME THIS IS UPPER KALSKAG,NO ONE FROM KALSKAG HAS APPROACHED
