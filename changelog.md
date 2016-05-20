@@ -1,7 +1,11 @@
 #Change Log
 
+## [0.13.3]
+### added
+- wind intertie data
+
 ## [0.13.2]
-### added 
+### updated 
 - population data
 
 ## [0.13.1]
