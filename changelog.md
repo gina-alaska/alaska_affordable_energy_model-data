@@ -1,5 +1,13 @@
 #Change Log
 
+## [0.14.0]
+### added
+- solar data
+
+### updated
+- diesel data
+
+
 ## [0.13.3]
 ### added
 - wind intertie data
