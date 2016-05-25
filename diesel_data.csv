@@ -1,21 +1,21 @@
-Community,Total Number of generators,Total Capacity,Largest,Sizing,"Number to replace (""Poor"")",Switchgear Suitable,Waste Heat Recovery Opperational,Add waste heat Avail,Est. current annual heating fuel gallons displaced,Est. potential annual heating fuel gallons displaced
+Community,Total Number of generators,Total Capacity (in kW),Largest generator (in kW),Sizing,"Number to replace (""Poor"")",Switchgear Suitable,Waste Heat Recovery Opperational,Add waste heat Avail,Est. current annual heating fuel gallons displaced,Est. potential annual heating fuel gallons displaced
 Adak,5,4035,1135,undersized & oversized,4,No,No,No,N/A,N/A
 Akhiok,3,267,117,properly sized,0,No,No,No,unknown,unknown
 Akiachak,4,1450,475,properly sized,0,Yes,Yes,Yes,N/A,N/A
 Akiak,4,920,230,properly sized,0,Yes,Yes,Yes,N/A,N/A
-Akutan,3,417,150,properly sized,1,No,N/A,No,N/A,N/A
+Akutan,3,417,150,properly sized,1,No,No,No,N/A,N/A
 Alakanuk,3,1150,500,properly sized,0,No,Yes,No,unknown,unknown
-Alllakaket,3,525,175,oversized,0,No,Yes,Yes,unknown,unknown
+Allakaket,3,525,175,oversized,0,No,Yes,Yes,unknown,unknown
 Ambler,3,1040,400,properly sized,0,No,No,No,unknown,unknown
 Anaktuvuk Pass,5,2810,910,undersized,0,Yes,Yes,Yes,unknown,unknown
-Anchorage,1,2,,,,,,,,
 Angoon,3,1525,550,oversized,0,Yes,Yes,Yes,0,0
-Aniak,2,1.1,,,,,,,,
+Aniak,2,1100,,,,,,,,
 Anvik,3,375,160,properly sized,0,No,Yes,No,unknown,unknown
 Arctic Village,4,395,130,properly sized,1,Yes,Yes,Yes,unknown,unknown
 Atka,3,257,110,properly sized,1,No,No,No,N/A,N/A
 Atmautluak,3,547,250,properly sized,0,Yes,No,No,N/A,N/A
-Atquasuk,6,4.1,,,,,,,,
+Atqasuk,6,4100,,,,,,,,
+Barrow,,,,,,,,,,
 Beaver,3,244,110,properly sized,2,Yes,Yes,Yes,18250,none
 Bethel,6,13500,2250,properly sized,0,No,Yes,Yes,unknown,unknown
 Bettles,3,600,300,properly sized,0,No,No,No,N/A,N/A
@@ -27,7 +27,7 @@ Chalkyitsik,3,307,125,properly sized,1,No,Yes,No,unknown,unknown
 Chefornak,3,921,371,properly sized,0,Yes,Yes,No,N/A,N/A
 Chenega Bay,3,175,65,undersized,0,Yes,Yes,No,unknown,unknown
 Chevak,3,1615,660,properly sized,0,Yes,Yes,Yes,N/A,N/A
-Chignik Bay,3,577,230,undersized ,0,Yes,Yes,No,N/A,N/A
+Chignik,3,577,230,undersized ,0,Yes,Yes,No,N/A,N/A
 Chignik Lagoon,3,453,160,oversized,0,Yes,Yes,No,unknown,unknown
 Chignik Lake,4,442,147,properly sized,3,Yes,Yes,No,unknown,unknown
 Chilkat Valley,1,600,600,oversized,1,No,No,No,unknown,unknown
@@ -41,9 +41,9 @@ Cold Bay,3,2600,875,properly sized,0,Yes,Yes,No,unknown,unknown
 Cordova,5,10853,3700,properly sized,0,Yes,Yes,No,unknown,unknown
 Craig,4,4545,1630,oversized,0,Yes,No,No,unknown,unknown
 Crooked Creek,3,223,95,properly sized,0,Yes,Yes,No,unknown,unknown
-Deadhorse,1,0.3,,,,,,,,
 Deering,4,577,170,oversized,0,Yes,Yes,No,unknown,unknown
-Dillingham,7,6.6,,,,,,,,
+Dillingham,7,6600,,,,,,,,
+Diomede,,,,,,,,,,
 Eagle,3,450,175,properly sized,0,Yes,Yes,Yes,unknown,unknown
 Eek,3,541,206,properly sized,0,No,Yes,No,N/A,N/A
 Egegik,2,380,200,properly sized,0,No,No,No,N/A,N/A
@@ -55,69 +55,71 @@ False Pass,3,375,175,properly sized,0,No,Yes,No,12775,unknown
 Fasle Island,1,1200,1200,undersized,0,Yes,No,No,unknown,unknown
 Fort Yukon,4,2070,600,properly sized,0,No,No,No,N/A,N/A
 Galena,6,4600,1050,properly sized,2,No,Yes,No,36500,unknown
-Gambell,3,1.6,,,,,,,,
-Glennallen,7,10.7,,,,,,,,
+Gambell,3,1600,,,,,,,,
+Glennallen,7,10700,,,,,,,,
 Golovin,4,580,200,properly sized,0,Yes,Yes,No,unknown,unknown
 Goodnews Bay,3,643,268,properly sized,0,No,Yes,Yes,N/A ,N/A
 Grayling,3,260,155,properly sized,0,No,No,No,N/A,N/A
 Gustavus,3,842,371,properly sized,0,Yes,No,No,unknown,unknown
-Haines,4,6.2,,,,,,,,
+Haines,4,6200,,,,,,,,
 Healy Lake,2,83,50,oversized,0,Yes,No,No,N/A,N/A
 Hollis,1,450,450,undersized,0,No,No,No,unknown,unknown
 Holy Cross,3,455,155,properly sized,0,No,No,No,0,0
-Hoonah,3,2,,,,,,,,
+Hoonah,3,2000,,,,,,,,
 Hooper Bay,4,2178,828,properly sized,0,Yes,Yes,No,N/A,N/A
 Hughes,4,230,78,properly sized,0,Yes,Yes,No,unknown,unknown
 Huslia,3,728,268,properly sized,0,No,Yes,No,unknown,unknown
 Hydaburg,3,1205,560,properly sized,0,Yes,No,Yes,unknown,unknown
 Igiugig,3,201,67,properly sized,0,Yes,Yes,Yes,unknown,unknown
-Ivanof Bay,3,224,92,0,3,No,No,No,N/A,N/A
-Juneau,19,106,,,,,,,,
+Ivanof Bay,3,224,92,,3,No,No,No,N/A,N/A
+Juneau,19,106000,,,,,,,,
 Kake,3,2431,1016,oversized,0,No,No,No,unknown,unknown
 Kaktovik,4,3090,910,properly sized,0,Yes,Yes,No,unknown,unknown
 Kaltag,3,549,325,properly sized,0,Yes,Yes,No,unknown,unknown
 Karluk,2,100,50,properly sized,0,No,No,No,unknown,unknown
 Kasaan,2,345,250,properly sized,0,No,No,No,unknown,unknown
 Kasigluk,3,1575,750,properly sized,0,Yes,Yes,Yes,N/A,N/A
-Ketchikan,4,25.9,,,,,,,,
+Ketchikan,4,25900,,,,,,,,
 Kiana,3,1195,500,oversized,0,No,Yes,No,unknown,unknown
 King Cove,4,2700,1050,properly sized,0,Yes,Yes,Yes,work being completed,none
+Kipnuk,,,,,,,,,,
 Kivalina,4,1160,350,properly sized,2,No,Yes,No,"operator new, not aware AVEC has records","operator new, not aware AVEC has records"
-Klawock,1,1,,,,,,,,
+Klawock,1,1000,,,,,,,,
 Kobuk,1,215,215,properly sized,0,No,No,No,N/A,N/A
-Kodiak,12,33.3,,,,,,,,
+Kodiak,12,33300,,,,,,,,
 Kokhanok,4,452,160,properly sized,0,Yes,Yes,No,unknown,unknown
 Koliganek,2,420,220,properly sized,1,No,Yes,No,unknown,unknown
 Kongiganak,4,985,250,properly sized,0,No,Yes,Yes,unknown,unknown
 Kotlik,4,1700,500,properly sized,1,Yes,Yes,No,unknown,unknown
-Kotzebue,5,11.1,,,,,,,,
+Kotzebue,5,11100,,,,,,,,
 Koyuk,3,1150,500,properly sized,0,Yes,Yes,No,unknown,unknown
 Koyukuk,4,202,64,properly sized,1,Yes,Yes,Yes,18250,none
 Kwethluk,3,1100,410,properly sized,0,Yes,Yes,Yes,N/A,N/A
 Kwigillingok,4,723,275,properly sized,0,No,Yes,Yes,0,0
 Larsen Bay,2,360,180,oversized,1,No,No,No,0,0
 Levelock,3,234,100,properly sized,0,Yes,Yes,Yes,9300,900
+Lime Village,,,,,,,,,,
 Manley Hot Springs,3,480,250,oversized,0,No,Yes,No,unknown,unknown
 Manokotak,4,830,260,properly sized,0,Yes,Yes,Yes,unknown,unknown
 Marshall,3,1085,500,properly sized,0,No,Yes,No,unknown,unknown
 McGrath,4,2140,670,properly sized,1,No,Yes,No,60000,unknown
 Mekoryuk,3,704,268,properly sized,0,Yes,Yes,No,N/A,N/A
-Metlakatla,1,3.3,,,,,,,,
+Metlakatla,1,3300,,,,,,,,
 Minto,3,708,268,oversized,0,No,Yes,Yes,unknown,unknown
 Mountain Village,4,1990,750,undersized,0,No,Yes,No,unknown,unknown
-Naknek,10,9.9,,,,,,,,
+Naknek,10,9900,,,,,,,,
 Napakiak,1,250,250,properly sized,0,No,No,No,N/A,N/A
 Napaskiak,3,577,230,properly sized,0,Yes,No,No,N/A,N/A
-Naukati,3,488,175,properly sized,0,Yes,Yes,Yes,unknown,unknown
+Naukati Bay,3,488,175,properly sized,0,Yes,Yes,Yes,unknown,unknown
 Nelson Lagoon,3,295,110,properly sized,1,Yes,No,No,N/A,N/A
 New Stuyahok,3,1331,500,properly sized,0,No,Yes,No,unknown,unknown
 Newhalen,4,1560,600,properly sized,0,No,Yes,Yes,5000,16000
+Newtok,,,,,,,,,,
 Nightmute,1,325,325,properly sized,0,No,No,No,N/A,N/A
 Nikolai,3,300,100,properly sized,0,No,No,No,N/A,N/A
 Nikolski,3,196,71,properly sized,0,Yes,Yes,No,660,none
 Noatak,3,1184,500,oversized,1,No,No,No,unknown,unknown
 Nome,5,16357,5211,properly sized,0,Yes,Yes,No,unknown,unknown
-Nondalton,0,0,0,0,0,No,No,No,0,0
 Noorvik,3,1614,750,properly sized,2,No,No,No,N/A,N/A
 Northway,3,1030,400,oversized,0,Yes,No,No,N/A,N/A
 Nuiqsut,5,3910,910,properly sized,0,Yes,Yes,No,unknown,unknown
@@ -129,13 +131,13 @@ Ouzinkie,3,335,190,properly sized,0,Yes,No,No,0,0
 Pedro Bay,3,211,95,properly sized,0,Yes,No,No,N/A ,N/A
 Pelican,3,921,371,properly sized,0,Yes,No,No,unknown,unknown
 Perryville,3,473,175,properly sized,0,No,Yes,Yes,10950,unknown
-Petersburg,8,13.2,,,,,,,,
+Petersburg,8,32000,,,,,,,,
 Pilot Point,3,246,101,properly sized,0,Yes,Yes,Yes,unknown,unknown
-Pilot Station,3,1.2,,,,,,,,
+Pilot Station,3,1200,,,,,,,,
 Pilot Station ,3,1202,450,properly sized,0,No,No,No,0,0
 Platinum,2,129,75,properly sized,0,No,Yes,No,N/A,0
-Point Hope,4,3.1,,,,,,,,
-Point Lay,4,2.4,,,,,,,,
+Point Hope,4,3100,,,,,,,,
+Point Lay,4,2400,,,,,,,,
 Port Alsworth,3,466,187,properly sized,0,No,Yes,No,14600,2500
 Port Heiden,2,369,190,properly sized,1,No,Yes,No,unknown,unknown
 Quinhagak,3,1212,499,oversized,,Yes,No,Yes,unknown,unknown
@@ -151,27 +153,23 @@ Sand Point,4,2880,900,properly sized,0,Yes,Yes,No,3650,18250
 Savoonga,3,1523,660,properly sized,0,Yes,Yes,No,unknown,unknown
 Scammon Bay,3,1285,660,properly sized,0,No,Yes,No,N/A,N/A
 Selawik,3,1625,800,properly sized,1,Yes,Yes,Yes,unknown,unknown
-Seldovia,2,2.4,,,,,,,,
-Seward,6,15.6,,,,,,,,
 Shageluk,3,407.5,190,properly sized,0,No,Yes,No,unknown,unknown
 Shaktoolik,3,998,470,oversized,0,Yes,Yes,No,unknown,unknown
 Shishmaref,4,1576,500,properly sized,2,No,Yes,No,unknown,unknown
 Shungnak,4,1317,400,properly sized,0,No,Yes,No,unknown,unknown
-Sitka,5,25.6,,,,,,,,
-Skagway,4,3.4,,,,,,,,
+Sitka,5,25600,,,,,,,,
+Skagway,4,3400,,,,,,,,
 Slana,3,730,275,properly sized,0,Yes,Yes,No,unknown,unknown
 Sleetmute,4,323,110,properly sized,0,Yes,No,No,0,0
-St Marys,3,6.5,,,,,,,,
-St. Michael,3,1,,,,,,,,
 Stebbins,3,1100,500,properly sized,1,No,No,No,N/A,N/A
 Stevens Village,4,258,95,properly sized,0,Yes,Yes,Yes,unknown,unknown
 Stony River,3,138,64,properly sized,0,Yes,No,No,0,0
 Takotna,4,216,78,properly sized,3,No,No,No,N/A,N/A
 Tanana,4,1605,680,properly sized,0,No,Yes,Yes,unknown,unknown
 Tatitlek,3,315,125,properly sized,2,No,No,No,unknown,unknown
-Telida,3,28,28,0,3,No,No,No,N/A,N/A
+Telida,3,28,28,,3,No,No,No,N/A,N/A
 Teller,6,1050,297,properly sized,3,No,No,No,N/A,N/A
-Tenakee,3,240,88,properly sized,0,Yes,No,No,unknown,unknown
+Tenakee Springs,3,240,88,properly sized,0,Yes,No,No,unknown,unknown
 Thorne Bay,2,1075,650,properly sized,0,Yes,No,No,unknown,unknown
 Togiak,3,1628,828,properly sized,0,No,Yes,No,unknown,unknown
 Tok,6,7010,1930,oversized,0,No,Yes,No,unknown,unknown
@@ -180,17 +178,14 @@ Tuluksak,4,795,290,properly sized,4,No,No,No,N/A,N/A
 Tuntutuliak,4,802,250,properly sized,0,No,No,No,0,0
 Tununak,1,325,325,properly sized,0,No,No,No,N/A,N/A
 Twin Hills,2,220,128,properly sized,0,No,No,No,N/A,N/A
-UAF,1,9.6,,,,,,,,
 Unalakleet,4,1820,455,properly sized,0,Yes,Yes,Yes,unknown,unknown
-Unalaska,7,18.6,,,,,,,,
-Unalaska/Dutch Harbor,7,19060,5400,properly sized,0,No,Yes,No,unknown,unknown
-Unisea,8,17.5,,,,,,,,
-Upper Kalskag,3,1.1,325,properly sized,0,Yes,No,No,unknown,unknown
-Valdez,8,15,,,,,,,,
+Unalaska,7,19060,5400,properly sized,0,No,Yes,No,unknown,unknown
+Upper Kalskag,3,1100,325,properly sized,0,Yes,No,No,unknown,unknown
+Valdez,8,15000,,,,,,,,
 Venetie,3,495,190,properly sized,0,No,Yes,No,2000,unknown
 Wainwright,5,3110,910,undersized,0,Yes,Yes,Yes,unknown,unknown
 Wales,3,495,200,properly sized,0,No,No,No,unknown,unknown
 Whale Pass,3,250,110,properly sized,0,Yes,Yes,No,unknown,unknown
 White Mountain,3,585,275,properly sized,1,Yes,Yes,No,unknown,unknown
-Wrangell,4,8.5,,,,,,,,
+Wrangell,4,8500,,,,,,,,
 Yakutat,5,6715,1855,oversized,1,Yes,Yes,Yes,unknown,unknown

@@ -22,12 +22,10 @@
       * Est. potential annual heating fuel gallons displaced 
   * Processing Steps
     1. Export Diesel Data tab from source file. 
-    2. Relpace '#' signs in header with word 'Number'
-    3. replace 'Alllakaket/Alatna' with 'Allakaket'
     
 ### Source File
   * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
-  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 01262016.xlsm
+  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
   * Date: 01/26/2016
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
