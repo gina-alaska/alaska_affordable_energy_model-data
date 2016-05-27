@@ -45,6 +45,7 @@
       - Added Valdez, Commented out all of the seperate entry for Valdez
     8. updated Hains intertie (2015-04-28)
       - added Skagway
+    9. changed Alakanuk 'Community Name with power generation' to yes
     
 ### Source File
   * Description: List of intertied communities, identifying the community with the power generation and the other communities on the intertie. Neil McMahon suggests this data can be cross-checked  against the power house data in the energy statistics
