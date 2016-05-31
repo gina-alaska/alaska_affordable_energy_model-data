@@ -2,6 +2,10 @@
 
 ## [0.14.0]
 ### added
+- changed Alakanuk 'plant intertied field to yes' 
+
+## [0.14.0]
+### added
 - solar data
 
 ### updated
