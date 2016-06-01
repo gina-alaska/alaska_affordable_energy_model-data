@@ -1,7 +1,11 @@
 #Change Log
 
-## [0.14.0]
+## [0.14.2]
 ### added
+- existing solar data
+
+## [0.14.1]
+### changed
 - changed Alakanuk 'plant intertied field to yes' 
 
 ## [0.14.0]
