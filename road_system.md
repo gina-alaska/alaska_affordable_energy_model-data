@@ -12,14 +12,27 @@
       * name [unitless] (community name)
       * On Road/SE [unitless] (Is a community on the road system or southeast Marine Highway system)
   * Processing Steps
-    1. Export Biomass Data tab from source file.
-    2. delete columns b - f, and H +
-    3. add header comment 
+    1. rename source file to road_system.csv
+    2. new source file is a file modified by Neil McMahon processed from the original source file:
+        1. Export Biomass Data tab from source file.
+        2. delete columns b - f, and H +
+        3. add header comment 
+    
+    
+### Second Source File
+  * Description: road system data
+  * Filename: road_system 06162016.csv
+  * Date: 06/16/2016
+  * Contact Name: Contact Name: Neil McMahon
+  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
+  * Contact Email: NMcMahon@aidea.org
+  * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)    
 
-### Source File
+
+### Original Source File
   * Description: Manley Hot Springs Model Draft.  Biomass data tab
   * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
-  * Date: 01/26/2016
+  * Date: 05/19/2016
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
