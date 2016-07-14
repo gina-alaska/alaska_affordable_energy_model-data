@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.16.1]
+### added
+- hydro_projcts.csv and related files
+
 ## [0.16.0]
 ### added
 - project_development_timeframs.csv and related files
