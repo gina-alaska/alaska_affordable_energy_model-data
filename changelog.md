@@ -1,6 +1,12 @@
 #Change Log
 
 ## [0.16.1]
+### updated
+- biomass prices
+- water/wastewater prices
+- diesel data
+
+## [0.16.1]
 ### added
 - hydro_projcts.csv and related files
 
