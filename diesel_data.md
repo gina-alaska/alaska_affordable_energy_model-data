@@ -21,11 +21,14 @@
       * Est. current annual heating fuel gallons displaced
       * Est. potential annual heating fuel gallons displaced 
   * Processing Steps
-    1. Export Diesel Data tab from source file. 
+    1. rename source file to diesel_data.csv
+    2. original steps
+      * Export Diesel Data tab from source file. 
     
 ### Source File
-  * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
-  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
+  * Description: diesel and heat recovery daya
+  * source: Diesel & Heat Recovery for Model 06082016.xlsx
+  * original source: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
   * Date: 01/26/2016
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
