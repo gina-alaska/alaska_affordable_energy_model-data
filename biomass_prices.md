@@ -15,12 +15,12 @@
       * Pellets ($/ton) [$/Ton] (pellet price)
       * Source [unitless] (Source of biomass price data)
   * Processing Steps
-    1. Export the 4 columns from the source file into biomass_price_estimates.csv
-    2. Note: Kodiak and Aleutian region do not have data.  Listed as 'N/A' in column.
-
+    1. rename file to biomass_prices.csv
+    
 ### Source File
   * Description: biomass prices for pellet and cordwood
-  * Filename: Biomass Price Data for model 06162016.xlsx
+  * Filename: biomass_prices 07012016.csv
+  * Original source: Biomass Price Data for model 06162016.xlsx
   * Date: 06/16/2016
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
