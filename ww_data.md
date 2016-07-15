@@ -31,11 +31,17 @@
       * McGrath has a more complete entry (with data) in the original file so keep that (do not replace McGrath with this entry)
     5. added the biomass column (2016-04-28)
     6. addes year column (2016-05-09)
+    7. For new source rename to ww_data.csv
 
 ### Source Files
-  * Description: Manley Hot Springs Model Draft.  The Water & Sewer tab contains needed information. Neil McMahon notes "I've included data for heat recovery as a column on w&ww the data page.  There are also more communities with identified system types.  For now, unless we get better info at a later date, I have categorized the 15 or so different w&ww types into the five categories already defined, with an additional category of "N/A"."
-  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 11172015.xlsm
-  * Date: 11/17/2015
+  * updated source:
+    * Description: updated water/wastewater data based on file created from original source and processign steps above
+    * Filename: ww_data 07012016.csv
+    * Date: 2016/07/01
+  * original source
+    * Description: Manley Hot Springs Model Draft.  The Water & Sewer tab contains needed information. Neil McMahon notes "I've included data for heat recovery as a column on w&ww the data page.  There are also more communities with identified system types.  For now, unless we get better info at a later date, I have categorized the 15 or so different w&ww types into the five categories already defined, with an additional category of "N/A"."
+    * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 11172015.xlsm
+    * Date: 11/17/2015
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
