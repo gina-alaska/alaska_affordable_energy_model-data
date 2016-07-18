@@ -31,6 +31,7 @@
       * USACE siteGroup [Unitless] ()
   * Processing Steps
     1. rename source to hydro_projects.csv
+    2. remove _intertie from communty names
 
 ### Source File
   * Description: data for various hydropower projects
