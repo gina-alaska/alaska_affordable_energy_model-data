@@ -3,7 +3,7 @@ Adak,40,E,Nonres Model
 Akhiok,15,M,Regional Planners
 Akiachak,40,M,ANTHC
 Akiak,33,M,ANTHC
-Akutan,19,M,ANTHC
+Akutan,24,M,RACEE
 Alakanuk,31,M,ANTHC
 Alatna,5,M,ANTHC
 Aleknagik,22,M,ANTHC
@@ -26,7 +26,7 @@ Brevig Mission,24,M,ANTHC
 Buckland,13,M,ANTHC
 Central,19,E,Nonres Model
 Chalkyitsik,18,M,Building Inventory
-Chefornak,17,M,ANTHC
+Chefornak,16,M,RACEE
 Chenega Bay,18,E,Building Inventory
 Chevak,35,M,ANTHC
 Chignik,35,E,Nonres Model
@@ -61,10 +61,10 @@ Elim,34,M,Building Inventory
 Emmonak,46,M,ANTHC
 Evansville,4,M,Building Inventory
 Excursion Inlet,1,M,Building Inventory
-False Pass,28,M,Building Inventory
+False Pass,29,M,RACEE
 Fort Yukon,60,M,ANTHC
 Gakona,41,E,Nonres Model
-Galena,81,M,Building Inventory
+Galena,58,M,RACEE
 Gambell,23,M,Building Inventory
 Glennallen,52,M,Building Inventory
 Golovin,25,M,ANTHC
@@ -75,7 +75,7 @@ Gustavus,22,M,Regional Planners
 Haines,142,M,Haines Property
 Healy Lake,3,M,Building Inventory
 Hollis,8,M,Regional Planners
-Holy Cross,29,M,ANTHC
+Holy Cross,17,M,RACEE
 Hoonah,55,M,Regional Planners
 Hooper Bay,31,M,ANTHC
 Hughes,15,M,AEA
@@ -93,7 +93,7 @@ Kasaan,21,M,ANTHC
 Kasigluk,34,M,ANTHC
 Kenny Lake,40,E,Nonres Model
 Ketchikan,261,M,Ketchikan Property
-Kiana,27,M,ANTHC
+Kiana,18,M,RACEE
 King Cove,51,M,ANTHC
 King Salmon,40,E,Nonres Model
 Kipnuk,33,M,Building Inventory
@@ -147,7 +147,7 @@ Nikolski,19,M,ANTHC
 Noatak,23,M,ANTHC
 Nome,164,M,City of Nome
 Nondalton,17,M,Building Inventory
-Noorvik,18,M,Building Inventory
+Noorvik,28,M,RACEE
 Northway,19,M,Building Inventory
 Northway Village,3,M,Building Inventory
 Nuiqsut,36,M,North Slope Borough
@@ -171,7 +171,7 @@ Point Lay,32,M,North Slope Borough
 Port Alexander,20,E,Nonres Model
 Port Alsworth,16,M,Building Inventory
 Port Heiden,12,M,Building Inventory
-Port Lions,30,M,Building Inventory
+Port Lions,28,M,RACEE
 Port Protection,3,M,Regional Planners
 Quinhagak,35,M,Building Inventory
 Rampart,14,M,ANTHC
@@ -182,14 +182,14 @@ Saint George,13,M,Building Inventory
 Saint Mary's,54,M,ANTHC
 Saint Michael,24,M,Building Inventory
 Saint Paul,19,M,Building Inventory
-Sand Point,53,M,ANTHC
+Sand Point,56,M,RACEE
 Savoonga,35,M,ANTHC
 Saxman,15,M,ANTHC
 Scammon Bay,35,M,ANTHC
 Selawik,33,M,ANTHC
 Shageluk,27,M,ANTHC
 Shaktoolik,24,M,Building Inventory
-Shishmaref,49,M,ANTHC
+Shishmaref,35,M,RACEE
 Shungnak,25,M,ANTHC
 Silver Springs,25,E,Nonres Model
 Sitka,302,M,City of Sitka
