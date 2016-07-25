@@ -33,20 +33,19 @@
       * Propane Post [gallons/year] ()
       * Biomass Post [cords/year] ()
       * implementation cost [$] ()
-      * ,
-      * ,
-      * ,
-      * ,
-      * ,
   * Processing Steps
     1. Export to non_res_buildings.csv.
-    2. Be sure to use the columns as identified in this file, replacing the original columns where needed.  Naming is important in running the AAEM model.
-    3. removed '#Ref?' values from address rows (2015-05-04)
+    2. Rename Columns 
+      * Be sure to use the columns as identified in this file, replacing the original columns where needed.  Naming is important in running the AAEM model.
+    3. Remove last two cloumns
+    4. Relpace '#Ref?' and '#name!' with ''
+    5. Relpace remaining '#' characters with '--'
+    
 
 ### Source File
   * Description: Building inventory as determined by AEA (via many methods)
-  * Filename: Consolidated\ AEA\ Building\ Inventory\ 02262016.csv
-  * Date: 02/26/2016
+  * Filename: Compiled nonresidential buildings 07212016.xlsx
+  * Date: 07/27/2016
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org

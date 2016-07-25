@@ -1,5 +1,14 @@
 #Change Log
 
+## [0.16.7]
+### updated
+- added and updated metadata for files changed in 0.16.6
+
+## [0.16.6]
+### updated
+- non_res_buildings.csv
+- com_num_buildings.csv
+
 ## [0.16.5]
 ### changes
 - enables upper kalskag and lower kalskag
