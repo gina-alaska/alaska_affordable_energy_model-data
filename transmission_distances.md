@@ -18,6 +18,14 @@
     2. add 'community' as column 1 header
 
 ### Source File
+  * Description: Infromation on each communities nearest neighbor for intertie purposes
+  * Filename: transmission_distances 07252016.csv
+  * Date: 07/25/2016
+  * Contact Name: Neil McMahon
+  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
+  * Contact Email: NMcMahon@aidea.org
+  * Delivery Method: FILL_IN
+
   * Description: Manley Hot Springs Model Draft. The 'intertie distace data' tab has information on nearest viable community for adding an intertie.
   * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
   * Date: 05/19/2016

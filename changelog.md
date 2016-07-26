@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.16.8]
+### updated
+- transmission_distances
+
 ## [0.16.7]
 ### updated
 - added and updated metadata for files changed in 0.16.6

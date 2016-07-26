@@ -1,4 +1,4 @@
-community,Maximum savings ($/kWh),Nearest Community with Lower Price Power,Distance to Community
+,Maximum savings ($/kWh),Nearest Community with Lower Price Power,Distance to Community
 Adak,0,,
 Afognak,0,,
 Akhiok,0,,
@@ -237,7 +237,7 @@ Ruby,0,,
 Russian Mission,0.0131,Marshall,25.72430032
 Saint George,0,,
 Saint Mary's,0.0034,Pilot Station,12.34260181
-Saint Michael,-1.00E-04,,
+Saint Michael,-1E-04,,
 Saint Paul,0,,
 Salamatof,0,,
 Sanak,0,,
@@ -255,7 +255,7 @@ Shuyak Island,0,,
 Silver Springs,0,,
 Sitka,0,,
 Skagway,0.0048,Covenant Life,24.45134051
-Slana,-1.00E-04,,
+Slana,-1E-04,,
 Sleetmute,0,,
 Solomon,0,,
 South Naknek,0,,
