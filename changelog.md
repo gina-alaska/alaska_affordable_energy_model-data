@@ -2,6 +2,10 @@
 
 ## [0.16.8]
 ### updated
+- community list for upper kalskag
+
+## [0.16.8]
+### updated
 - transmission_distances
 
 ## [0.16.7]
