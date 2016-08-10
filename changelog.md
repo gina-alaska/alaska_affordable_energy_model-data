@@ -1,5 +1,13 @@
 #Change Log
 
+## [0.17.0]
+### updated 
+- ashp data updated
+
+## [0.16.9]
+### updated
+- community list for upper kalskag
+
 ## [0.16.8]
 ### updated
 - transmission_distances

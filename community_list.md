@@ -18,6 +18,8 @@
     2. Add a primary column containing "Model ID".  These IDs are just assigned 1..N(Communities) and do not need to stay consistent as communities may be added or subtracted from this list.
     3. Patch in the FIPS IDs.
     4. Patch in the GNIS IDs.
+    5. fix Upper Kalskag GNIS and FIPS id. They should be 1404378, and 81320 
+
 
 ### Source File
   * Description: Community lists in 3 tabs (non-railbelt communities, communities too small to model, railbelt communities removed)
