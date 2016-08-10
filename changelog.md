@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.17.1]
+### added
+- heat recovery data
+
 ## [0.17.0]
 ### updated 
 - ashp data updated
