@@ -5,7 +5,7 @@
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: non_res_buildings.md
+  * Data File: non_res_buildings.csv
   * Description: Inventory of buildings by community.  Significant classification is building type (the AAEM model has set classifications).
     * First line: Header
     * Column Name [units] (Column Name)
@@ -43,6 +43,14 @@
     
 
 ### Source File
+  * Description: Building inventory as determined by AEA (via many methods)
+  * Filename: non_res_buildings 08102016.md
+  * Date: 08/10/2016
+  * Contact Name: Neil McMahon
+  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
+  * Contact Email: NMcMahon@aidea.org
+  * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+
   * Description: Building inventory as determined by AEA (via many methods)
   * Filename: Compiled nonresidential buildings 07212016.xlsx
   * Date: 07/27/2016

@@ -14,9 +14,17 @@
       * estimate/measured [None] (data is estimated(e) or measured(m)
       * source [None] ()
   * Processing Steps
-    1. Rename 'com_num_buildings 07222016.csv' to com_num_buildings.csv in the data directory.
+    1. Rename 'com_num_buildings 08092016.csv' to com_num_buildings.csv in the data directory.
 
 ### Source Files
+  * Description: Contains estimated number of buildings for Alaskan communities. The data was acquired from a number of sources.  Actual building counts were collected either through tax assessor records or through an unrelated GIS project by the Alaska Native Tribal Health Consortium.  Using this data, a regression was done against the communities' median household incomes (from the 2010 Census) and the communities' populations. For those communities without an actual non-residential building count, the population and MHI was plugged into the equation to estimate the number of non-residential buildings.
+  * Filename: 'com_num_buildings 08092016.csv'
+  * Date: 08/09/2016
+  * Contact Name: Neil McMahon
+  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
+  * Contact Email: NMcMahon@aidea.org
+  * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+
   * Description: Contains estimated number of buildings for Alaskan communities. The data was acquired from a number of sources.  Actual building counts were collected either through tax assessor records or through an unrelated GIS project by the Alaska Native Tribal Health Consortium.  Using this data, a regression was done against the communities' median household incomes (from the 2010 Census) and the communities' populations. For those communities without an actual non-residential building count, the population and MHI was plugged into the equation to estimate the number of non-residential buildings.
   * Filename: 'com_num_buildings 07222016.csv'
   * Date: 07/22/2016

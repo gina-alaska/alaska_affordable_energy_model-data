@@ -1,5 +1,10 @@
 #Change Log
 
+## [0.17.2]
+### updated
+- community number buildings data/metadata
+- non-res building inventory data/metadata
+
 ## [0.17.1]
 ### added
 - heat recovery data
