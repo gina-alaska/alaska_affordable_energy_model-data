@@ -35,8 +35,8 @@
 
 ### Source File
   * Description: data for various hydropower projects
-  * Filename: Hydro Model Input v4.xlsx
-  * Date: 2016-07-13
+  * Filename: hydro_projects 09192016s.csv
+  * Date: 2016-09-19
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
