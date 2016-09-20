@@ -34,26 +34,13 @@
       * Biomass Post [cords/year] ()
       * implementation cost [$] ()
   * Processing Steps
-    1. Export to non_res_buildings.csv.
-    2. Rename Columns 
-      * Be sure to use the columns as identified in this file, replacing the original columns where needed.  Naming is important in running the AAEM model.
-    3. Remove last two cloumns
-    4. Relpace '#Ref?' and '#name!' with ''
-    5. Relpace remaining '#' characters with '--'
+    1. rename as non_res_buildings.csv
     
 
 ### Source File
   * Description: Building inventory as determined by AEA (via many methods)
-  * Filename: non_res_buildings 08102016.md
-  * Date: 08/10/2016
-  * Contact Name: Neil McMahon
-  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
-  * Contact Email: NMcMahon@aidea.org
-  * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
-
-  * Description: Building inventory as determined by AEA (via many methods)
-  * Filename: Compiled nonresidential buildings 07212016.xlsx
-  * Date: 07/27/2016
+  * Filename: non_res_buildings 08122016.csv
+  * Date: 08/12/2016
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
