@@ -44,6 +44,15 @@
 
 ### Source File
   * Description: Cliamte data for air source heat pump project devlopement
+  * Filename: ashp_data ashp_data 08122016.csv
+  * Date: 2016/09/20
+  * Contact Name: Neil McMahon
+  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
+  * Contact Email: NMcMahon@aidea.org
+  * Delivery Method: FILL_IN
+
+### Previous Source Files:
+  * Description: Cliamte data for air source heat pump project devlopement
   * Filename: ashp_data 07092016.csv
   * Date: 2016/07/09
   * Contact Name: Neil McMahon
