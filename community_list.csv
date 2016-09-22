@@ -29,7 +29,7 @@ Model ID,Community,Energy Region,GNIS,FIPS,Alias
 202,Central,Yukon-Koyukuk/Upper Tanana,1400106,11690,
 203,Chalkyitsik,Yukon-Koyukuk/Upper Tanana,1400128,11800,
 94,Chefornak,Lower Yukon-Kuskokwim,1400188,12680,
-#56 # key error? Just Chenega?,Chenega Bay,Copper River/Chugach,1421254,12970,
+56,Chenega Bay,Copper River/Chugach,1421254,12970,Chenega
 95,Chevak,Lower Yukon-Kuskokwim,1400219,13230,
 204,Chicken,Yukon-Koyukuk/Upper Tanana,1400245,13450,
 30,Chignik,Bristol Bay,1400269,13550,
@@ -167,7 +167,7 @@ Model ID,Community,Energy Region,GNIS,FIPS,Alias
 84,Old Harbor,Kodiak Region,1407483,57340,
 119,Oscarville,Lower Yukon-Kuskokwim,1407624,58330,
 85,Ouzinkie,Kodiak Region,1407684,58550,
-#69 #zero division res sales are zero,Paxson,Copper River/Chugach,1866966,59320,
+69,Paxson,Copper River/Chugach,1866966,59320,
 48,Pedro Bay,Bristol Bay,1407862,59540,
 181,Pelican,Southeast,1424201,59650,
 49,Perryville,Bristol Bay,1407902,60200,
