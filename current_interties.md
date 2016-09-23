@@ -1,11 +1,11 @@
-## interties.md
+## current_interties.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: interties.csv
+  * Data File: current_interties.csv
   * Description: List of intertied communities, identifying the community with the power generation and the other communities on the intertie.
     * First line: Header
     * Column Name [units] (Column Name)
@@ -28,7 +28,7 @@
       * Other Community on Intertie [unitless] (child community)
       * Other Community on Intertie [unitless] (child community)
   * Processing Steps
-    1. Export Interties tab in source file to interties.csv.
+    1. Export Interties tab in source file to current_interties.csv.
     2. Remove Napaskiak from Bethel intertie.
     3. Remove double entry for Unalaska.
     4. Add New Allakaket to intertie with Allakaket and Alatna.

@@ -1,19 +1,19 @@
-## hdd.md
+## heatin_degree_days.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: hdd.csv
+  * Data File: heatin_degree_days.csv
   * Description: Contains heating degree days per year for Alaskan communities.
     * First line: Header
     * Column Name [units] (column description)
       * Community [unitless] (Alaska communities)
       * HDD in ARIS equations [Degree Fahrenheit/year] (heating degree days per year)
   * Processing Steps
-    1. Export HDD.xlsx to hdd.csv
-      * Description: Export first two columns of HDD tab in HDD.xlsx file into .csv format used in python AAEM model. Save as hdd.csv.
+    1. Export HDD.xlsx to heatin_degree_days.csv
+      * Description: Export first two columns of HDD tab in HDD.xlsx file into .csv format used in python AAEM model. Save as heatin_degree_days.csv.
     2. Check spelling on glennallen (source file had spelling as Glenallen)
 
 ### Source File

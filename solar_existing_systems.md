@@ -1,11 +1,11 @@
-## solar_data_existing.md
+## solar_existing_systems.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: solar_data_existing.csv
+  * Data File: solar_existing_systems.csv
   * Description: information on existing solar systems
     * First line: Header
     * Column Name [units] (Column Description)

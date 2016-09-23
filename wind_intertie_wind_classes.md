@@ -1,11 +1,11 @@
-## wind_data_interties.md
+## wind_intertie_wind_classes.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: wind_data_interties.csv
+  * Data File: wind_intertie_wind_classes.csv
   * Description: information on the highest wind class for an intertie
     * First line: Header
     * Column Name [units] (Column Description)

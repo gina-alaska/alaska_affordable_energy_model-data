@@ -1,11 +1,11 @@
-## ww_data.md
+## water-wastewater_projects_potential.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: ww_data.csv
+  * Data File: water-wastewater_projects_potential.csv
   * Description: Description of water and wastewater systems for Alaska communities.  Not every community's information is available.
     * First line: Header
     * Column Name [units] (Column Name)

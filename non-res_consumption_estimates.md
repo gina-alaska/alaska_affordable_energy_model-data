@@ -1,11 +1,11 @@
-## com_building_estimates.md
+## non-res_consumption_estimates.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: com_building_estimates.csv
+  * Data File: non-res_consumption_estimates.csv
   * Description: Model parameters to estimate non-residential building electric and fuel consumption when no data is available.
     * Line 1: ",Gal/sf Low,Gal/sf Mid,Gal/sf High,kWh/sf Low,kWh/sf Mid,kWh/sf High,Sqft Low ,Sqft Mid,Sqft High,HDD Low,HDD Mid,HDD High"
     * Line 2 : "Estimate units,Gal/sf,Gal/sf,Gal/sf,kWh/sf,kWh/sf,kWh/sf,Sqft,Sqft,Sqft,HDD,HDD,HDD"
@@ -16,7 +16,7 @@
     * Line 4:
       * "Upper Limit" [square feet] (12 entries, the upper limit of the high size building is "inf")
   * Processing Steps
-    1. Create a com_building_estimates.csv by hand and fill in data using the template as given.
+    1. Create a non-res_consumption_estimates.csv by hand and fill in data using the template as given.
     2. Line 1 is a units descriptor for the estimates as a function of building size (low, mid, high)
     3. Line 2 is a units descriptor for the estimates as a function of building size (low, mid, high)
     4. Line 3 is the lower limit on the 3 building sizes for the 4 categories (Av Gal/sf, Avg kWh/sf, Average sf, Average of HDD); entered from the source file.

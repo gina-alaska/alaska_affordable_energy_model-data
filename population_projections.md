@@ -1,11 +1,11 @@
-## population.md
+## population_projections.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: population.csv
+  * Data File: population_projections.csv
   * Description: Population as a function of year for Alaska communities.
     * First line: Header
     * Column Name [units] (Column Name)

@@ -1,11 +1,11 @@
-## non_res_buildings.md
+## non-res_buildings.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: non_res_buildings.csv
+  * Data File: non-res_buildings.csv
   * Description: Inventory of buildings by community.  Significant classification is building type (the AAEM model has set classifications).
     * First line: Header
     * Column Name [units] (Column Name)
@@ -34,7 +34,7 @@
       * Biomass Post [cords/year] ()
       * implementation cost [$] ()
   * Processing Steps
-    1. rename as non_res_buildings.csv
+    1. rename as non-res_buildings.csv
     
 
 ### Source File

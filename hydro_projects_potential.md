@@ -1,11 +1,11 @@
-## hydro_projects.md
+## hydro_projects_potential.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: hydro_projects.csv
+  * Data File: hydro_projects_potential.csv
   * Description: data for various hydropower projects
     * First line: Header
     * Column Name [units] (Column Description)
@@ -30,7 +30,7 @@
       * LON [Decimal Degrees] ()
       * USACE siteGroup [Unitless] ()
   * Processing Steps
-    1. rename source to hydro_projects.csv
+    1. rename source to hydro_projects_potential.csv
     2. remove _intertie from communty names
 
 ### Source File

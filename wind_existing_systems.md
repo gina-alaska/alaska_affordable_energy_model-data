@@ -1,23 +1,23 @@
-## wind_costs.md
+## wind_existing_systems.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: wind_cost.csv
-  * Description: wind costs
+  * Data File: wind_existing_systems.csv
+  * Description: Data on existing wind systems
     * First line: Header
     * Column Name [units] (Column Description)
-      * kW [kW] (upper kW limit for costs)
-      * $/kW [$] (cost for project
+      * Row Labels [unitless] (community)
+      * Rated Power (kW) [kW] ()
   * Processing Steps
-    1. copy table from docx file to csv file
+    1. change Capacity (kW) to Rated Power(kW)
 
 ### Source File
-  * Description: costs for wind power
-  * Filename: wind cost.docx
-  * Date: 01/26/2016
+  * Description: Data on existing wind systems
+  * Filename: Existing Wind.csv
+  * Date: 05/17/2016
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org

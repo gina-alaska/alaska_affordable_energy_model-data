@@ -1,5 +1,15 @@
 #Change Log
 
+## [0.20.0]
+### updated
+- ashp_data.csv
+- hydro_projects.csv
+- non-res_building inventory
+- residential buildings data
+- wind projects
+- water/wastewater data 
+
+
 ## [0.19.0]
 ### added
 - moved construction multipliers here

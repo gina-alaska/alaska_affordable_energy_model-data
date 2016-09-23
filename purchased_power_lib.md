@@ -32,11 +32,3 @@
   * Organization Name: Alaska Energy Data Gateway (https://akenergygateway.alaska.edu/)
   * Contact Email: N/A
   * Delivery Method: Download from AEDG Data Search Tools on 03/11/2016 @ 2:37 PM
-
-  * Description: Contains known energy sources as a function of community and plant name.  This file was hand-created using PCE data and Neil McMahon's advice.  See readme file in Model 0.4.1 for complete description. purchased_power_lib_12-30-2015.csv formerly purchased_power_lib.csv in the parent data directory.
-  * Filename: purchased_power_lib_12-30-2015.csv
-  * Date: 12/30/2015
-  * Contact Name: Neil McMahon
-  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
-  * Contact Email: NMcMahon@aidea.org
-  * Delivery Method: Version 0.4.1 of model

@@ -1,11 +1,11 @@
-## diesel_data.md
+## diesel_powerhouse_data.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: diesel_data.csv
+  * Data File: diesel_powerhouse_data.csv
   * Description: Diesel data file
     * First line: Header
     * Column Name [units] (Column Description)
@@ -21,7 +21,7 @@
       * Est. current annual heating fuel gallons displaced
       * Est. potential annual heating fuel gallons displaced 
   * Processing Steps
-    1. rename source file to diesel_data.csv
+    1. rename source file to diesel_powerhouse_data.csv
     2. original steps
       * Export Diesel Data tab from source file. 
     

@@ -1,11 +1,11 @@
-## ashp_data.md
+## ashp_climate_data.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: ashp_data.csv
+  * Data File: ashp_climate_data.csv
   * Description: Cliamte data for air source heat pump project devlopement
     * First line: Header
     * Column Name [units] (Column Description)
@@ -40,7 +40,7 @@
       * % Heating Load MAY [None] ()
       * % Heating Load JUN [None] ()
   * Processing Steps
-    1. rename file to ashp_data.csv
+    1. rename file to ashp_climate_data.csv
 
 ### Source File
   * Description: Cliamte data for air source heat pump project devlopement
@@ -51,11 +51,3 @@
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: FILL_IN
 
-### Previous Source Files:
-  * Description: Cliamte data for air source heat pump project devlopement
-  * Filename: ashp_data 07092016.csv
-  * Date: 2016/07/09
-  * Contact Name: Neil McMahon
-  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
-  * Contact Email: NMcMahon@aidea.org
-  * Delivery Method: FILL_IN

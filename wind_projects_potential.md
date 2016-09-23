@@ -1,11 +1,11 @@
-## wind_projects.md
+## wind_projects_potential.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: wind_projects.csv
+  * Data File: wind_projects_potential.csv
   * Description: data for existing wind projects
     * First line: Header
     * Column Name [units] (Column Description)
@@ -24,7 +24,7 @@
       * Project Name [unitless] ()
       * Lat/Long (decimal degrees) [] ()
   * Processing Steps
-    1. exported first tab of Wind Model 06152016.xlsx to wind_projects.csv
+    1. exported first tab of Wind Model 06152016.xlsx to wind_projects_potential.csv
     2. fixed spelling of operational
 
 ### Source File

@@ -1,11 +1,11 @@
-## generation_limits.md
+## renewable_generation_capacities.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: generation_limits.csv
+  * Data File: renewable_generation_capacities.csv
   * Description: upper bounds on the kWh genereation for RE sources in communities
     * First line: Header
     * Column Name [units] (Column Name)

@@ -1,11 +1,11 @@
-## heat_recovery_data.md
+## heat_recovery_projects_potential.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: heat_recovery_data.csv
+  * Data File: heat_recovery_projects_potential.csv
   * Description: data on available and proposed heat recovery projects
     * First line: Header
     * Column Name [units] (Column Description)

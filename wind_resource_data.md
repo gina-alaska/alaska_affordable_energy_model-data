@@ -1,11 +1,11 @@
-## wind_data_potential.md
+## wind_resource_data.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: wind_data_potential.csv
+  * Data File: wind_resource_data.csv
   * Description: data for potential data
     * First line: Header
     * Column Name [units] (Column Description)
