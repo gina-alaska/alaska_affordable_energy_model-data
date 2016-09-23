@@ -1,14 +1,17 @@
 #Change Log
 
 ## [0.20.0]
+### changed 
+- file names for many files to be more descriptive
+
 ### updated
-- ashp_data.csv
-- hydro_projects.csv
+- ashp data
+- hydro projects 
 - non-res_building inventory
 - residential buildings data
 - wind projects
 - water/wastewater data 
-
+- transmission data
 
 ## [0.19.0]
 ### added
