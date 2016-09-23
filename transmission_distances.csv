@@ -2,43 +2,43 @@ community,Maximum savings ($/kWh),Nearest Community with Lower Price Power,Dista
 Adak,0,,
 Afognak,0,,
 Akhiok,0,,
-Akiachak,0.08,Kwethluk,7.034560206
-Akiak,0.11,Kwethluk,10.17257113
+Akiachak,0.08,Bethel,13
+Akiak,0.11,Bethel,20
 Akutan,0,,
 Alakanuk,0.0885,Nunam Iqua,12.92255493
 Alatna,0,,
-Aleknagik,-0.004,,
+Aleknagik,,,
 Aleneva,0,,
-Allakaket,0.0013,Alatna,1.675515272
-Ambler,-0.0606,,
+Allakaket,,,
+Ambler,,,
 Anaktuvuk Pass,0,,
 Andreafsky,0,,
-Angoon,-0.0576,,
+Angoon,,,
 Aniak,0.1435,Lower Kalskag,27.12832023
 Anton Larsen Bay,0,,
 Anvik,0.0472,Holy Cross,34.09932795
 Arctic Village,0,,
 Atka,0,,
-Atmautluak,0.2793,Kwethluk,28.47663242
+Atmautluak,0.2793,Bethel,17
 Atqasuk,0,,
 Ayakulik,0,,
 Barrow,0,,
 Beaver,0,,
-Bethel,0.0758,Kwethluk,11.30511159
+Bethel,0.0758,,
 Bettles,0,,
-Brevig Mission,-0.0654,,
+Brevig Mission,,,
 Buckland,0,,
-Central,-0.081,,
+Central,,,
 Chalkyitsik,0,,
 Chefornak,0.4747,Kipnuk,17.45914873
 Chena Hot Springs,0,,
 Chenega,0,,
-Chevak,-0.0474,,
+Chevak,,,
 Chicken,0,,
 Chignik,-0.201,,
 Chignik Lagoon,0.201,Chignik,5.346288903
 Chignik Lake,0.311,Chignik,14.11465524
-Chiniak,0.002,Kodiak,13.77024443
+Chiniak,,,
 Chisana,0,,
 Chistochina,0.489,Gakona,27.38268721
 Chitina,0.51,Kenny Lake,21.97572757
@@ -60,10 +60,10 @@ Crooked Creek,0,,
 Deering,0,,
 Delta Junction,0,,
 Deltana,0,,
-Dillingham,0.004,Aleknagik,17.57120425
+Dillingham,0.004,,
 Diomede,-0.0895,,
-Dot Lake,0.1045,Tanacross,29.61266066
-Dot Lake Village,0.1045,Tanacross,28.7893251
+Dot Lake,0.1045,,
+Dot Lake Village,0.1045,,
 Douglas,0,,
 Eagle,0,,
 Eagle Village,0,,
@@ -93,7 +93,7 @@ Goodnews Bay,0,,
 Grayling,-0.0166,,
 Gulkana,0,,
 Gustavus,-0.2691,,
-Haines,0.0048,Covenant Life,21.89315289
+Haines,0.0048,,
 Hamilton,0,,
 Healy Lake,0,,
 Hobart Bay,0,,
@@ -121,7 +121,7 @@ Karluk,0.276,Larsen Bay,16.99871303
 Kasaan,0.1497,Ketchikan,31.28571806
 Kasigluk,0,,
 Kenny Lake,0,,
-Ketchikan,0.02,Metlakatla,16.19338218
+Ketchikan,0.02,,
 Kiana,0.0268,Selawik,27.88597137
 King Cove,-0.4129,,
 King Island,0,,
@@ -132,7 +132,7 @@ Klawock,0,,
 Klukwan,0.4224,Covenant Life,3.335367538
 Kobuk,0.0606,Ambler,29.10420034
 Kodiak,-0.002,,
-Kodiak Station,0.002,Kodiak,5.808370943
+Kodiak Station,0.002,,
 Kokhanok,0.3047,Iliamna,22.42647923
 Koliganek,-0.1547,,
 Kongiganak,0.04,Kwigillingok,10.95938296
@@ -174,8 +174,8 @@ Nagamut,0,,
 Naknek,0,,
 Nanwalek,0,,
 Napaimute,0,,
-Napakiak,0.32,Kwethluk,19.82216036
-Napaskiak,0.18,Kwethluk,13.1288253
+Napakiak,0.32,,
+Napaskiak,0.18,Bethel,7
 Naukati Bay,0,,
 Nelchina,0,,
 Nelson Lagoon,0,,
@@ -197,11 +197,11 @@ Northway Village,0.1897,Tetlin,20.78612312
 Nuiqsut,0,,
 Nulato,0.0216,Kaltag,32.74212869
 Nunam Iqua,-0.0384,,
-Nunapitchuk,0.0598,Kwethluk,34.84264039
+Nunapitchuk,0.0598,Bethel,24
 Nunivak Island,0,,
 Old Harbor,0.189,Larsen Bay,34.12026742
 Ophir,0,,
-Oscarville,0.0758,Kwethluk,12.90641325
+Oscarville,0.0758,,
 Ouzinkie,0.2298,Kodiak,9.734149572
 Paimiut,0,,
 Pauloff Harbor,0,,
@@ -225,7 +225,7 @@ Port Alsworth,0.0924,Nondalton,24.14673865
 Port Clarence,0,,
 Port Graham,0,,
 Port Heiden,0,,
-Port Lions,0.002,Kodiak,18.68619225
+Port Lions,0.002,,
 Port Moller,0,,
 Port Protection,0,,
 Port William,0,,
@@ -254,7 +254,7 @@ Shungnak,0.0606,Ambler,23.82008736
 Shuyak Island,0,,
 Silver Springs,0,,
 Sitka,0,,
-Skagway,0.0048,Covenant Life,24.45134051
+Skagway,0.0048,,
 Slana,-1.00E-04,,
 Sleetmute,0,,
 Solomon,0,,
@@ -300,6 +300,6 @@ White Mountain,0.0221,Elim,34.23722743
 Whitestone,0,,
 Whitestone Logging Camp,0,,
 Wiseman,0,,
-Womens Bay,0.002,Kodiak,9.468519888
-Wrangell,0.008,Petersburg,32.13282165
+Womens Bay,0.002,,
+Wrangell,0.008,,
 Yakutat,0,,
