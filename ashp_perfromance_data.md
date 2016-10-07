@@ -23,3 +23,5 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: FILL_IN
+  * Origin:
+    1. COP and Percent of total capacity:  Richard Faesy & Jim Grevatt, Energy Futures Group, Brian McCowan & Katie Champagne, Energy & Resource Solutions, DUCTLESS HEAT PUMP META-STUDYFINAL REPORT Presentation, November 13, 2014. 

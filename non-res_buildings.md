@@ -45,3 +45,13 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: Data was collected and compiled from multiple sources:
+    1. the Alaska Retrofit Information System (ARIS)
+    2. 2012 End Use Study
+    3. Regional Energy plan contractors
+    4. AEA personnel during community site visits
+    5. Renewable Energy Alaska Project (REAP) personnel during community site visits
+    6. Alaska Native Tribal Health Consortium (ANTHC) building audits
+    7. Other building audits
+    8. Municipal and borough property tax records
+    9. Participating communities and contractors from the Department of Energy Rural Alaska Community Energy Efficiency (RACEE) program

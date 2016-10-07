@@ -55,3 +55,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: Data from AEDG, personal communication with AEA personnel, and utility websites.

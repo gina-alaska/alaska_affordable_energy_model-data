@@ -22,3 +22,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: Mouhcine Guettabi of the Institute for Social and Economic Research at the University of Alaska Anchorage in 2016.  

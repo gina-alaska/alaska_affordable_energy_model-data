@@ -26,3 +26,8 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin:  
+    1. ARIS
+    2. AEA staff contact LIHEAP providers in winter 2015-16.
+    3. Personal communication with Cal Kerr (Northern Economics)
+    

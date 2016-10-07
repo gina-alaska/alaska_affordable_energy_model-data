@@ -50,4 +50,9 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: FILL_IN
-
+  * Origin:
+    1. Reference heating degree day data from 21 communities across the state.  http://ggweather.com/ccd/nrmhdd.htm
+    2. The percent of HDD per month was calculated by AEA.
+    3. The distance to the reference community was calculated by AEA
+    4. Minimum temperature was the minimum monthly temperature for the reference community.
+    

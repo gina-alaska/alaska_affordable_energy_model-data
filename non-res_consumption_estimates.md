@@ -30,3 +30,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: The estimates for building size, consumption, and heating degree days were developed from the data available from the non-res_buildings file.  Communities were categorized by population--under 300, between 300 and 1200, greater than 1200. The HDD for each community was included. The average square footage for each building type was calculated using a PivotTable.  The Gal/sf and kWh/sf were calculated for each building, organized by community size and building type.  The average gal/sf and kWh/sf for each communtiy size and building type was calculating by using PivotTables in Excel.   

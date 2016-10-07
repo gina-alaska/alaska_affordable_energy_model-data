@@ -34,3 +34,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: FILL_IN
+  * Origin: Compiled from Alaska Energy Authority project manager and subject matter experts in June 2016.

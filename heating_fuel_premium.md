@@ -22,3 +22,5 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: Raw data for the price per gallon for utility diesel and retail heating oil was accessed from the Alaska Energy Data Gateway in June 2015.  Reported price for utility diesel and retail heating oil was compiled per community per year.  The difference between these values was averaged per year per AEA energy region.  These yearly differences were averaged to calculate the regional heating fuel price adder.  
+
