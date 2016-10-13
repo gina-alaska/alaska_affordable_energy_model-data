@@ -1,5 +1,5 @@
 Community Name,Sufficient Biomass for 30% of Non-residential buildings,"Existing project (Y,N)","Productive Forest (H,M,L)",Phase,Certainty,On Road/SE,Proposed Capacity (MMBtu/hr),Proposed Heating Oil Displaced,Estimated Capital Cost,Estimated Operation Cost,Source of Data,Heating Reference Community,Distance to Heating Reference Community,Peak Month % of total,Capacity Factor
-Adak,Yes,N,L,,L,NO,,,,,Alaska Energy Data Inventory Biomass/AEA,Saint PAUL,442.9085534,0.115612738,0.71609064
+Adak,No,N,L,,L,NO,,,,,Alaska Energy Data Inventory Biomass/AEA,Saint PAUL,442.9085534,0.115612738,0.71609064
 Afognak,#N/A,N,,,,NO,,,,,Alaska Energy Data Inventory Biomass/AEA,KODIAK,20.17769573,0.122581367,0.692858214
 Akhiok,No,N,L,,M,NO,,,,,Alaska Energy Data Inventory Biomass/AEA,KODIAK,88.64829303,0.122581367,0.692858214
 Akiachak,No,N,L,,L,NO,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,13.28915898,0.141984494,0.598174523
@@ -53,7 +53,7 @@ Chena Ridge,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA
 Chenega Bay,Yes,N,H,,L,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,FAIRBANKS,87.3277563,0.165593705,0.512890914
 Chevak,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,136.7257282,0.141984494,0.598174523
 Chickaloon,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,ANCHORAGE,60.28070413,0.145749761,0.582721413
-Chicken,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,117.7133049,0.157645467,0.538750073
+Chicken,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,117.7133049,0.157645467,0.538750073
 Chignik,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,177.9151649,0.138508646,0.6131856
 Chignik Lagoon,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,178.6706137,0.138508646,0.6131856
 Chignik Lake,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,COLD BAY,169.9666715,0.117853457,0.709296246
@@ -87,11 +87,12 @@ Deering,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,KOTZEBUE,56.814
 Delta Junction,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,8.079025826,0.157645467,0.538750073
 Deltana,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,26.89115308,0.157645467,0.538750073
 Diamond Ridge,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,HOMER,0,0.131351186,0.646598704
-Dillingham,No,N,M,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,68.52264611,0.138508646,0.6131856
+Dillingham,Yes,N,M,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,68.52264611,0.138508646,0.6131856
 Diomede,No,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,NOME,135.4055671,0.132870169,0.637408875
 Dot Lake,Yes,Y,H,Construction,M,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,63.20974225,0.157645467,0.538750073
 Dot Lake Village,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,64.0191122,0.157645467,0.538750073
 Douglas,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,1.621076914,0.142174014,0.597377145
+Dry Creek,Yes,,,,,,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,64.0191122,0.157645467,0.538750073
 Eagle,Yes,N,M,,L,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,144.8221511,0.157645467,0.538750073
 Eagle Village,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,BIG DELTA,147.2351732,0.157645467,0.538750073
 Edna Bay,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,164.6057886,0.142174014,0.597377145
@@ -176,7 +177,7 @@ Kenny Lake,Yes,N,H,Construction,H,Yes,,,,,Alaska Energy Data Inventory Biomass/A
 Ketchikan,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,228.4035862,0.142174014,0.597377145
 Kiana,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,KOTZEBUE,58.42634656,0.132952018,0.629337066
 King Cove,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,COLD BAY,18.7022044,0.117853457,0.709296246
-King Salmon,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,0,0.138508646,0.6131856
+King Salmon,Yes,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,0,0.138508646,0.6131856
 Kipnuk,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,97.85657098,0.141984494,0.598174523
 Kivalina,No,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,KOTZEBUE,77.36044988,0.132952018,0.629337066
 Klawock,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,196.2443218,0.142174014,0.597377145
@@ -230,7 +231,7 @@ Mosquito Lake,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,97
 Mountain Village,Yes,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,109.9459875,0.141984494,0.598174523
 Mud Bay,Yes,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,68.63040011,0.142174014,0.597377145
 Nabesna,Yes,N,,,L,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,GULKANA,76.04386686,0.156773212,0.541747573
-Naknek,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,12.37753601,0.138508646,0.6131856
+Naknek,Yes,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,King Salmon,12.37753601,0.138508646,0.6131856
 Nanwalek,#N/A,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,HOMER,23.71408341,0.131351186,0.646598704
 Napaimute,#N/A,N,,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,ANNETTE,26.69788665,0.134162209,0.633050897
 Napakiak,Yes,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,10.0711472,0.141984494,0.598174523
@@ -266,7 +267,7 @@ Oscarville,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,5.49
 Ouzinkie,Yes,N,H,Recon,M,no,,,,,Alaska Energy Data Inventory Biomass/AEA,KODIAK,9.734149572,0.122581367,0.692858214
 Paimiut,#N/A,N,,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETHEL,148.7865798,0.141984494,0.598174523
 Palmer,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,ANCHORAGE,36.79331295,0.145749761,0.582721413
-Paxson,#N/A,N,,,L,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,GULKANA,52.93042651,0.156773212,0.541747573
+Paxson,Yes,N,,,L,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,GULKANA,52.93042651,0.156773212,0.541747573
 Pedro Bay,Yes,N,M,Recon,M,no,,,,,Alaska Energy Data Inventory Biomass/AEA,HOMER,89.52871529,0.131351186,0.646598704
 Pelican,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,70.25893056,0.142174014,0.597377145
 Perryville,No,N,L,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,COLD BAY,147.8704302,0.117853457,0.709296246
@@ -375,7 +376,7 @@ Whitestone Logging Camp,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA
 Whittier,#N/A,N,M,,L,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,ANCHORAGE,#N/A,#N/A,#N/A
 Willow,#N/A,N,,,,Yes,,,,,Alaska Energy Data Inventory Biomass/AEA,ANCHORAGE,36.39005779,0.145749761,0.582721413
 Willow Creek,Yes,N,,,L,no,,,,,Alaska Energy Data Inventory Biomass/AEA,Gulkana,,0.156773212,0.541747573
-Wiseman,#N/A,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETTLES,50.94558159,0.154001433,0.551498161
+Wiseman,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,BETTLES,50.94558159,0.154001433,0.551498161
 Womens Bay,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,KODIAK,9.468519888,0.122581367,0.692858214
 Wrangell,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,JUNEAU,147.3368652,0.142174014,0.597377145
 Yakutat,Yes,N,,,,no,,,,,Alaska Energy Data Inventory Biomass/AEA,YAKUTAT,0,0.130500107,0.650815609
