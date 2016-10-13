@@ -31,11 +31,10 @@
       * USACE siteGroup [Unitless] ()
   * Processing Steps
     1. rename source to hydro_projects_potential.csv
-    2. remove _intertie from communty names
 
 ### Source File
   * Description: data for various hydropower projects
-  * Filename: hydro_projects 09192016s.csv
+  * Filename: hydro_projects_potential 10132016.csv
   * Date: 2016-09-19
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
