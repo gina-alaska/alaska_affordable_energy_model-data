@@ -19,21 +19,11 @@
         3. add header comment 
     
     
-### Second Source File
+### Source File
   * Description: road system data
-  * Filename: road_system 06162016.csv
+  * Filename: road_system 10102016.csv
   * Date: 06/16/2016
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)    
-
-
-### Original Source File
-  * Description: Manley Hot Springs Model Draft.  Biomass data tab
-  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
-  * Date: 05/19/2016
-  * Contact Name: Contact Name: Neil McMahon
-  * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
-  * Contact Email: NMcMahon@aidea.org
-  * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
