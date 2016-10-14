@@ -1,5 +1,13 @@
 #Change Log
 
+## [0.20.2]
+### upadted
+- current_interties (craig intertie)
+- hydro_projects_potential (new file)
+- biomass_resource_data (new file)
+- road_system (new file)
+- wind_projects_potential (new file)
+
 ## [0.20.1]
 ### updated
 - added metadata for original source

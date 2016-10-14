@@ -26,10 +26,13 @@
   * Processing Steps
     1. exported first tab of Wind Model 06152016.xlsx to wind_projects_potential.csv
     2. fixed spelling of operational
+    3. remove leading/trailing whitespace in column names
+    4. remove number formatting
+    5. replace bad values (-$, -) with 0
 
 ### Source File
   * Description: wind project data
-  * Filename: Wind Model 06152016.xlsx
+  * Filename: wind_projects_potential - revised.csv
   * Date: 2016/06/16
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
