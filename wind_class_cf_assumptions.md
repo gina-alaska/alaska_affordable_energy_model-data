@@ -26,4 +26,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
-
+  * Based on the Alaska Energy Authority's Renewable Energy Fund Round 9 Evaluation Model, developed with assitance from the University of Alaska Anchorage Institute for Social and Economic Research, available at: http://www.akenergyauthority.org/Programs/RenewableEnergyFund

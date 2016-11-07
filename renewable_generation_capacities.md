@@ -27,4 +27,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
-
+  * Data from Alaska Energy Authority databases for wind and hydro generation capacities, not otherwise publicly available.

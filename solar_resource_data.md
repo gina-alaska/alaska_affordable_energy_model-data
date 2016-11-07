@@ -23,3 +23,6 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: 
+    1. Data was collected by AEA personnel from the National Renewable Energy Laboratory's PVWatts Calculator, available from http://pvwatts.nrel.gov/index.php. If multiple data sources were available for a community, the TMY3 data was chosen. For each of the reference cities available for Alaska, a 10-kW system was modeled on the calculator's base level assumptions. The yearly AC Energy output in kWh was recorded.
+    2. To determine the nearest reference community, a distance function was used between every community in Alaska and the reference communities. The reference community with the shortest distance to the community was chosen as the proxy.

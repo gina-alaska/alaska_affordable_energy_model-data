@@ -28,3 +28,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin: Assumptions are derived from data for specific water and wastewater systems in Alaska by system type. The data, available through the water_wastewater_projects_potential, was analyzed using Excel's Regression data analytics tool to develop regression for the kWh and heating oil consumption based on the community's population and climate (using heating degree days as the quantitative measure).

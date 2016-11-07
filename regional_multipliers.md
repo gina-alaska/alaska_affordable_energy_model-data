@@ -18,3 +18,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: basecamp
+  * Adopted from the Alaska Department of Education and Early Development "Program Demand Cost Model for Alaska Schools" 2013. 

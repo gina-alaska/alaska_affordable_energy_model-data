@@ -38,3 +38,11 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * Origin:
+    1. Total occupied is from the 2010 US Census.
+    2. Data was extracted and cleaned from the Alaska Retrofit Information System. The data was separated into two categories: BEES and Weatherization/Home Energy Rebate. 
+    3. For the BEES entries, the total number of BEES compliant residences per community, the average square footage and the average Energy Use Index (EUI) were determined. The BEES total consumption was found for each community using these values.
+    4. The Weatherization/Home Energy Rebate entries were divided into pre- and post-retrofit categories. With no other data to cross-check against, the pre-retrofit category was assumed to mirror the average characteristics of the housing stock in a community or region. The pre-retrofit average square footage and average EUI was computed for each community and region. 
+    5. The post-retrofit average area and average EUI was calculated by community. The total post-retrofit consumption was calculated by community. 
+    6. For each entry that had a pre- and post-retrofit entry, the EUI reduction was determined. The EUI reductions were averaged at the community and regional levels. 
+    7. Statistical analysis was performed to determine if the data available for each community was statistically significant. Specifically, the pre-retrofit average square footage, average EUI, and post-retrofit average EUI reduction were checked for statistical significance.  If the values were not statistically signficant, the regional average was used. The data was then cleaned to fix any logically inconsistent results.

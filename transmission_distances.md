@@ -25,3 +25,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: FILL_IN
+  * Origin: Distances between every two communities in Alaska was calculated using a distance formula based on the latitude and longitude of each community. The communities that were within thirty miles were compared for the difference in retail electricity costs. The community that had the lowest relative cost, or was the regional hub, was chosen. 

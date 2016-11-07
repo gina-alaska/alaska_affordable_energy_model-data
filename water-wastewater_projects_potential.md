@@ -32,3 +32,6 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
+  * origin: Data is derived from multiple sources. 
+    1. Entries with data for post-retrofit data are from energy audits performed by the Alaska Native Tribal Health Consortium (2013-2016).
+    2. Entries with HF used and kWh/year come from the Alaska Retrofit Information System, communities participating in the Department of Energy's Rural Alaska Community Energy Efficiency (RACEE) competition, or communities associated with the Alaska Rural Utilities Collaborative (ARUC).

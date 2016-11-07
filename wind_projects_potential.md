@@ -12,7 +12,8 @@
       * Community [unitless] ()
       * Wind class to Model (within 1 mile) [unitless] ()
       * High Turbulence (Y/N) [unitless] ()
-      * Phase* Proposed Capacity (kW) [kW] ()
+      * Phase [None] ()
+      * Proposed Capacity (kW) [kW] ()
       * Proposed Generation (kWh) [kWh] ()
       * Distance to Resource (ft) [ft] ()
       * Generation Capital Cost [$] ()
@@ -26,15 +27,15 @@
   * Processing Steps
     1. exported first tab of Wind Model 06152016.xlsx to wind_projects_potential.csv
     2. fixed spelling of operational
-    3. remove leading/trailing whitespace in column names
-    4. remove number formatting
-    5. replace bad values (-$, -) with 0
 
 ### Source File
   * Description: wind project data
-  * Filename: wind_projects_potential - revised.csv
+  * Filename: Wind Model 06152016.xlsx
   * Date: 2016/06/16
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: 
+  * origin: Wind class to model--Analysis of National Renewable Energy Laboratory Alaska wind map, accessible through Alaska Energy Data Inventory, Renewable Energy Fund projects, local anemometers.
+  * origin: Proposed capacity to the end of list--Renewable Energy Fund project data
+

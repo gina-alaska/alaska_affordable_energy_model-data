@@ -24,3 +24,4 @@
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: FILL_IN
+  * Origin: Data is derived from an Alaska Energy Authority installed solar database, not otherwise publicly accessible.
