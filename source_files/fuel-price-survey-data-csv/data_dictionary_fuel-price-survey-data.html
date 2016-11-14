@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+
+
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Data Dictionary - Fuel Price Survey Data - Alaska Energy Data Gateway</title>
+        <style type="text/css">
+            table {
+                border-collapse: collapse;
+            }
+            th, td {
+                text-align: left;
+                border: 1px solid #ccc;
+            }
+            /*
+            tr:nth-child(even) {
+                background: #ccc;
+            }
+            tr:nth-child(odd) {
+                background: #fff;
+            }
+            */
+        </style>
+    </head>
+    <body>
+
+        <h1>Data Dictionary</h1>
+
+        <div><a href="https://akenergygateway.alaska.edu/">Alaska Energy Data Gateway</a></div>
+        <div><a href="https://akenergygateway.alaska.edu/">https://akenergygateway.alaska.edu/</a></div>
+        <div>Generated on Thu Nov 10 2016, 3:13 p.m. AKST</div>
+
+        <h2>Dataset Name: Fuel Price Survey Data</h2>
+        <h2>Dataset Description</h2>
+        <div>Data from the semiannual survey conducted by the Alaska Housing Finance Corporation (AHFC) for use in AHFC's energy programs and stored in the AkWarm database. AHFC collaborates with the Alaska Department of Commerce, Community, and Economic Development (DCCED), Division of Community and Regional Affairs (DCRA) to include data  from communities surveyed by DCRA. Prices for home heating fuel (No. 1 and No. 2 fuel oil, propane, and wood) are collected from vendors serving communities around the state and reflect the price reported by the vendor at the point in time of the survey. Sales tax is included since 2011, but may be included or excluded in prior surveys. The inclusion of sales tax causes prices for some communities in this dataset to be higher than prices reported in the DCRA survey.</div>
+
+        <h2>Variables</h2>
+        <table>
+            <thead>
+                <tr>
+                    
+                        <th>Table</th>
+                    
+                        <th>Name</th>
+                    
+                        <th>Label</th>
+                    
+                        <th>Type</th>
+                    
+                        <th>Units</th>
+                    
+                        <th>Description</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        
+                            <td>community</td>
+                        
+                            <td>community__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Community name</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>community</td>
+                        
+                            <td>community__gnis_feature_id</td>
+                        
+                            <td>GNIS feature ID</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>The GNIS Feature ID superseded the FIPS55 Place Code (now the Census Code).</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>community</td>
+                        
+                            <td>community__census_code</td>
+                        
+                            <td>Census code (FIPS)</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Formerly the FIPS55 Place Code, this is now known as the Census code.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>year</td>
+                        
+                            <td>year</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Year of survey</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>month</td>
+                        
+                            <td>month</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Month of survey</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>no_1_fuel_oil_price</td>
+                        
+                            <td>no 1 fuel oil price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/gal</td>
+                        
+                            <td>Reported price of No. 1 fuel oil. Sales tax is included since 2011, but may be included or excluded in prior surveys.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>no_2_fuel_oil_price</td>
+                        
+                            <td>no 2 fuel oil price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/gal</td>
+                        
+                            <td>Reported price of No. 2 fuel oil. Sales tax is included since 2011, but may be included or excluded in prior surveys.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>propane_price</td>
+                        
+                            <td>propane price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/gal</td>
+                        
+                            <td>Reported price of propane. Sales tax is included since 2011, but may be included or excluded in prior surveys. Reported prices may be in dollars per gallon or dollars per 100 pounds. All units are standardized to dollars per gallon using a conversion factor of 23.6 gallons equal 100 pounds.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>birch_price</td>
+                        
+                            <td>birch price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/cord</td>
+                        
+                            <td>Reported price of birch. Sales tax is included since 2011, but may be included or excluded in prior surveys.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>spruce_price</td>
+                        
+                            <td>spruce price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/cord</td>
+                        
+                            <td>Reported price of spruce. Sales tax is included since 2011, but may be included or excluded in prior surveys.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>unspecified_wood_price</td>
+                        
+                            <td>unspecified wood price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/cord</td>
+                        
+                            <td>Reported price of wood when type is unspecified in survey data. Sales tax is included since 2011, but may be included or excluded in prior surveys.</td>
+                        
+                    </tr>
+                
+            </tbody>
+        </table>
+
+        <h2>Tables</h2>
+        <table>
+            <thead>
+                <tr>
+                    
+                        <th>Name</th>
+                    
+                        <th>Description</th>
+                    
+                        <th>Source</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        
+                            <td>AHFC fuel survey data</td>
+                        
+                            <td>A response (or aggregation of responses) from Alaska Housing Finance Corporation&#39;s fuel price survey</td>
+                        
+                            <td>Alaska Housing Finance Corporation (AHFC); Institute of Social and Economic Research (ISER)</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>community</td>
+                        
+                            <td>A community</td>
+                        
+                            <td>Geographic Names Information System (GNIS); Alaska Division of Community and Regional Affairs (DCRA); Alaska Energy Authority (AEA); Institute of Social and Economic Research (ISER)</td>
+                        
+                    </tr>
+                
+            </tbody>
+        </table>
+
+        <h2>Unique Identifiers</h2>
+        
+            <h3>No individual variables uniquely identify rows.</h3>
+        
+        
+            <h3>The following variable combinations uniquely identify rows:</h3>
+            <ul>
+                
+                    <li>community, year, month</li>
+                
+            </ul>
+        
+
+
+        <h2>Citation</h2>
+        <p>We ask that you include the following citation in publications that make use of
+this data:
+</p>
+        <p>Alaska Energy Data Gateway, developed by the Institute of Social and Economic
+Research, University of Alaska Anchorage,  is supported by the U.S. Department
+of Energy (DOE), Office of Science, Basic Energy Sciences (BES), under EPSCoR
+Award # DE-SC0004903 (database and web application development), and by Alaska
+Energy Authority (Renewable Energy Fund data management and reporting). Database
+and web hosting is provided by Arctic Region Supercomputing Center, University
+of Alaska Fairbanks.
+</p>
+
+    </body>
+</html>
