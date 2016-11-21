@@ -23,7 +23,8 @@
       * Add the energy source using seed data from the previous "purchased_power_lib_12-30-2015.csv"; not all new energy source data will be available in this file so some investigating may be required (ask Neil McMahon for assistance)
       * Export from source file to purchased_power_lib.csv.
     4. NOTE: These manual steps could be built into a python script; request made to AEDG to provide this type of file directly.
-
+    5. update Saint Paul to have wind as Energy Source per https://basecamp.com/2118492/projects/9638689/todos/248224310#comment_478566668
+    
 ### Source File(s)
   * Description: Data downloaded from the Alaska Energy Data Gateway on 03/11/2016. From the AEDG PCE data, export the community name and purchased from fields into own spreadsheet.  
   * Filename: power-cost-equalization-pce-community_names-purchased_from-2016-03-11.xlsx

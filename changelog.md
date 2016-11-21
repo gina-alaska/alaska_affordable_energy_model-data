@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.21.3]
+### updated 
+- purchased_power_lib: saint paul energy_source is wind
+
 ## [0.21.2]
 ### added 
 - fuel-price-survey-data.csv and metadata
