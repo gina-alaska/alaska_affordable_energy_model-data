@@ -1,5 +1,13 @@
 #Change Log
 
+## [0.22.1]
+### fixed
+- updateded missing version and changelog
+
+## [0.22.0]
+### added
+- data for election divisions
+
 ## [0.21.3]
 ### updated 
 - purchased_power_lib: saint paul energy_source is wind
