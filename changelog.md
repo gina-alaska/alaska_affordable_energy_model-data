@@ -1,5 +1,10 @@
 #Change Log
 
+## [0.22.2]
+### updated
+- wind, and hydro data with links to sources
+- hdd data
+
 ## [0.22.1]
 ### fixed
 - updateded missing version and changelog
