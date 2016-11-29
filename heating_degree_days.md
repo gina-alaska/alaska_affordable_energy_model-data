@@ -12,13 +12,12 @@
       * Community [unitless] (Alaska communities)
       * HDD in ARIS equations [Degree Fahrenheit/year] (heating degree days per year)
   * Processing Steps
-    1. Export HDD.xlsx to heatin_degree_days.csv
-      * Description: Export first two columns of HDD tab in HDD.xlsx file into .csv format used in python AAEM model. Save as heatin_degree_days.csv.
-    2. Check spelling on glennallen (source file had spelling as Glenallen)
+    1. Convert AkWarm_dd_changes.xlsx to heatin_degree_days.csv
+      * Description: Export columns b and f as community, and HDD in ARIS equation. Remove # formating
 
 ### Source File
   * Description: Excel spreadsheet containing heating degree days per year for Alaskan communities.
-  * Filename: HDD.xlsx
+  * Filename: AkWarm_dd_changes.xlsx
   * Date: 02/23/2016
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
