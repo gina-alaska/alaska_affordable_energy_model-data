@@ -24,14 +24,16 @@
       * Data Source (report reference) [unitless] 
       * Project Name [unitless] ()
       * Lat/Long (decimal degrees) [] ()
+      * Notes [] (notes on project)
+      * link [] (link to project source)
   * Processing Steps
     1. exported first tab of Wind Model 06152016.xlsx to wind_projects_potential.csv
     2. fixed spelling of operational
 
 ### Source File
   * Description: wind project data
-  * Filename: Wind Model 06152016.xlsx
-  * Date: 2016/06/16
+  * Filename: Wind Model 11282016.xlsx
+  * Date: 2016/11/28
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org

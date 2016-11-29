@@ -29,13 +29,22 @@
       * LAT [Decimal Degrees] ()
       * LON [Decimal Degrees] ()
       * USACE siteGroup [Unitless] ()
+      * Displaced Heat by Secondary Load(s) (gallons) [Unitless] ()
+      * Operational Costs [Unitless] ()
+      * Determined to be environmentally Feasibible (Yes/No) [Unitless] ()
+      * Determined to be economically Feasibible (Yes/No) [Unitless] () 
+      * Storage/Run of River [Unitless] ()
+      * AEA REF Application Number [Unitless] ()
+      * Year [Unitless] ()
+      * Transmission--Road Accessible [Road], Marine Cable [Marine] [Unitless] ()
+      * Source [Unitless] ()
   * Processing Steps
     1. rename source to hydro_projects_potential.csv
 
 ### Source File
   * Description: data for various hydropower projects
-  * Filename: hydro_projects_potential 10132016.csv
-  * Date: 2016-09-19
+  * Filename: hydro_projects_potential - 11282016.csv
+  * Date: 2016-11-28
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
