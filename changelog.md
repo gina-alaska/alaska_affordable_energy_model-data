@@ -1,5 +1,9 @@
 #Change Log
 
+## [0.23.0]
+### updated
+- HR data
+
 ## [0.22.2]
 ### updated
 - wind, and hydro data with links to sources
