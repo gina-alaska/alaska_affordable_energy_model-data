@@ -1,5 +1,9 @@
 #Change Log
 
+### [0.23.1]
+## fix
+- HDD data fixed spelling Nunam Iuqa
+
 ## [0.23.0]
 ### updated
 - HR data

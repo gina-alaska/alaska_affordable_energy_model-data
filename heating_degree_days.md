@@ -14,6 +14,7 @@
   * Processing Steps
     1. Convert AkWarm_dd_changes.xlsx to heatin_degree_days.csv
       * Description: Export columns b and f as community, and HDD in ARIS equation. Remove # formating
+    2. ensure correct spelling of community: Nunam Iqua(was Numum Iqua)
 
 ### Source File
   * Description: Excel spreadsheet containing heating degree days per year for Alaskan communities.
