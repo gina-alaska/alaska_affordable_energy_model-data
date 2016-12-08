@@ -1,5 +1,9 @@
 #Change Log
 
+### [0.24.0]
+## updated 
+- diesel_fuel_prices.csv 
+
 ### [0.23.1]
 ## fix
 - HDD data fixed spelling Nunam Iuqa

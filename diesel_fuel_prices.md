@@ -6,24 +6,19 @@
 
 ### Data Lineage
   * Data File: diesel_fuel_prices.csv
-  * Description: FILL_IN
+  * Description: projected Diesel fuel prices
     * First line: Header
     * Column Name [units] (Column Name)
-      * ID [unitless] (ID, not certain of origin)
-      * "Rural (0) Urban (1)" [unitless] (flag for rural or urban community)
-      * Utility [unitless] (community utility)
-      * Community Name [unitless] ()
-      * Years (year) [2015 - 2076]
+      * Community [unitless] ()
+      * Years (year) [2016 - 2040]
   * Processing Steps
-    1. Export Diesel Fuel Prices tab from source file. Make sure to have enough digits & dollar signs removed.
-    2. Remove all headers but the one that begins with ID. Make sure the ID column is all on one line (not split between Rural (0) and Urban(1)).
-
+    1. Export All Communities tab from source file as diesel_fuel_prices.csv
 ### Source File
-  * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
-  * Filename: DRAFT Project Evaluation Tool--Manley Hot Springs 10282015.xlsm
-  * Date: 10/28/2015
+  * Description: Diesel fuel price projection 2016 to 2040
+  * Filename: AkAES fuel price projections No formulas or notes.xlsx
+  * Date: 12/08/2016
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
   * Delivery Method: Basecamp (Alaska Affordable Energy Model Project)
-  * origin:  Renewable Energy Fund Round 8 economic model prepared for by the University of Alaska Anchorage Institute for Social and Economic Research.
+  * origin: created by Cady Lister (clister@aidea.org),and Sam Tappen (stappen@aidea.org) from AEA
