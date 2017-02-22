@@ -1,5 +1,9 @@
 #Change Log
 
+### [0.25.0]
+## updated 
+- updated # to match model v#
+
 ### [0.24.0]
 ## updated 
 - diesel_fuel_prices.csv 
