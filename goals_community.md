@@ -26,7 +26,7 @@
       1. export 'community goals' tab as goals_regional.csv
       
 ### Source File
-  * Description: Attached are the community and regional goals. I would like these to be included on one of the summary pages, but I haven't decided which one yet. I will hopefully have feedback on all of the pages today. One thing to note is that there is a different regional designation in the Copper River/Chugach region. In the regional plans these are in two different regions--the Copper River and the Prince William Sound regions.
+  * Description: Attached are the community and regional goals. I will hopefully have feedback on all of the pages today. One thing to note is that there is a different regional designation in the Copper River/Chugach region. In the regional plans these are in two different regions--the Copper River and the Prince William Sound regions.
   * Filename: community and regional goals 10202016.xlsx
   * Date: 2016-10-20
   * Contact Name: Neil McMahon
