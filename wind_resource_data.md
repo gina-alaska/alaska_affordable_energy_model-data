@@ -25,6 +25,9 @@
       * Resource Note [unitless] ()
   * Processing Steps
     1. Export Wind Data tab from source file.
+    2. Delete 'empty' rows
+    3. Change Attu to Attu Station
+
 
 ### Source File
   * Description: Manley Hot Springs Model Draft.  The Diesel Fuel Prices tabs contain the relevant information.
