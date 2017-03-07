@@ -40,12 +40,12 @@
       * % Heating Load MAY [None] ()
       * % Heating Load JUN [None] ()
   * Processing Steps
-    1. rename file to ashp_climate_data.csv
+    1. None
 
 ### Source File
   * Description: Cliamte data for air source heat pump project devlopement
-  * Filename: ashp_data ashp_data 08122016.csv
-  * Date: 2016/09/20
+  * Filename: ashp_climate_data.csv
+  * Date: 2017/03/01
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
