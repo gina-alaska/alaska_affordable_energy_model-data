@@ -1,5 +1,9 @@
 #Change Log
 
+### [0.25.1]
+## updated
+- changed st. in community names to saint.
+
 ### [0.25.0]
 ## updated 
 - updated # to match model v#
