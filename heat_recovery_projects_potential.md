@@ -26,12 +26,11 @@
       * Total CAPEX [$$] ()
       * Source [Unitless] ()
   * Processing Steps
-    1. export first tab of heat_recovery_projects_potential 11302016.xlsx as heat_recovery_projects_potential
 
 ### Source File
   * Description: data on available and proposed heat recovery projects
-  * Filename: heat_recovery_projects_potential 11302016.xlsx
-  * Date: 2016/07/13
+  * Filename: heat_recovery_projects_potential.xlsx
+  * Date: 2017/03/09
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
