@@ -31,8 +31,8 @@
 
 ### Source File
   * Description:  Biomass resoure data.
-  * Filename: biomass_resource_data 10102016.csv
-  * Date: 06/16/2016
+  * Filename: biomass resource data new.csv
+  * Date: 2017/03/09
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org

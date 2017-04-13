@@ -21,15 +21,11 @@
       * Est. current annual heating fuel gallons displaced
       * Est. potential annual heating fuel gallons displaced 
   * Processing Steps
-    1. rename source file to diesel_powerhouse_data.csv
-    2. original steps
-      * Export Diesel Data tab from source file. 
     
 ### Source File
   * Description: diesel and heat recovery daya
-  * source: Diesel & Heat Recovery for Model 06082016.xlsx
-  * original source: DRAFT Project Evaluation Tool--Manley Hot Springs 05192016.xlsm
-  * Date: 01/26/2016
+  * source:diesel_powerhouse_data.csv
+  * Date: 2017/03/09
   * Contact Name: Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
