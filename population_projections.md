@@ -13,11 +13,10 @@
       * 1991...2050 [number of people] ()
     * Processing Steps
       *  export first tab of source file to csv
-      *  remove(with a plain text editor) 0's in the middle, years between non zero years, of Adak, Alcan Border and Aleneva records.  
 
 ### Source File
   * Description: UAA's ISER community-level projections.
-  * Filename: Population Forecasts 05092016.xlsx
+  * Filename: population_projections 04122017.csv
   * Date: 05/09/2016
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
