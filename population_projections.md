@@ -13,6 +13,7 @@
       * 1991...2050 [number of people] ()
     * Processing Steps
       *  export first tab of source file to csv
+      *  remove(with a plain text editor) 0's in the middle, years between non zero years, of Adak, Alcan Border and Aleneva records.  
 
 ### Source File
   * Description: UAA's ISER community-level projections.
