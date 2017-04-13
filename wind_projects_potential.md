@@ -32,8 +32,8 @@
 
 ### Source File
   * Description: wind project data
-  * Filename: Wind Model 11282016.xlsx
-  * Date: 2016/11/28
+  * Filename: Wind Model 04122016.xlsx
+  * Date: 2017/04/12
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
