@@ -39,8 +39,8 @@
 
 ### Source File
   * Description: Building inventory as determined by AEA (via many methods)
-  * Filename: non_res_buildings 08122016.csv
-  * Date: 08/12/2016
+  * Filename: non_res_buildings_v2.csv
+  * Date: 2017/03/16
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org

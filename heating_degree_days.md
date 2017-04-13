@@ -12,14 +12,12 @@
       * Community [unitless] (Alaska communities)
       * HDD in ARIS equations [Degree Fahrenheit/year] (heating degree days per year)
   * Processing Steps
-    1. Convert AkWarm_dd_changes.xlsx to heatin_degree_days.csv
-      * Description: Export columns b and f as community, and HDD in ARIS equation. Remove # formating
-    2. ensure correct spelling of community: Nunam Iqua(was Numum Iqua)
+    1. ensure correct spelling of community: Nunam Iqua(was Numum Iqua)
 
 ### Source File
   * Description: Excel spreadsheet containing heating degree days per year for Alaskan communities.
-  * Filename: AkWarm_dd_changes.xlsx
-  * Date: 02/23/2016
+  * Filename: heatin_degree_days.csv
+  * Date: 2017/03/01
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
