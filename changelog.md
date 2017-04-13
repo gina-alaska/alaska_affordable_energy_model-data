@@ -1,5 +1,23 @@
 #Change Log
 
+### [0.26.0]
+## added 
+- wind_classes
+
+## removed
+- wind_interite_wind_classes
+- wind_resource_data
+
+## updated
+- ashp_climate_data
+- biomass_resource_data
+- heat_recovery_project_potential
+- heating_degree_days
+- non-res_buildings
+- population_projections
+- diesel_fuel_prices
+- diesel_power_house_data
+
 ### [0.25.1]
 ## updated
 - changed st. in community names to saint.
