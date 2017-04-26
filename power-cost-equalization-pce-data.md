@@ -91,12 +91,11 @@
       * imputed_unbilled_customers [unitless] ("Indicates if the value recorded in the unbilled customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed")
       * imputed_other_customers [unitless] ("Indicates if the value recorded in the other customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed")
   * Processing Steps
-    1. Export the power-cost-equalization-pce-dat tab to power-cost-equalization-pce-data.csv.
 
 ### Source File
   * Description: Power Cost Equalization (PCE) Data. The goal of Alaska Energy Authority's (AEA) Power Cost Equalization program is to provide economic assistance to customers in rural areas of Alaska where the kilowatt-hour charge for electricity can be considerably higher than the charge in more urban areas of the state. This dataset contains information reported monthly to AEA by participating utilities. The data available here (AEDG) was reviewed and cleaned for to meet AEDG data quality standards. Since some utilities may not report every month of the year, missing data are not uncommon. Detailed information about the data cleaning methodology is provided in the document Power Cost Equalization - Data Cleaning Methodology Notes by Alejandra Villalobos Meléndez (PDF).
-  * Filename: power-cost-equalization-pce-data-2016-03-11.xlsx
-  * Date: 03/11/2016
+  * Filename: power-cost-equalization-pce-data-csv (directory with data(.csv) and metadata(.html))
+  * Date: 04/26/2017
   * Contact Name: N/A
   * Organization Name: Alaska Energy Data Gateway (https://akenergygateway.alaska.edu/)
   * Contact Email: N/A
