@@ -1,5 +1,9 @@
 #Change Log
 
+### [0.26.1]
+## updated
+- PCE data from AEDG
+
 ### [0.26.0]
 ## added 
 - wind_classes
