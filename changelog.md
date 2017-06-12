@@ -1,5 +1,16 @@
 #Change Log
 
+### [0.27.0]
+## updated 
+- non-res_buildings files
+- heat_recovery_projects_potential files
+- current_interties files
+- purchased_power_lib files
+
+## removes
+- solar_existing_systems files
+- wind_existing_Systems files
+
 ### [0.26.1]
 ## updated
 - PCE data from AEDG
