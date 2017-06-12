@@ -29,8 +29,8 @@
 
 ### Source File
   * Description: data on available and proposed heat recovery projects
-  * Filename: heat_recovery_projects_potential.xlsx
-  * Date: 2017/03/09
+  * Filename: heat_recovery_projects_potential updated 05192017.csv
+  * Date: 2017/05/19
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
