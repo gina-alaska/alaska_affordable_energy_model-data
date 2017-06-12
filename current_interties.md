@@ -29,6 +29,7 @@
       * Other Community on Intertie [unitless] (child community)
   * Processing Steps
     1. deleted duplicated Nelchina in Glennallen intertie.
+    2. Comment out Eyak in Cordova intertie, it's not a community modeled by AAEM
     
 ### Source File
   * Description: List of intertied communities, identifying the community with the power generation and the other communities on the intertie. Neil McMahon suggests this data can be cross-checked  against the power house data in the energy statistics
