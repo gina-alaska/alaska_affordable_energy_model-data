@@ -15,14 +15,11 @@
       * Resource Sub-type [unitless]
       * Capacity (kW) [kW]
       * Average Annual Generation (kWh) [kWh]
-  * Processing Steps
-    1. export RE Capacity For Model tab of 'RE Capacity For Model.xlsx'
-    2. rename 'row labels' column to 'community'
 
 ### Source File
   * Description: list of RE (wind and/or hydro) generation capacities for given communities
-  * Filename: RE Capacity For Model.xlsx
-  * Date: 2016-04-13
+  * Filename: renewable_generation_capacities.xlsx
+  * Date: 2017-05-01
   * Contact Name: Neil McMahon
   * Organization Name: Alaska Energy Authority/Alaska Industrial Development and Export Authority
   * Contact Email: NMcMahon@aidea.org
