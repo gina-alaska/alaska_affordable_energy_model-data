@@ -14,6 +14,7 @@
   * Processing Steps
     1. Export All Communities tab from source file as diesel_fuel_prices.csv
     2. replace St. with Saint
+    3. remove ' in Steven's Village
     
 ### Source File
   * Description: Diesel fuel price projection 2016 to 2040
