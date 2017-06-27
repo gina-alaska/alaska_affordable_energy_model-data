@@ -1,0 +1,1498 @@
+<!DOCTYPE html>
+
+
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Data Dictionary - Power Cost Equalization (PCE) Data (Includes Uncleaned Years) - Alaska Energy Data Gateway</title>
+        <style type="text/css">
+            table {
+                border-collapse: collapse;
+            }
+            th, td {
+                text-align: left;
+                border: 1px solid #ccc;
+            }
+            /*
+            tr:nth-child(even) {
+                background: #ccc;
+            }
+            tr:nth-child(odd) {
+                background: #fff;
+            }
+            */
+        </style>
+    </head>
+    <body>
+
+        <h1>Data Dictionary</h1>
+
+        <div><a href="https://akenergygateway.alaska.edu/">Alaska Energy Data Gateway</a></div>
+        <div><a href="https://akenergygateway.alaska.edu/">https://akenergygateway.alaska.edu/</a></div>
+        <div>Generated on Mon Jun 26 2017, 12:45 p.m. AKDT</div>
+
+        <h2>Dataset Name: Power Cost Equalization (PCE) Data (Includes Uncleaned Years)</h2>
+        <h2>Dataset Description</h2>
+        <div><p style="color: red">Warning: This data set includes uncleaned data that is subject to major change during the cleaning process.</p>
+
+The goal of Alaska Energy Authority's (AEA) Power Cost Equalization program is to provide economic assistance to customers in rural areas of Alaska where the kilowatt-hour charge for electricity can be considerably higher than the charge in more urban areas of the state. This dataset contains information reported monthly to AEA by participating utilities. Only data rows with the field cleaned_during_energy_statistics set to True were reviewed and cleaned for to meet AEDG data quality standards. Since some utilities may not report every month of the year, missing data are not uncommon.
+
+Detailed information about the data cleaning methodology is provided in the document
+<a href="https://akenergygateway.alaska.edu/static/public/documents/PCE_DataCleaningImputation_MethodologyNotes_09172014.pdf" target="_blank">
+Power Cost Equalization - Data Cleaning Methodology Notes by Alejandra Villalobos Melendez (PDF).
+</a></div>
+
+        <h2>Variables</h2>
+        <table>
+            <thead>
+                <tr>
+                    
+                        <th>Table</th>
+                    
+                        <th>Name</th>
+                    
+                        <th>Label</th>
+                    
+                        <th>Type</th>
+                    
+                        <th>Units</th>
+                    
+                        <th>Description</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pce_id</td>
+                        
+                            <td>PCE ID</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Unique identifier in the PCE database (called Project Code in the Alaska Energy Authority&#39;s NAVISION system). It represents a community, or set of intertied communities, if one report for reimbursement is filed on behalf of one or multiple communities. For example, INN Electric Cooperative reports and receives a single payment for the communities of Iliamna, Newhalen and Nondalton. So, this identifier represents all three communities in this dataset. Variable name in AEA&#39;s PCE NAVISION system: Project Code.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>community_names</td>
+                        
+                            <td>community names</td>
+                        
+                            <td>String (up to 200)</td>
+                        
+                            <td></td>
+                        
+                            <td>Name of community (ies) as recorded in the U.S. Census that reported that year to the Alaska Energy Authority to receive Power Cost Equalization payment. Variable name in AEA&#39;s PCE NAVISION system: Posting Description.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>plant</td>
+                        
+                            <td>plant__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 100)</td>
+                        
+                            <td></td>
+                        
+                            <td>Name of the facility owned/operated by a certified utility or independent power producer responsible for the day-to-day operation of the generators.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility</td>
+                        
+                            <td>plant__utility__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Name of the certified utility or independent power producer generating electricity and/or servicing a particular community or communities.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility regulatory status</td>
+                        
+                            <td>plant__utility__regulatory_status__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Utility regulatory status</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility</td>
+                        
+                            <td>plant__utility__certificate</td>
+                        
+                            <td>certificate</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates whether this utility has an active certificate to operate from the RCA</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility type</td>
+                        
+                            <td>plant__utility__utility_type__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Utility or independent power producer ownership type</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility</td>
+                        
+                            <td>plant__utility__eia_operator_id</td>
+                        
+                            <td>EIA Operator ID</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Operator ID assigned by the Energy Information Administration</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE status</td>
+                        
+                            <td>plant__pce_status__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Participation status of community/utility in the Power Cost Equalization Program.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>plant</td>
+                        
+                            <td>plant__intertied</td>
+                        
+                            <td>intertied</td>
+                        
+                            <td>Boolean (Either True or False)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates whether this plant is connected to an intertie</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AKEPS region</td>
+                        
+                            <td>plant__akeps_region__abbreviation</td>
+                        
+                            <td>abbreviation</td>
+                        
+                            <td>String (up to 2)</td>
+                        
+                            <td></td>
+                        
+                            <td>Abbreviation of AKEPS region. Five geographic regions used in early Alaska Energy Statistics reports. The regions, AN-Arctic Northwest, SC-Southcentral, SE-Southeast, SW-Southwest, YU-Yukon represent areas of Alaska sharing broad characteristics.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>AKEPS region</td>
+                        
+                            <td>plant__akeps_region__name</td>
+                        
+                            <td>name</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Name of AKEPS region. Five geographic regions used in early Alaska Energy Statistics reports. The regions, AN-Arctic Northwest, SC-Southcentral, SE-Southeast, SW-Southwest, YU-Yukon represent areas of Alaska sharing broad characteristics.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>plant</td>
+                        
+                            <td>plant__eia_plant_id</td>
+                        
+                            <td>EIA Plant ID</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Plant ID assigned by the Energy Information Administration</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>year</td>
+                        
+                            <td>year</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>month</td>
+                        
+                            <td>month</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>season</td>
+                        
+                            <td>season</td>
+                        
+                            <td>String (up to 6)</td>
+                        
+                            <td></td>
+                        
+                            <td>Variable added by ISER. Value &#39;Summer&#39; assigned to months from April to September; value &#39;Winter&#39; assigned to months October to March.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>utility_acronym</td>
+                        
+                            <td>utility acronym</td>
+                        
+                            <td>String (up to 50)</td>
+                        
+                            <td></td>
+                        
+                            <td>Acronym used in the Power Cost Equalization (NAVISION) database to identify the utility that received payment for an invoice. Variable name in AEA&#39;s PCE NAVISION system: Buy-from Vendor No.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>intertied</td>
+                        
+                            <td>intertied</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates whether the communities are connected by an intertie</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>residential_rate</td>
+                        
+                            <td>residential rate</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/kWh</td>
+                        
+                            <td>Rate, in dollars per kilowatt-hour, charged to residential customers for the first 500 kWh as reported by the utility and prior to adjusting to reflect PCE assistance. Variable name in AEA&#39;s PCE NAVISION system: Residential Rate.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pce_rate</td>
+                        
+                            <td>PCE rate</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/kWh</td>
+                        
+                            <td>Power Cost Equalization rate ($/kWh) approved by the Regulatory Commission of Alaska that the Alaska Energy Authority uses to calculate the total PCE payment. This amount is subtracted from the residential rate for the first 500 kilowatt-hours a residential customer consumes in a month. Variable name in AEA&#39;s PCE NAVISION system: Actual Rate.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pro_rata_rate</td>
+                        
+                            <td>pro rata rate</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/kWh</td>
+                        
+                            <td>Power Cost Equalization rate ($/kWh) adjusted when the program is not fully funded by the Alaska State Legislature. When full funding is available the PCE pro-rata rate equals the PCE rate. Variable name in AEA&#39;s PCE NAVISION system: Pro Rata Rate.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>effective_rate</td>
+                        
+                            <td>effective rate</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/kWh</td>
+                        
+                            <td>Variable added by ISER. Calculated variable by subtracting the PCE pro-rata rate from the residential rate. This is the rate a residential customer pays for the first 500 kilowatt-hours consumed in a month.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pce_eligible_residential_kwh</td>
+                        
+                            <td>PCE eligible residential kWh</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total monthly kilowatt-hours consumed by residential customers eligible to receive PCE payment, as determined by the Alaska Energy Authority. Each customer is eligible to receive PCE payment for the fist 500 kilowatt-hours consumed in a month. Variable name in AEA&#39;s PCE NAVISION system: PCE Eligible Residential kWh.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pce_eligible_commercial_kwh</td>
+                        
+                            <td>PCE eligible commercial kWh</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total monthly kilowatt-hours consumed by commercial customers eligible to receive PCE payment. Since FY1999 commercial customers are not eligible to receive PCE payments, hence reported dollars for all communities should be zero. Variable name in AEA&#39;s PCE NAVISION system: PCE Eligible Commercial kWh.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pce_eligible_community_kwh</td>
+                        
+                            <td>PCE eligible community kWh</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total monthly kilowatt-hours consumed at community facilities eligible to receive PCE payment, as determined by the Alaska Energy Authority. The eligible kilowatt-hour limit is calculated by multiplying the number of residents in a community by 70 kilowatt-hours. Community facilities is defined as water and sewer facilities, charitable educational facilities, public lighting, or community buildings whose operations are not paid by the state, federal government or private commercial party. Variable name in AEA&#39;s PCE NAVISION system: PCE Eligible Community kWh.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>pce_eligible_total_kwh</td>
+                        
+                            <td>PCE eligible total kWh</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total monthly kilowatt-hours eligible to receive PCE payments. The sum of pce_eligible_residential_kwh, pce_eligible_commercial_kwh and pce_eligible_community_kwh. Variable name in AEA&#39;s PCE NAVISION system: PCE Eligible kWh Total.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>disbursement</td>
+                        
+                            <td>disbursement</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$</td>
+                        
+                            <td>Total monthly PCE amount paid to the utility for PCE eligible kilowatt-hours sold; includes any payment adjustments (positive or negative) recorded for that month; as determined by the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Amount.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>fuel_price</td>
+                        
+                            <td>fuel price</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$/gal</td>
+                        
+                            <td>Most recent fuel purchase price of diesel/fuel oil used for electricity generation reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Most Recent Fuel Purch. Price.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>fuel_used_gal</td>
+                        
+                            <td>fuel used (gal)</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>gal</td>
+                        
+                            <td>Total gallons used for electricity generation by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Fuel Used (Gallons).</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>fuel_cost</td>
+                        
+                            <td>fuel cost</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$</td>
+                        
+                            <td>Total fuel costs (in dollars) paid by the utility for purchased fuel as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Fuel Cost.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>nonfuel_expenses</td>
+                        
+                            <td>non-fuel expenses</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>$</td>
+                        
+                            <td>Total non-fuel expenses as reported by the utility to the Alaska Energy Authority; in dollars. Non fuel costs include: personnel expenses (e.g. wages, employer FICA-FUTA-SUI, casual labor, workers compensation insurance), operating costs (e.g. oil, filters, repairs and maintenance, tools, equipment rental), general and administrative costs (professional services (accountants, lawyers, engineers, etc.), insurance, office supplies, postage, office rent, travel, training, bad debt expense, RCA fees), interest expense (from a year end bank statement or loan amortization), depreciation (of assets such as engines, generators, fuel storage tanks, utility poles, lines, transformers, meters, computers, billing software, office furniture, vehicles, buildings). Variable name in AEA&#39;s PCE NAVISION system: Non-Fuel Expenses.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>diesel_efficiency</td>
+                        
+                            <td>diesel efficiency</td>
+                        
+                            <td>Decimal number</td>
+                        
+                            <td>kWh per gallon</td>
+                        
+                            <td>Estimated amount of electricity produced per gallon of diesel consumed.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>diesel_kwh_generated</td>
+                        
+                            <td>diesel kWh generated</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours produced from all generators burning diesel/fuel oil, as reported by the utility to the Alaska Energy Authority (including kwh used in the power plant). Variable name in AEA&#39;s PCE NAVISION system: Purchased From.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>hydro_kwh_generated</td>
+                        
+                            <td>hydro kWh generated</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total monthly kilowatt-hours generated from hydroelectric resources as reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Hydro kWh Generated.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>other_1_kwh_type</td>
+                        
+                            <td>other 1 kWh type</td>
+                        
+                            <td>String (up to 100)</td>
+                        
+                            <td></td>
+                        
+                            <td>Energy source description of kilowatt-hours produced from sources other than diesel/fuel oil or hydroelectric power. Description listed here corresponds to kilowatt-hours listed under &#39;other_1_kwh_generated&#39;. Variable name in AEA&#39;s PCE NAVISION system: Other 1 kWh Type.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>other_1_kwh_generated</td>
+                        
+                            <td>other 1 kWh generated</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours produced from fuels different than diesel/fuel oil or hydroelectric power. For example, natural gas or wind. Please refer to &#39;other_1_kwh_type&#39; for the corresponding fuel type description. Variable name in AEA&#39;s PCE NAVISION system: Other 1 kWh Generated.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>other_2_kwh_type</td>
+                        
+                            <td>other 2 kWh type</td>
+                        
+                            <td>String (up to 100)</td>
+                        
+                            <td></td>
+                        
+                            <td>Energy source description of kilowatt-hours produced from sources other than diesel/fuel oil or hydroelectric power. Description listed here corresponds to kilowatt-hours listed under &#39;other_2_kwh_generated&#39;. Variable name in AEA&#39;s PCE NAVISION system: Other 2 kWh Type.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>other_2_kwh_generated</td>
+                        
+                            <td>other 2 kWh generated</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours produced from fuels different than diesel/fuel oil or hydroelectric power. For example, natural gas or wind. Please refer to &#39;other_2_kwh_type&#39; for the corresponding fuel type description. Variable name in AEA&#39;s PCE NAVISION system: Other 2 kWh Generated.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>purchased_from</td>
+                        
+                            <td>purchased from</td>
+                        
+                            <td>String (up to 100)</td>
+                        
+                            <td></td>
+                        
+                            <td>Utility or independent power producer (IPP) name from which kilowatt-hours were purchased. Variable name in AEA&#39;s PCE NAVISION system: Purchased From.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>kwh_purchased</td>
+                        
+                            <td>kWh purchased</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours purchased from a utility or independent power producer (IPP) and subsequently sold by the purchasing utility to its customers. Variable name in AEA&#39;s PCE NAVISION system: Total kWh Purchased.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>powerhouse_consumption_kwh</td>
+                        
+                            <td>powerhouse consumption kWh</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total monthly kilowatt-hours used by the powerhouse for its operations as reported by the utility to the Alaska Energy Authority. Also known as Station Service. Variable name in AEA&#39;s PCE NAVISION system: Powerhouse Consumption kWh.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>peak_consumption_kw</td>
+                        
+                            <td>peak consumption kW</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kW</td>
+                        
+                            <td>Highest measured power demand in kilowatts for the month as reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Peak Consumption kW.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>residential_kwh_sold</td>
+                        
+                            <td>residential kWh sold</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours sold to all residential customer accounts reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Residential Sold To.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>commercial_kwh_sold</td>
+                        
+                            <td>commercial kWh sold</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours sold to all commercial customer accounts reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Commercial Sold To.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>community_kwh_sold</td>
+                        
+                            <td>community kWh sold</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours sold to all community facilities customer accounts reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Com. Facil. Sold To.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>government_kwh_sold</td>
+                        
+                            <td>government kWh sold</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours sold to all government facilities customer accounts reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Govt. Facil. Sold To.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>unbilled_kwh</td>
+                        
+                            <td>unbilled kWh</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td>kWh</td>
+                        
+                            <td>Total kilowatt-hours consumed by customers but not billed for, as reported by the utility to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Unbilled Sold To.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>sales_for_resale_kwh_sold</td>
+                        
+                            <td>sales for resale kWh sold</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>residential_customers</td>
+                        
+                            <td>residential customers</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Total number of residential customer accounts billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Residential Customers.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>commercial_customers</td>
+                        
+                            <td>commercial customers</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Total number of commercial customer accounts billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Commercial Customers.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>community_customers</td>
+                        
+                            <td>community customers</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Total number of community facilities customer accounts billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Com. Facil. Customers.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>government_customers</td>
+                        
+                            <td>government customers</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Total number of government customer accounts billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Govt. Facil. Customers.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>unbilled_customers</td>
+                        
+                            <td>unbilled customers</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Total number of customers that received electricity but were not billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Unbilled Customers.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>other_customers</td>
+                        
+                            <td>other customers</td>
+                        
+                            <td>Integer</td>
+                        
+                            <td></td>
+                        
+                            <td>Total number of customer accounts not pre-identified billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Other Customers.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>other_customers_description</td>
+                        
+                            <td>other customers description</td>
+                        
+                            <td>String (up to 100)</td>
+                        
+                            <td></td>
+                        
+                            <td>Detailed description of customer type under &#39;other&#39; category billed by the utility as reported to the Alaska Energy Authority. Variable name in AEA&#39;s PCE NAVISION system: Other Customers Description.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>notes</td>
+                        
+                            <td>notes</td>
+                        
+                            <td>Text</td>
+                        
+                            <td></td>
+                        
+                            <td>Variable added by ISER. Information regarding one or multiple data points in the observation the user should know but not included in the variables listed.</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>cleaned_during_energy_statistics</td>
+                        
+                            <td>cleaned during energy statistics</td>
+                        
+                            <td>Boolean (Either True or False)</td>
+                        
+                            <td></td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_residential_rate</td>
+                        
+                            <td>imputed residential rate</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the residential rate variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_pce_rate</td>
+                        
+                            <td>imputed pce rate</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the pce rate variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_pro_rata_rate</td>
+                        
+                            <td>imputed pro rata rate</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the pro rata rate variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_effective_rate</td>
+                        
+                            <td>imputed effective rate</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the effective rate variable is a value calculated using data reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_fuel_price</td>
+                        
+                            <td>imputed fuel price</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the fuel price variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_fuel_used_gal</td>
+                        
+                            <td>imputed fuel used gal</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the fuel used variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_fuel_cost</td>
+                        
+                            <td>imputed fuel cost</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the fuel cost variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_nonfuel_expenses</td>
+                        
+                            <td>imputed nonfuel expenses</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the non fuel expenses variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_diesel_efficiency</td>
+                        
+                            <td>imputed diesel efficiency</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the diesel efficiency variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_diesel_kwh_generated</td>
+                        
+                            <td>imputed diesel kwh generated</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the diesel kWh generated variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_hydro_kwh_generated</td>
+                        
+                            <td>imputed hydro kwh generated</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the hydro kWh generated variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_powerhouse_consumption_kwh</td>
+                        
+                            <td>imputed powerhouse consumption kwh</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the powerhouse consumption variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_peak_consumption_kw</td>
+                        
+                            <td>imputed peak consumption kw</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the peak consumption variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_residential_kwh_sold</td>
+                        
+                            <td>imputed residential kwh sold</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the residential kWh sold variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_commercial_kwh_sold</td>
+                        
+                            <td>imputed commercial kwh sold</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the commercial kWh sold variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_community_kwh_sold</td>
+                        
+                            <td>imputed community kwh sold</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the community kWh sold variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_government_kwh_sold</td>
+                        
+                            <td>imputed government kwh sold</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the government kWh sold variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_unbilled_kwh</td>
+                        
+                            <td>imputed unbilled kwh</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the unbilled kWh variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_sales_for_resale_kwh_sold</td>
+                        
+                            <td>imputed sales for resale kwh sold</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_residential_customers</td>
+                        
+                            <td>imputed residential customers</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the residential customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_commercial_customers</td>
+                        
+                            <td>imputed commercial customers</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the commercial customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_community_customers</td>
+                        
+                            <td>imputed community customers</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the community customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_government_customers</td>
+                        
+                            <td>imputed government customers</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the government customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_unbilled_customers</td>
+                        
+                            <td>imputed unbilled customers</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the unbilled customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>imputed_other_customers</td>
+                        
+                            <td>imputed other customers</td>
+                        
+                            <td>Boolean (Either True, False or None)</td>
+                        
+                            <td></td>
+                        
+                            <td>Indicates if the value recorded in the other customers variable is a value reported by the utility or an imputed (estimated) value. 0=reported, 1=Imputed</td>
+                        
+                    </tr>
+                
+            </tbody>
+        </table>
+
+        <h2>Tables</h2>
+        <table>
+            <thead>
+                <tr>
+                    
+                        <th>Name</th>
+                    
+                        <th>Description</th>
+                    
+                        <th>Source</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        
+                            <td>AKEPS region</td>
+                        
+                            <td>Five geographic regions used in early Alaska Energy Statistics reports. The regions, AN-Arctic Northwest, SC-Southcentral, SE-Southeast, SW-Southwest, YU-Yukon represent areas of Alaska sharing broad characteristics.</td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE data</td>
+                        
+                            <td>A monthly report from a PCE utility</td>
+                        
+                            <td>Alaska Energy Authority (AEA); Institute of Social and Economic Research (ISER)</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>PCE status</td>
+                        
+                            <td>Power Cost Equalization Program eligibility status of a Plant</td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>plant</td>
+                        
+                            <td>A plant operated by a Utility and serving zero or more Communities</td>
+                        
+                            <td>Energy Information Administration (EIA); Alaska Energy Authority (AEA); Regulatory Commission of Alaska (RCA); Institute of Social and Economic Research (ISER)</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility</td>
+                        
+                            <td>A utility or independent power producer (IPP)</td>
+                        
+                            <td>Energy Information Administration (EIA); Alaska Energy Authority (AEA); Regulatory Commission of Alaska (RCA); Institute of Social and Economic Research (ISER)</td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility regulatory status</td>
+                        
+                            <td>Regulatory status of a Utility</td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+                    <tr>
+                        
+                            <td>utility type</td>
+                        
+                            <td>Ownership type of a Utility</td>
+                        
+                            <td></td>
+                        
+                    </tr>
+                
+            </tbody>
+        </table>
+
+        <h2>Unique Identifiers</h2>
+        
+            <h3>No individual variables uniquely identify rows.</h3>
+        
+        
+            <h3>The following variable combinations uniquely identify rows:</h3>
+            <ul>
+                
+                    <li>pce_id, year, month</li>
+                
+            </ul>
+        
+
+
+        <h2>Citation</h2>
+        <p>We ask that you include the following citation in publications that make use of
+this data:
+</p>
+        <p>Alaska Energy Data Gateway, developed by the Institute of Social and Economic
+Research, University of Alaska Anchorage,  is supported by the U.S. Department
+of Energy (DOE), Office of Science, Basic Energy Sciences (BES), under EPSCoR
+Award # DE-SC0004903 (database and web application development), and by Alaska
+Energy Authority (Renewable Energy Fund data management and reporting). Database
+and web hosting is provided by Arctic Region Supercomputing Center, University
+of Alaska Fairbanks.
+</p>
+
+    </body>
+</html>
