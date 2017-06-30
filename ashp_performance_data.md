@@ -1,11 +1,11 @@
-## ashp_perfromance_data.md
+## ashp_performance_data.md
 
 ### Responsible Party
   * Organization Name: Geographic Information Network of Alaska (GINA)
   * Email: support+aaem@gina.alaska.edu
 
 ### Data Lineage
-  * Data File: ashp_perfromance_data.csv
+  * Data File: ashp_performance_data.csv
   * Description: data on the perfroamce of ASHP systems at given temperatures
     * First line: Header
     * Column Name [units] (Column Description)
