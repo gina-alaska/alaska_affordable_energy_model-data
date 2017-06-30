@@ -1,8 +1,11 @@
 #Change Log
 
-### [0.27.1]
+### [1.0.0]
 ## updated
 - pce data
+
+## fixed 
+- performance data typo
 
 ### [0.27.0]
 ## updated 
