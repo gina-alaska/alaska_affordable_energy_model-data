@@ -1,716 +1,782 @@
 Data Year,Utility Number,Community,Utility Name,Ownership,Residential Thousand Dollars,Residential Megawatthours,Residential Count,Commercial Thousand Dollars,Commercial Megawatthours,Commercial Count,Industrial Thousand Dollars,Industrial Megawatthours,Industrial Count,Total Thousand Dollars,Total Megawatthours,Total CustomerCount
-2011,192,Akiachak,Akiachak Native Community Electric,Cooperative,355,597,175,508,1096,44,0,0,0,863,1693,219
-2010,192,Akiachak,Akiachak Native Community Electric,Cooperative,360,576,152,311,921,32,89,121,4,760,1618,188
-2009,192,Akiachak,Akiachak Native Community Electric,Cooperative,364,580,164,315,925,33,93,125,5,772,1630,202
-2008,192,Akiachak,Akiachak Native Community Electric,Cooperative,335,541,157,300,907,24,83,113,3,718,1561,184
-2007,192,Akiachak,Akiachak Native Community Electric,Cooperative,294,549,145,331,1050,44,68,111,2,693,1710,191
-2006,192,Akiachak,Akiachak Native Community Electric,Cooperative,269,524,145,306,1025,44,43,86,2,618,1635,191
-2005,192,Akiachak,Akiachak Native Community Electric,Cooperative,173,424,135,251,632,36,0,0,0,424,1056,171
-2004,192,Akiachak,Akiachak Native Community Electric,Cooperative,161,424,135,236,615,36,0,0,0,397,1039,171
 2003,192,Akiachak,Akiachak Native Community Electric,Cooperative,147,405,135,210,582,36,0,0,0,357,987,171
-2014,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16728,141151,14115,12449,125452,2253,12514,132889,96,41691,399492,16464
-2013,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,18068,141237,13968,13638,129284,2202,10361,106484,96,42067,377005,16266
-2012,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16970,142255,13912,12857,129783,2174,11993,127106,94,41820,399144,16180
-2011,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16931,139936,13842,12721,126493,2166,9273,98281,94,38925,364710,16102
-2010,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,14020,131097,13781,10652,121319,2161,10736,118427,92,35408,370843,16034
-2009,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,14829,130203,13750,10709,119918,2150,8259,96385,91,33797,346506,15991
-2008,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,19482,128495,13699,14787,113434,2121,7893,68247,98,42162,310176,15918
-2007,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,14224,142018,13644,10694,132689,2119,5095,70054,102,30013,344761,15865
-2006,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,13612,140516,13500,10344,134612,2100,4460,71712,98,28416,346840,15698
-2005,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,12631,132002,13313,9659,127770,2099,3772,53575,99,26062,313347,15511
-2004,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,12515,130627,13196,9233,122268,2096,3890,54617,100,25638,307512,15392
+2004,192,Akiachak,Akiachak Native Community Electric,Cooperative,161,424,135,236,615,36,0,0,0,397,1039,171
+2005,192,Akiachak,Akiachak Native Community Electric,Cooperative,173,424,135,251,632,36,0,0,0,424,1056,171
+2006,192,Akiachak,Akiachak Native Community Electric,Cooperative,269,524,145,306,1025,44,43,86,2,618,1635,191
+2007,192,Akiachak,Akiachak Native Community Electric,Cooperative,294,549,145,331,1050,44,68,111,2,693,1710,191
+2008,192,Akiachak,Akiachak Native Community Electric,Cooperative,335,541,157,300,907,24,83,113,3,718,1561,184
+2009,192,Akiachak,Akiachak Native Community Electric,Cooperative,364,580,164,315,925,33,93,125,5,772,1630,202
+2010,192,Akiachak,Akiachak Native Community Electric,Cooperative,360,576,152,311,921,32,89,121,4,760,1618,188
+2011,192,Akiachak,Akiachak Native Community Electric,Cooperative,355,597,175,508,1096,44,0,0,0,863,1693,219
 2003,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,12492,131006,13079,9083,121868,2082,3916,54714,100,25491,307588,15261
-2014,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7301,24116,5328,10341,38952,2302,0,0,0,17642,63068,7630
-2013,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7509,24475,4867,10982,40728,2175,0,0,0,18491,65203,7042
-2012,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7470,24391,4803,10705,40397,2173,0,0,0,18175,64788,6976
-2011,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7525,24241,4774,11644,41673,2178,0,0,0,19169,65914,6952
-2010,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6576,23648,4721,10258,40930,2146,0,0,0,16834,64578,6867
-2009,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6359,23894,4572,10324,42732,2124,0,0,0,16683,66626,6696
-2008,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6808.7,23131,4541,11656.6,43036,2105,0,0,0,18465.3,66167,6646
-2007,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6108,23238,4511,9933,43241,2058,0,0,0,16041,66479,6569
-2006,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6156,23119,4447,9638,41879,2001,0,0,0,15794,64998,6448
-2005,219,AP&T,Alaska Power and Telephone Co,Investor Owned,5632,22518,4371,9018,41303,1964,0,0,0,14650,63821,6335
-2004,219,AP&T,Alaska Power and Telephone Co,Investor Owned,5078,22531,4332,8070,40535,1915,0,0,0,13148,63066,6247
+2004,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,12515,130627,13196,9233,122268,2096,3890,54617,100,25638,307512,15392
+2005,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,12631,132002,13313,9659,127770,2099,3772,53575,99,26062,313347,15511
+2006,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,13612,140516,13500,10344,134612,2100,4460,71712,98,28416,346840,15698
+2007,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,14224,142018,13644,10694,132689,2119,5095,70054,102,30013,344761,15865
+2008,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,19482,128495,13699,14787,113434,2121,7893,68247,98,42162,310176,15918
+2009,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,14829,130203,13750,10709,119918,2150,8259,96385,91,33797,346506,15991
+2010,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,14020,131097,13781,10652,121319,2161,10736,118427,92,35408,370843,16034
+2011,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16931,139936,13842,12721,126493,2166,9273,98281,94,38925,364710,16102
+2012,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16970,142255,13912,12857,129783,2174,11993,127106,94,41820,399144,16180
+2013,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,18068,141237,13968,13638,129284,2202,10361,106484,96,42067,377005,16266
+2014,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16728,141151,14115,12449,125452,2253,12514,132889,96,41691,399492,16464
+2015,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16530,139475,14292,11924,122347,2272,12912,136630,107,41366,398452,16671
+2016,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,16508.4,139419,14466,11369.5,115771,2262,14384.1,138076,125,42262,393266,16853
+2017,213,Juneau,Alaska Electric Light&Power Co,Investor Owned,17950.6,151017,14579,11798.6,119953,2295,17593,143240,131,47342.2,414210,17005
 2003,219,AP&T,Alaska Power and Telephone Co,Investor Owned,4723,22161,4323,7690,39879,1930,0,0,0,12413,62040,6253
-2014,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,21188,35665,7869,32334,62209,2960,0,0,0,53522,97874,10829
-2013,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,18817,30829,6263,22846,42820,1781,0,0,0,41663,73649,8044
-2012,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,19275,31085,6148,23433,42871,1775,0,0,0,42708,73956,7923
-2011,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,16928,29737,6051,20536,41893,1760,0,0,0,37464,71630,7811
-2010,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,15911,29204,5987,19227,40680,1712,0,0,0,35138,69884,7699
-2009,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,18615,29148,5997,22584,39907,1642,0,0,0,41199,69055,7639
-2008,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,16699,28334,5960,20641,39721,1614,0,0,0,37340,68055,7574
-2007,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,14222,27321,5838,16540,37149,1552,0,0,0,30762,64470,7390
-2006,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,13420,27046,5751,15374,36797,1519,0,0,0,28794,63843,7270
-2005,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,12551,26681,5705,13969,35527,1531,0,0,0,26520,62208,7236
-2004,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,11795,26749,5610,12770,35185,1466,0,0,0,24565,61934,7076
+2004,219,AP&T,Alaska Power and Telephone Co,Investor Owned,5078,22531,4332,8070,40535,1915,0,0,0,13148,63066,6247
+2005,219,AP&T,Alaska Power and Telephone Co,Investor Owned,5632,22518,4371,9018,41303,1964,0,0,0,14650,63821,6335
+2006,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6156,23119,4447,9638,41879,2001,0,0,0,15794,64998,6448
+2007,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6108,23238,4511,9933,43241,2058,0,0,0,16041,66479,6569
+2008,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6808.7,23131,4541,11656.6,43036,2105,0,0,0,18465.3,66167,6646
+2009,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6359,23894,4572,10324,42732,2124,0,0,0,16683,66626,6696
+2010,219,AP&T,Alaska Power and Telephone Co,Investor Owned,6576,23648,4721,10258,40930,2146,0,0,0,16834,64578,6867
+2011,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7525,24241,4774,11644,41673,2178,0,0,0,19169,65914,6952
+2012,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7470,24391,4803,10705,40397,2173,0,0,0,18175,64788,6976
+2013,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7509,24475,4867,10982,40728,2175,0,0,0,18491,65203,7042
+2014,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7301,24116,5328,10341,38952,2302,0,0,0,17642,63068,7630
+2015,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7478,25353,5413,10058,39482,2343,0,0,0,17536,64835,7756
+2016,219,AP&T,Alaska Power and Telephone Co,Investor Owned,7900,25754,5501,8771,37637,2335,.,.,.,16671,63391,7836
+2017,219,AP&T,Alaska Power and Telephone Co,Investor Owned,8095,26264,5496,9862,39529,2370,0,0,0,17957,65793,7866
 2003,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,11484,26343,5562,12361,34676,1449,0,0,0,23845,61019,7011
-2014,599,Anchorage,Anchorage Municipal Light and Power,Municipal,21435,133411,24429,113515.6,879373,6362,0,0,0,134950.6,1012784,30791
-2013,599,Anchorage,Anchorage Municipal Light and Power,Municipal,18480.3,139733,24463,94117.3,907737,6323,0,0,0,112597.6,1047470,30786
-2012,599,Anchorage,Anchorage Municipal Light and Power,Municipal,17221.2,146789,24443,83738,953876,6304,0,0,0,100959.2,1100665,30747
-2011,599,Anchorage,Anchorage Municipal Light and Power,Municipal,18732.5,143844,24302,97883.3,967799,6301,0,0,0,116615.8,1111643,30603
-2010,599,Anchorage,Anchorage Municipal Light and Power,Municipal,18576,143473,24206,98145.5,965307,6275,0,0,0,116721.5,1108780,30481
-2009,599,Anchorage,Anchorage Municipal Light and Power,Municipal,17973.8,147643,24139,92088,968321,6267,0,0,0,110061.8,1115964,30406
-2008,599,Anchorage,Anchorage Municipal Light and Power,Municipal,15375,147725,24108,74170,971027,6243,0,0,0,89545,1118752,30351
-2007,599,Anchorage,Anchorage Municipal Light and Power,Municipal,13945,147246,24044,64172,957804,6199,0,0,0,78117,1105050,30243
-2006,599,Anchorage,Anchorage Municipal Light and Power,Municipal,14486,148255,23943,66603,954913,6147,0,0,0,81089,1103168,30090
-2005,599,Anchorage,Anchorage Municipal Light and Power,Municipal,16394,147171,23976,74346,853238,6123,0,0,0,90740,1000409,30099
-2004,599,Anchorage,Anchorage Municipal Light and Power,Municipal,17027,150534,23842,72957,804733,6033,0,0,0,89984,955267,29875
+2004,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,11795,26749,5610,12770,35185,1466,0,0,0,24565,61934,7076
+2005,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,12551,26681,5705,13969,35527,1531,0,0,0,26520,62208,7236
+2006,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,13420,27046,5751,15374,36797,1519,0,0,0,28794,63843,7270
+2007,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,14222,27321,5838,16540,37149,1552,0,0,0,30762,64470,7390
+2008,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,16699,28334,5960,20641,39721,1614,0,0,0,37340,68055,7574
+2009,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,18615,29148,5997,22584,39907,1642,0,0,0,41199,69055,7639
+2010,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,15911,29204,5987,19227,40680,1712,0,0,0,35138,69884,7699
+2011,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,16928,29737,6051,20536,41893,1760,0,0,0,37464,71630,7811
+2012,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,19275,31085,6148,23433,42871,1775,0,0,0,42708,73956,7923
+2013,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,18817,30829,6263,22846,42820,1781,0,0,0,41663,73649,8044
+2014,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,21188,35665,7869,32334,62209,2960,0,0,0,53522,97874,10829
+2015,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,22337.1,39493,7801,35547.4,73220,3078,0,0,0,57884.5,112713,10879
+2016,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,19588.9,40289,7860,29230.6,72799,3058,0,0,0,48819.5,113088,10918
+2017,221,AVEC,"Alaska Village Elec Coop, Inc",Cooperative,18561,41535,8158,27027,74302,3256,0,0,0,45588,115837,11414
 2003,599,Anchorage,Anchorage Municipal Light and Power,Municipal,15172,149024,23778,60483,741488,5992,0,0,0,75655,890512,29770
-2007,653,St. Marys,Andreanof Electric Corp,Investor Owned,36,65,27,46,91,9,0,0,0,82,156,36
-2006,653,St. Marys,Andreanof Electric Corp,Investor Owned,72,131,28,103,186,9,0,0,0,175,317,37
-2005,653,St. Marys,Andreanof Electric Corp,Investor Owned,62,122,28,97,169,9,0,0,0,159,291,37
-2004,653,St. Marys,Andreanof Electric Corp,Investor Owned,66,125,27,90,190,9,0,0,0,156,315,36
+2004,599,Anchorage,Anchorage Municipal Light and Power,Municipal,17027,150534,23842,72957,804733,6033,0,0,0,89984,955267,29875
+2005,599,Anchorage,Anchorage Municipal Light and Power,Municipal,16394,147171,23976,74346,853238,6123,0,0,0,90740,1000409,30099
+2006,599,Anchorage,Anchorage Municipal Light and Power,Municipal,14486,148255,23943,66603,954913,6147,0,0,0,81089,1103168,30090
+2007,599,Anchorage,Anchorage Municipal Light and Power,Municipal,13945,147246,24044,64172,957804,6199,0,0,0,78117,1105050,30243
+2008,599,Anchorage,Anchorage Municipal Light and Power,Municipal,15375,147725,24108,74170,971027,6243,0,0,0,89545,1118752,30351
+2009,599,Anchorage,Anchorage Municipal Light and Power,Municipal,17973.8,147643,24139,92088,968321,6267,0,0,0,110061.8,1115964,30406
+2010,599,Anchorage,Anchorage Municipal Light and Power,Municipal,18576,143473,24206,98145.5,965307,6275,0,0,0,116721.5,1108780,30481
+2011,599,Anchorage,Anchorage Municipal Light and Power,Municipal,18732.5,143844,24302,97883.3,967799,6301,0,0,0,116615.8,1111643,30603
+2012,599,Anchorage,Anchorage Municipal Light and Power,Municipal,17221.2,146789,24443,83738,953876,6304,0,0,0,100959.2,1100665,30747
+2013,599,Anchorage,Anchorage Municipal Light and Power,Municipal,18480.3,139733,24463,94117.3,907737,6323,0,0,0,112597.6,1047470,30786
+2014,599,Anchorage,Anchorage Municipal Light and Power,Municipal,21435,133411,24429,113515.6,879373,6362,0,0,0,134950.6,1012784,30791
+2015,599,Anchorage,Anchorage Municipal Light and Power,Municipal,21972,130806,24555,118755,873691,6377,0,0,0,140727,1004497,30932
+2016,599,Anchorage,Anchorage Municipal Light and Power,Municipal,22260.3,127732,24678,123380.4,864147,6402,.,.,.,145640.7,991879,31080
+2017,599,Anchorage,Anchorage Municipal Light and Power,Municipal,26125.8,127375,24680,140604.6,839303,6392,.,.,.,166730.4,966678,31072
 2003,653,St. Marys,Andreanof Electric Corp,Investor Owned,70,129,28,99,205,8,0,0,0,169,334,36
-2011,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,193,277,69,134,285,16,0,0,0,327,562,85
-2010,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,194,278,69,135,284,16,0,0,0,329,562,85
-2009,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,210,274,67,39,69,6,42,57,13,291,400,86
-2008,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,175,275,67,69,137,16,0,0,0,244,412,83
-2007,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,160,275,67,53,116,16,,,,213,391,83
-2006,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,126,259,66,65,257,19,0,0,0,191,516,85
-2005,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,126,219,66,65,211,16,0,0,0,191,430,82
-2004,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,126,272,66,106,263,19,0,0,0,232,535,85
-2003,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,120,258,63,72,235,6,19,169,11,211,662,80
-2014,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1413.7,11679,1490,4141.5,39665,413,0,0,0,5555.2,51344,1903
-2013,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1431.8,11865,1475,4054.9,38387,412,0,0,0,5486.7,50252,1887
-2012,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1364,11511,1471,3929,38069,400,0,0,0,5293,49580,1871
-2011,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1304,11253,1456,3917,38799,394,0,0,0,5221,50052,1850
-2010,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1287,11114,1453,3833,38129,397,0,0,0,5120,49243,1850
-2009,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1375,10909,1428,3572,37181,394,0,0,0,4947,48090,1822
-2008,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1366,10827,1429,3562,35411,394,0,0,0,4928,46238,1823
-2007,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1260,10316,1425,3548,33875,393,0,0,0,4808,44191,1818
-2006,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1272,10664,1405,2890,30289,406,0,0,0,4162,40953,1811
-2005,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1123,10587,1416,3036,33841,406,0,0,0,4159,44428,1822
-2004,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1145,10970,1458,2667,30433,407,0,0,0,3812,41403,1865
-2003,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1018,11000,1444,2896,34000,407,0,0,0,3914,45000,1851
-2014,1651,Bethel,Bethel Utilities Corp,Investor Owned,2066.7,3598,1692,5685.1,10335,970,0,0,0,7751.8,13933,2662
-2013,1651,Bethel,Bethel Utilities Corp,Investor Owned,5641,10279,1680,15973,29254,1020,0,0,0,21614,39533,2700
-2012,1651,Bethel,Bethel Utilities Corp,Investor Owned,5990,10677,1671,16102,30229,1017,0,0,0,22092,40906,2688
-2011,1651,Bethel,Bethel Utilities Corp,Investor Owned,5313,10246,1663,14222,28518,1020,0,0,0,19535,38764,2683
-2010,1651,Bethel,Bethel Utilities Corp,Investor Owned,4615,10144,1632,12397,28510,1048,0,0,0,17012,38654,2680
-2009,1651,Bethel,Bethel Utilities Corp,Investor Owned,4995,9959,1620,13528,28139,1070,0,0,0,18523,38098,2690
-2008,1651,Bethel,Bethel Utilities Corp,Investor Owned,5075,10096,1570,14010,28742,1135,0,0,0,19085,38838,2705
-2007,1651,Bethel,Bethel Utilities Corp,Investor Owned,4112,10042,1561,11224,28778,1130,0,0,0,15336,38820,2691
-2006,1651,Bethel,Bethel Utilities Corp,Investor Owned,3736,9841,1571,10120,28636,1115,0,0,0,13856,38477,2686
-2005,1651,Bethel,Bethel Utilities Corp,Investor Owned,3590,10245,1572,8995,29326,1067,0,0,0,12585,39571,2639
-2004,1651,Bethel,Bethel Utilities Corp,Investor Owned,3291,10228,1552,8168,29614,1005,0,0,0,11459,39842,2557
-2003,1651,Bethel,Bethel Utilities Corp,Investor Owned,2914,10105,1547,7038,29278,939,0,0,0,9952,39383,2486
-2011,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,34,57,18,32,53,4,0,0,0,66,110,22
-2010,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,33.6,56,18,31.5,52,4,0,0,0,65.1,108,22
-2009,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,31.8,53,18,29.7,49,4,0,0,0,61.5,102,22
-2008,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,12.8,21,18,36,59,3,0,0,0,48.8,80,21
-2007,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,39,65,17,44,52,3,0,0,0,83,117,20
-2006,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,32,85,28,0,0,0,0,0,0,32,85,28
-2005,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,27,73,25,0,0,0,0,0,0,27,73,25
-2004,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,25,73,25,0,0,0,0,0,0,25,73,25
-2003,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,23,70,25,0,0,0,0,0,0,23,70,25
-2011,3421,Chignik,City of Chignik,Municipal,91.7,207,60,281.3,592,39,0,0,0,373,799,99
-2010,3421,Chignik,City of Chignik,Municipal,91.3,193,54,271,623,41,0,0,0,362.3,816,95
-2009,3421,Chignik,City of Chignik,Municipal,92.7,182,53,276.1,523,39,0,0,0,368.8,705,92
-2008,3421,Chignik,City of Chignik,Municipal,118.3,185,49,227.5,349,30,0,0,0,345.8,534,79
-2007,3421,Chignik,City of Chignik,Municipal,95,193,54,141,296,32,0,0,0,236,489,86
-2006,3421,Chignik,City of Chignik,Municipal,102,217,53,159,365,33,0,0,0,261,582,86
-2005,3421,Chignik,City of Chignik,Municipal,174,362,74,87,181,18,0,0,0,261,543,92
-2004,3421,Chignik,City of Chignik,Municipal,82,217,55,136,359,30,0,0,0,218,576,85
-2003,3421,Chignik,City of Chignik,Municipal,75,223,59,128,350,29,0,0,0,203,573,88
-2011,3422,Chefornak,City of Chefornak,Municipal,268,433,97,394,707,26,0,0,0,662,1140,123
-2010,3422,Chefornak,City of Chefornak,Municipal,206,424,94,268,583,32,0,0,0,474,1007,126
-2009,3422,Chefornak,City of Chefornak,Municipal,281,442,86,288,555,29,0,0,0,569,997,115
-2008,3422,Chefornak,City of Chefornak,Municipal,269,444,85,263,511,30,0,0,0,532,955,115
-2007,3422,Chefornak,City of Chefornak,Municipal,224,407,85,173,309,30,0,0,0,397,716,115
-2006,3422,Chefornak,City of Chefornak,Municipal,183,360,91,146,278,43,0,0,0,329,638,134
-2005,3422,Chefornak,City of Chefornak,Municipal,164,357,86,123,265,36,0,0,0,287,622,122
-2004,3422,Chefornak,City of Chefornak,Municipal,131,360,83,97,330,50,0,0,0,228,690,133
-2003,3422,Chefornak,City of Chefornak,Municipal,124,364,78,94,239,27,0,0,0,218,603,105
-2011,3465,Chitina,Chitina Electric Inc,Investor Owned,104,167,52,153,313,30,0,0,0,257,480,82
-2010,3465,Chitina,Chitina Electric Inc,Investor Owned,94,165,53,132,296,29,0,0,0,226,461,82
-2009,3465,Chitina,Chitina Electric Inc,Investor Owned,89.8,173,52,98.5,242,27,0,0,0,188.3,415,79
-2008,3465,Chitina,Chitina Electric Inc,Investor Owned,95,173,51,91,221,25,0,0,0,186,394,76
-2007,3465,Chitina,Chitina Electric Inc,Investor Owned,72,156,47,81,230,25,0,0,0,153,386,72
-2006,3465,Chitina,Chitina Electric Inc,Investor Owned,59,129,33,110,287,26,0,0,0,169,416,59
-2005,3465,Chitina,Chitina Electric Inc,Investor Owned,52,115,32,102,261,28,0,0,0,154,376,60
-2004,3465,Chitina,Chitina Electric Inc,Investor Owned,45,119,33,91,286,30,0,0,0,136,405,63
-2003,3465,Chitina,Chitina Electric Inc,Investor Owned,42,120,34,83,289,28,0,0,0,125,409,62
-2014,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,81880,513748,70127,73737,563581,9389,6718,57198,7,162335,1134527,79523
-2013,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,79210,534522,69686,70057,573447,9296,5941,54395,7,155208,1162364,78989
-2012,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,76083,549748,69495,67370,574284,9204,5902,54804,7,149355,1178836,78706
-2011,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,77575,545129,69729,68050,567652,9230,5849,53555,7,151474,1166336,78966
-2010,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,72356,545123,69590,63175,578892,9105,4579,45415,6,140110,1169430,78701
-2009,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,82365,551740,69430,75978,599519,9030,3758,32446,5,162101,1183705,78465
-2008,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,80307,560757,69685,73469,609268,8961,3773,35807,6,157549,1205832,78652
-2007,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,76960,557081,69449,69433,604827,8774,4499,44129,6,150892,1206037,78229
-2006,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,79712,564969,69221,70425,619060,8673,4413,45948,6,154550,1229977,77900
-2005,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,68822,559744,68294,61158,619507,8540,3200,37557,6,133180,1216808,76840
-2004,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,65651,571320,67161,56191,615973,8313,2989,37756,6,124831,1225049,75480
-2003,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,59643,547756,65993,51366,587798,8202,3159,41033,6,114168,1176587,74201
-2014,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4262.2,16106,2951,15008.1,64974,793,0,0,0,19270.3,81080,3744
-2013,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4721,16731,2962,16269,66614,797,0,0,0,20990,83345,3759
-2012,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,5264.1,17517,2983,17654.2,65757,797,0,0,0,22918.3,83274,3780
-2011,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,5174,18193,2978,15352,62228,787,0,0,0,20526,80421,3765
-2010,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4480,17793,2971,12573.7,58457,782,0,0,0,17053.7,76250,3753
-2009,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3843,17553,2945,9218,47377,780,0,0,0,13061,64930,3725
-2008,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4074,16648,2918,11714,56011,778,0,0,0,15788,72659,3696
-2007,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3975,17185,2905,11578,57977,765,0,0,0,15553,75162,3670
-2006,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3735,17425,2887,10696,58376,748,0,0,0,14431,75801,3635
-2005,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3583,18034,2879,10015,59327,747,0,0,0,13598,77361,3626
-2004,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3385,18552,2889,7594,46722,754,1385,11704,1,12364,76978,3644
-2003,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3275,18236,2860,7562,46623,754,1277,10821,1,12114,75680,3615
-2011,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,651,950,180,726,1194,36,0,0,0,1377,2144,216
-2010,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,639,986,176,743,1241,35,0,0,0,1382,2227,211
-2009,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,694,936,172,805,1162,37,0,0,0,1499,2098,209
-2008,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,672,929,173,791,1171,40,0,0,0,1463,2100,213
-2007,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,581,902,170,733,1219,39,0,0,0,1314,2121,209
-2006,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,436,906,170,541,1240,38,0,0,0,977,2146,208
-2005,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,441,917,176,533,1232,37,0,0,0,974,2149,213
-2004,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,434,903,176,494,1133,37,0,0,0,928,2036,213
+2004,653,St. Marys,Andreanof Electric Corp,Investor Owned,66,125,27,90,190,9,0,0,0,156,315,36
+2005,653,St. Marys,Andreanof Electric Corp,Investor Owned,62,122,28,97,169,9,0,0,0,159,291,37
+2006,653,St. Marys,Andreanof Electric Corp,Investor Owned,72,131,28,103,186,9,0,0,0,175,317,37
+2007,653,St. Marys,Andreanof Electric Corp,Investor Owned,36,65,27,46,91,9,0,0,0,82,156,36
 2003,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,442,921,177,483,1102,41,0,0,0,925,2023,218
-2010,5553,Egegik,Egegik Light & Power Co,Investor Owned,116,142,39,388,531,35,0,0,0,504,673,74
-2009,5553,Egegik,Egegik Light & Power Co,Investor Owned,112,121,39,334,367,34,64,96,1,510,584,74
-2008,5553,Egegik,Egegik Light & Power Co,Investor Owned,113,121,40,325,347,37,90,189,1,528,657,78
-2007,5553,Egegik,Egegik Light & Power Co,Investor Owned,93,121,46,258,331,39,68,148,1,419,600,86
-2006,5553,Egegik,Egegik Light & Power Co,Investor Owned,90,137,49,237,360,42,53,150,1,380,647,92
-2005,5553,Egegik,Egegik Light & Power Co,Investor Owned,90,137,49,237,360,42,53,150,1,380,647,92
-2004,5553,Egegik,Egegik Light & Power Co,Investor Owned,79,135,48,203,355,40,43,151,1,325,641,89
-2003,5553,Egegik,Egegik Light & Power Co,Investor Owned,74,130,50,195,352,41,44,157,1,313,639,92
-2011,5721,Elfin Cove,City of Elfin Cove,Municipal,38,73,41,118,168,37,0,0,0,156,241,78
-2010,5721,Elfin Cove,City of Elfin Cove,Municipal,27,82,42,93,177,27,0,0,0,120,259,69
-2009,5721,Elfin Cove,City of Elfin Cove,Municipal,24,88,40,104,228,21,0,0,0,128,316,61
-2008,5721,Elfin Cove,City of Elfin Cove,Municipal,30,107,38,129,227,19,0,0,0,159,334,57
-2007,5721,Elfin Cove,City of Elfin Cove,Municipal,25,93,38,97,203,26,0,0,0,122,296,64
-2006,5721,Elfin Cove,City of Elfin Cove,Municipal,44,97,38,101,205,35,0,0,0,145,302,73
-2005,5721,Elfin Cove,City of Elfin Cove,Municipal,42,88,37,103,214,36,0,0,0,145,302,73
-2004,5721,Elfin Cove,City of Elfin Cove,Municipal,33,86,36,89,232,38,0,0,0,122,318,74
-2003,5721,Elfin Cove,City of Elfin Cove,Municipal,54,184,43,45,165,30,0,0,0,99,349,73
-2009,6111,Central,Central Electric Inc,Investor Owned,142,253,126,90,168,17,0,0,0,232,421,143
-2008,6111,Central,Central Electric Inc,Investor Owned,194,237,124,134,171,18,0,0,0,328,408,142
-2007,6111,Central,Central Electric Inc,Investor Owned,139,226,125,115,196,18,0,0,0,254,422,143
-2006,6111,Central,Central Electric Inc,Investor Owned,145,227,126,97,157,18,0,0,0,242,384,144
-2005,6111,Central,Central Electric Inc,Investor Owned,122,229,125,104,208,18,0,0,0,226,437,143
-2004,6111,Central,Central Electric Inc,Investor Owned,126,236,126,117,241,18,0,0,0,243,477,144
+2004,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,434,903,176,494,1133,37,0,0,0,928,2036,213
+2005,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,441,917,176,533,1232,37,0,0,0,974,2149,213
+2006,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,436,906,170,541,1240,38,0,0,0,977,2146,208
+2007,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,581,902,170,733,1219,39,0,0,0,1314,2121,209
+2008,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,672,929,173,791,1171,40,0,0,0,1463,2100,213
+2009,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,694,936,172,805,1162,37,0,0,0,1499,2098,209
+2010,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,639,986,176,743,1241,35,0,0,0,1382,2227,211
+2011,4959,Aniak,Aniak Light & Power Co Inc,Investor Owned,651,950,180,726,1194,36,0,0,0,1377,2144,216
+2003,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,120,258,63,72,235,6,19,169,11,211,662,80
+2004,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,126,272,66,106,263,19,0,0,0,232,535,85
+2005,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,126,219,66,65,211,16,0,0,0,191,430,82
+2006,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,126,259,66,65,257,19,0,0,0,191,516,85
+2007,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,160,275,67,53,116,16,,,,213,391,83
+2008,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,175,275,67,69,137,16,0,0,0,244,412,83
+2009,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,210,274,67,39,69,6,42,57,13,291,400,86
+2010,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,194,278,69,135,284,16,0,0,0,329,562,85
+2011,878,Atmautluak,Atmautluak Tribal Utilities,Municipal,193,277,69,134,285,16,0,0,0,327,562,85
+2003,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1018,11000,1444,2896,34000,407,0,0,0,3914,45000,1851
+2004,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1145,10970,1458,2667,30433,407,0,0,0,3812,41403,1865
+2005,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1123,10587,1416,3036,33841,406,0,0,0,4159,44428,1822
+2006,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1272,10664,1405,2890,30289,406,0,0,0,4162,40953,1811
+2007,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1260,10316,1425,3548,33875,393,0,0,0,4808,44191,1818
+2008,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1366,10827,1429,3562,35411,394,0,0,0,4928,46238,1823
+2009,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1375,10909,1428,3572,37181,394,0,0,0,4947,48090,1822
+2010,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1287,11114,1453,3833,38129,397,0,0,0,5120,49243,1850
+2011,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1304,11253,1456,3917,38799,394,0,0,0,5221,50052,1850
+2012,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1364,11511,1471,3929,38069,400,0,0,0,5293,49580,1871
+2013,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1431.8,11865,1475,4054.9,38387,412,0,0,0,5486.7,50252,1887
+2014,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1413.7,11679,1490,4141.5,39665,413,0,0,0,5555.2,51344,1903
+2015,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1494.4,11466,1500,4415.1,38646,410,.,.,.,5909.5,50112,1910
+2016,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1471.2,11161,1498,4462.7,39001,425,.,.,.,5933.9,50162,1923
+2017,1276,Barrow,"Barrow Utils & Elec Coop, Inc",Cooperative,1486,11243,1513,4469.4,37922,500,.,.,.,5955.4,49165,2013
+2003,1651,Bethel,Bethel Utilities Corp,Investor Owned,2914,10105,1547,7038,29278,939,0,0,0,9952,39383,2486
+2004,1651,Bethel,Bethel Utilities Corp,Investor Owned,3291,10228,1552,8168,29614,1005,0,0,0,11459,39842,2557
+2005,1651,Bethel,Bethel Utilities Corp,Investor Owned,3590,10245,1572,8995,29326,1067,0,0,0,12585,39571,2639
+2006,1651,Bethel,Bethel Utilities Corp,Investor Owned,3736,9841,1571,10120,28636,1115,0,0,0,13856,38477,2686
+2007,1651,Bethel,Bethel Utilities Corp,Investor Owned,4112,10042,1561,11224,28778,1130,0,0,0,15336,38820,2691
+2008,1651,Bethel,Bethel Utilities Corp,Investor Owned,5075,10096,1570,14010,28742,1135,0,0,0,19085,38838,2705
+2009,1651,Bethel,Bethel Utilities Corp,Investor Owned,4995,9959,1620,13528,28139,1070,0,0,0,18523,38098,2690
+2010,1651,Bethel,Bethel Utilities Corp,Investor Owned,4615,10144,1632,12397,28510,1048,0,0,0,17012,38654,2680
+2011,1651,Bethel,Bethel Utilities Corp,Investor Owned,5313,10246,1663,14222,28518,1020,0,0,0,19535,38764,2683
+2012,1651,Bethel,Bethel Utilities Corp,Investor Owned,5990,10677,1671,16102,30229,1017,0,0,0,22092,40906,2688
+2013,1651,Bethel,Bethel Utilities Corp,Investor Owned,5641,10279,1680,15973,29254,1020,0,0,0,21614,39533,2700
+2014,1651,Bethel,Bethel Utilities Corp,Investor Owned,2066.7,3598,1692,5685.1,10335,970,0,0,0,7751.8,13933,2662
+2003,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,23,70,25,0,0,0,0,0,0,23,70,25
+2004,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,25,73,25,0,0,0,0,0,0,25,73,25
+2005,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,27,73,25,0,0,0,0,0,0,27,73,25
+2006,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,32,85,28,0,0,0,0,0,0,32,85,28
+2007,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,39,65,17,44,52,3,0,0,0,83,117,20
+2008,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,12.8,21,18,36,59,3,0,0,0,48.8,80,21
+2009,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,31.8,53,18,29.7,49,4,0,0,0,61.5,102,22
+2010,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,33.6,56,18,31.5,52,4,0,0,0,65.1,108,22
+2011,1747,Birch Creek,Birch Creek Village Elec Util,Municipal,34,57,18,32,53,4,0,0,0,66,110,22
 2003,6111,Central,Central Electric Inc,Investor Owned,123,231,124,107,219,18,0,0,0,230,450,142
-2011,6866,Cold Bay,"G & K, Inc",Investor Owned,262,385,63,1283,1852,53,113,169,1,1658,2406,117
-2010,6866,Cold Bay,"G & K, Inc",Investor Owned,244,401,62,1166,1879,54,114,193,1,1524,2473,117
-2009,6866,Cold Bay,"G & K, Inc",Investor Owned,231,380,63,1242,1975,53,101,168,1,1574,2523,117
-2008,6866,Cold Bay,"G & K, Inc",Investor Owned,263,389,63,1401,2043,53,115,173,1,1779,2605,117
-2007,6866,Cold Bay,"G & K, Inc",Investor Owned,228,390,61,1183,1990,53,89,154,1,1500,2534,115
-2006,6866,Cold Bay,"G & K, Inc",Investor Owned,170,395,75,1206,2050,35,87,155,1,1463,2600,111
-2005,6866,Cold Bay,"G & K, Inc",Investor Owned,211,402,59,1136,2144,49,81,158,1,1428,2704,109
-2004,6866,Cold Bay,"G & K, Inc",Investor Owned,0,0,57,0,0,48,0,0,1,0,0,106
-2003,6866,Cold Bay,"G & K, Inc",Investor Owned,184,404,57,978,2107,48,73,161,1,1235,2672,106
-2011,6915,Galena,Galena Electric Utility,Municipal,425,902,219,1931,3567,160,0,0,0,2356,4469,379
-2010,6915,Galena,Galena Electric Utility,Municipal,574,861,211,1841,3270,134,0,0,0,2415,4131,345
-2009,6915,Galena,Galena Electric Utility,Municipal,544,972,219,1624,2904,144,0,0,0,2168,3876,363
-2008,6915,Galena,Galena Electric Utility,Municipal,494,1086,227,1208,2504,126,301,657,12,2003,4247,365
-2007,6915,Galena,Galena Electric Utility,Municipal,480,1190,227,1312,3155,135,,,,1792,4345,362
-2006,6915,Galena,Galena Electric Utility,Municipal,266,1021,212,517,1942,87,1345,5337,36,2128,8300,335
-2005,6915,Galena,Galena Electric Utility,Municipal,266,1021,212,517,1942,87,1345,5337,36,2128,8300,335
-2004,6915,Galena,Galena Electric Utility,Municipal,291,1068,212,580,2052,87,1446,5378,36,2317,8498,335
-2003,6915,Galena,Galena Electric Utility,Municipal,266,1021,212,517,1942,87,1345,5337,36,2128,8300,335
-2014,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,63436.1,276627,38287,27472.1,129773,6372,138842.4,812963,508,229750.6,1219363,45167
-2013,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,65591.6,286768,38163,28106.5,133156,6323,142972.8,833237,511,236670.9,1253161,44997
-2012,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,73023.3,301535,38011,30826.2,136451,6298,160872.2,855521,496,264721.7,1293507,44805
-2011,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,68389.2,305090,37835,28777.3,138534,6417,144490.7,846303,483,241657.2,1289927,44735
-2010,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,61625.2,304785,37530,26303.8,140257,6458,129233.6,843125,464,217162.6,1288167,44452
-2009,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,55270.6,307809,37154,23350.3,141444,6409,116066,861230,456,194686.9,1310483,44019
-2008,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,57380,310579,36860,24640,141461,6229,130198,882683,449,212218,1334723,43538
-2007,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,54266,320632,36395,22536,143962,6008,117438,884656,463,194240,1349250,42866
-2006,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,49937,323153,35554,20567,143844,5851,92805,779046,471,163309,1246043,41876
-2005,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,39318,318085,34837,15961,142695,5717,63648,712557,438,118927,1173337,40992
-2004,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,35397,316259,33981,14295,142209,5580,53891,687670,409,103583,1146138,39970
-2003,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,31609,301916,33215,12566,134977,5469,47170,665663,405,91345,1102556,39089
-2011,7822,Gustavus,Gustavus Electric Inc,Investor Owned,454,912,439,368,913,152,0,0,0,822,1825,591
-2010,7822,Gustavus,Gustavus Electric Inc,Investor Owned,397,860,424,298,841,149,0,0,0,695,1701,573
-2009,7822,Gustavus,Gustavus Electric Inc,Investor Owned,480,752,394,424,797,139,0,0,0,904,1549,533
-2008,7822,Gustavus,Gustavus Electric Inc,Investor Owned,683,811,391,559,754,131,0,0,0,1242,1565,522
-2007,7822,Gustavus,Gustavus Electric Inc,Investor Owned,571,805,383,440,723,123,0,0,0,1011,1528,506
-2006,7822,Gustavus,Gustavus Electric Inc,Investor Owned,588,810,399,424,660,110,0,0,0,1012,1470,509
-2005,7822,Gustavus,Gustavus Electric Inc,Investor Owned,579,834,396,380,604,111,0,0,0,959,1438,507
-2004,7822,Gustavus,Gustavus Electric Inc,Investor Owned,517,895,393,316,622,109,0,0,0,833,1517,502
-2003,7822,Gustavus,Gustavus Electric Inc,Investor Owned,473,878,365,301,631,107,0,0,0,774,1509,472
-2011,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,371.7,1105,262,587,1649,100,0,0,0,958.7,2754,362
-2010,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,293,1075,345,813,1623,95,0,0,0,1106,2698,440
-2009,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,300.2,976,345,799.6,1335,94,0,0,0,1099.8,2311,439
-2008,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,328.4,980,312,468.2,1328,82,0,0,0,796.6,2308,394
-2007,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,328,1000,307,569,1721,100,0,0,0,897,2721,407
-2006,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,313,1053,255,586,1627,84,0,0,0,899,2680,339
-2005,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,345,1058,257,498,1453,84,0,0,0,843,2511,341
-2004,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,346,1051,251,523,1507,84,,,,869,2558,335
-2003,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,323,957,252,267,786,69,186,539,6,776,2282,327
-2011,9000,Hughes,Hughes Power & Light Co,Investor Owned,99,139,37,114,160,12,0,0,0,213,299,49
-2010,9000,Hughes,Hughes Power & Light Co,Investor Owned,84.5,118,35,122.5,163,15,0,0,0,207,281,50
-2009,9000,Hughes,Hughes Power & Light Co,Investor Owned,82.5,115,33,111.2,156,15,0,0,0,193.7,271,48
-2008,9000,Hughes,Hughes Power & Light Co,Investor Owned,60,104,35,78,122,13,0,0,0,138,226,48
-2007,9000,Hughes,Hughes Power & Light Co,Investor Owned,51,98,36,94,89,9,26,54,3,171,241,48
-2006,9000,Hughes,Hughes Power & Light Co,Investor Owned,49,93,36,62,112,9,30,57,3,141,262,48
-2005,9000,Hughes,Hughes Power & Light Co,Investor Owned,40,73,28,81,150,9,21,38,4,142,261,41
-2004,9000,Hughes,Hughes Power & Light Co,Investor Owned,36,68,28,75,146,9,20,39,4,131,253,41
-2003,9000,Hughes,Hughes Power & Light Co,Investor Owned,34,67,28,54,106,9,21,40,4,109,213,41
-2011,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,556,972,180,911,2177,104,0,0,0,1467,3149,284
-2010,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,557,976,185,856,1675,99,0,0,0,1413,2651,284
-2009,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,522,932,180,752,1450,106,0,0,0,1274,2382,286
-2008,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,509,1093,184,728,1698,109,0,0,0,1237,2791,293
-2007,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,454,1005,190,659,1617,102,0,0,0,1113,2622,292
-2006,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,417,914,190,591,1446,102,0,0,0,1008,2360,292
-2005,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,412,877,201,541,1289,105,0,0,0,953,2166,306
-2004,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,502,953,208,627,1236,105,0,0,0,1129,2189,313
-2003,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,459,911,208,559,1170,105,0,0,0,1018,2081,313
-2011,9192,Iguigig,Igiugig Electric Company,Political Subdivision,82,83,24,146,190,23,0,0,0,228,273,47
-2010,9192,Iguigig,Igiugig Electric Company,Political Subdivision,72.5,90,23,109.9,155,22,0,0,0,182.4,245,45
-2009,9192,Iguigig,Igiugig Electric Company,Political Subdivision,51,69,18,104.1,152,23,0,0,0,155.1,221,41
-2008,9192,Iguigig,Igiugig Electric Company,Political Subdivision,34,56,17,85,146,22,0,0,0,119,202,39
-2007,9192,Iguigig,Igiugig Electric Company,Political Subdivision,24,47,18,85,136,21,0,0,0,109,183,39
-2006,9192,Iguigig,Igiugig Electric Company,Political Subdivision,31,52,19,85,142,21,0,0,0,116,194,40
-2005,9192,Iguigig,Igiugig Electric Company,Political Subdivision,33,55,19,77,132,21,0,0,0,110,187,40
-2004,9192,Iguigig,Igiugig Electric Company,Political Subdivision,30,54,18,73,129,19,0,0,0,103,183,37
-2003,9192,Iguigig,Igiugig Electric Company,Political Subdivision,34,59,18,74,138,18,0,0,0,108,197,36
-2011,9416,Deering,Ipnatchiaq Electric Company,Municipal,159.1,198,39,373.9,466,18,0,0,0,533,664,57
-2010,9416,Deering,Ipnatchiaq Electric Company,Municipal,134,177,39,314,416,18,0,0,0,448,593,57
-2009,9416,Deering,Ipnatchiaq Electric Company,Municipal,150,194,42,358,462,20,0,0,0,508,656,62
-2008,9416,Deering,Ipnatchiaq Electric Company,Municipal,132,207,42,284,448,20,0,0,0,416,655,62
-2007,9416,Deering,Ipnatchiaq Electric Company,Municipal,108,219,45,207,419,18,0,0,0,315,638,63
-2006,9416,Deering,Ipnatchiaq Electric Company,Municipal,119,241,46,227,465,22,0,0,0,346,706,68
-2005,9416,Deering,Ipnatchiaq Electric Company,Municipal,97,239,48,175,438,21,0,0,0,272,677,69
-2004,9416,Deering,Ipnatchiaq Electric Company,Municipal,109,270,48,157,407,19,0,0,0,266,677,67
-2003,9416,Deering,Ipnatchiaq Electric Company,Municipal,100,258,48,140,385,19,0,0,0,240,643,67
-2011,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,325,624,181,203.9,391,40,0,0,0,528.9,1015,221
-2010,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,325.9,620,174,189.9,337,42,0,0,0,515.8,957,216
-2009,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,317.6,603,172,191.6,373,38,0,0,0,509.2,976,210
-2008,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,306.8,650,172,178.8,351,38,0,0,0,485.6,1001,210
-2007,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,290,643,172,331,407,38,0,0,0,621,1050,210
-2006,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,289,640,169,163,340,39,0,0,0,452,980,208
-2005,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,288,640,169,163,340,4,0,0,0,451,980,173
-2004,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,284,631,182,171,507,5,0,0,0,455,1138,187
-2003,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,292,648,182,175,410,5,0,0,0,467,1058,187
-2011,9897,King Cove,City of King Cove,Municipal,238,1224,110,831,2450,266,0,0,0,1069,3674,376
-2010,9897,King Cove,City of King Cove,Municipal,151,866,178,428,2465,77,0,0,0,579,3331,255
-2009,9897,King Cove,City of King Cove,Municipal,213,900,182,544,2947,81,0,0,0,757,3847,263
-2008,9897,King Cove,City of King Cove,Municipal,209,931,184,691.2,2880,87,0,0,0,900.2,3811,271
-2007,9897,King Cove,City of King Cove,Municipal,167,734,180,475,2655,198,,,,642,3389,378
-2006,9897,King Cove,City of King Cove,Municipal,166,784,180,474,2230,198,0,0,0,640,3014,378
-2005,9897,King Cove,City of King Cove,Municipal,166,835,185,472,2376,198,0,0,0,638,3211,383
-2004,9897,King Cove,City of King Cove,Municipal,160,818,180,463,2312,195,0,0,0,623,3130,375
-2003,9897,King Cove,City of King Cove,Municipal,161,803,171,528,2574,194,0,0,0,689,3377,365
-2007,9898,Kotlik,City of Kotlik,Municipal,185,441,157,272,487,28,0,0,0,457,928,185
-2006,9898,Kotlik,City of Kotlik,Municipal,272,651,153,413,790,28,0,0,0,685,1441,181
-2005,9898,Kotlik,City of Kotlik,Municipal,218,550,152,268,668,24,0,0,0,486,1218,176
-2004,9898,Kotlik,City of Kotlik,Municipal,207,600,152,235,710,24,0,0,0,442,1310,176
-2003,9898,Kotlik,City of Kotlik,Municipal,202,714,143,271,792,25,0,0,0,473,1506,168
-2014,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7095,70161,6334,7183.7,74369,1258,1948.9,23409,13,16227.6,167939,7605
-2013,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7228.9,71044,6274,7187.4,73932,1228,2115.4,25306,13,16531.7,170282,7515
-2012,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7559.2,74274,6275,7144.8,73463,1230,2046.9,24453,13,16750.9,172190,7518
-2011,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7223.5,70815,6208,6837.1,70657,1223,1952.6,23242,12,16013.2,164714,7443
-2010,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6826.2,67041,6195,6619,67963,1210,1926.9,21981,13,15372.1,156985,7418
-2009,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7018.8,68777,6166,6596.1,68155,1185,1796.2,21215,14,15411.1,158147,7365
-2008,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6980.8,68287,6166,6755.7,69778,1166,1787.3,21275,14,15523.8,159340,7346
-2007,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6475,64652,6140,6541,69286,1151,1779,20865,14,14795,154803,7305
-2006,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6234,62141,6105,6536,68837,1132,1714,21182,14,14484,152160,7251
-2005,10210,Ketchikan,Ketchikan Public Utilities,Municipal,5668,58656,6070,6055,66669,1118,1524,19919,14,13247,145244,7202
-2004,10210,Ketchikan,Ketchikan Public Utilities,Municipal,5639,59636,6043,5949,65417,1103,1527,20587,15,13115,145640,7161
-2003,10210,Ketchikan,Ketchikan Public Utilities,Municipal,5562,58668,6064,5836,65332,1100,1550,21001,14,12948,145001,7178
-2014,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5845,34366,4741,3701,22546,1050,13804,90135,103,23350,147047,5894
-2013,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6148,34387,4705,3722,21450,1042,14219,87337,103,24089,143174,5850
-2012,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6536,35273,4696,4004,22282,1040,14770,87040,102,25310,144595,5838
-2011,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6493,34125,4689,3982,21537,1032,14978,86308,99,25453,141970,5820
-2010,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5941,33653,4670,3603,21088,1026,13525,84344,102,23069,139085,5798
-2009,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5488,33385,4665,3285,20736,1071,11832,80493,97,20605,134614,5833
-2008,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6306,32883,4649,3919,21171,1074,14326,82218,94,24551,136272,5817
-2007,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6497,32750,4639,4089,21344,1073,15031,84047,94,25617,138141,5806
-2006,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6158,32454,4612,3920,21354,1079,14237,82520,92,24315,136328,5783
-2005,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5370,31551,4611,3353,20528,1084,11904,78779,92,20627,130858,5787
-2004,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5289,32286,4560,3372,21558,1084,10939,74668,92,19600,128512,5736
-2003,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5386,32361,4631,0,0,0,13367,90194,1049,18753,122555,5680
-2014,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3115.7,7275,1147,5124.8,12657,130,0,0,0,8240.5,19932,1277
-2013,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3066,7451,1123,5006,12912,126,0,0,0,8072,20363,1249
-2012,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3446,7887,1130,5625,13270,126,0,0,0,9071,21157,1256
-2011,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3293.1,7678,1136,5457.5,13285,128,0,0,0,8750.6,20963,1264
-2010,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3699,7669,1148,5667,12209,130,0,0,0,9366,19878,1278
-2009,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3790,7902,1160,5683,12298,129,0,0,0,9473,20200,1289
-2008,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3103,7996,1141,4535,12384,124,0,0,0,7638,20380,1265
-2007,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3020,8005,1141,4418,12547,121,0,0,0,7438,20552,1262
-2006,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2750,8264,1144,3938,12722,123,0,0,0,6688,20986,1267
-2005,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2492,8329,1139,3677,13225,125,0,0,0,6169,21554,1264
-2004,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2177,8198,1125,3085,12568,130,0,0,0,5262,20766,1255
-2003,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,1939,7984,1042,2843,12746,137,0,0,0,4782,20730,1179
-2011,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,160,178,56,186,226,21,0,0,0,346,404,77
-2010,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,161,179,56,198,219,19,0,0,0,359,398,75
-2009,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,171,192,50,154,220,19,0,0,0,325,412,69
-2008,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,131,178,47,157,226,18,0,0,0,288,404,65
-2007,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,104,173,50,119,230,17,0,0,0,223,403,67
-2006,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,103,172,50,122,253,18,0,0,0,225,425,68
-2005,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,67,163,50,138,209,18,0,0,0,205,372,68
-2004,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,100,167,49,80,197,16,0,0,0,180,364,65
-2003,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,97,171,48,48,86,14,0,0,0,145,257,62
-2011,10491,Kwigillingok,Kwig Power Company,Political Subdivision,260.4,402,86,244.2,411,27,47.9,81,6,552.5,894,119
-2010,10491,Kwigillingok,Kwig Power Company,Political Subdivision,304.3,506,85,164.1,338,19,21.6,47,3,490,891,107
-2009,10491,Kwigillingok,Kwig Power Company,Political Subdivision,228.5,453,85,123.3,302,19,16.1,42,3,367.9,797,107
-2008,10491,Kwigillingok,Kwig Power Company,Political Subdivision,197.4,414,85,138.3,352,21,0,0,0,335.7,766,106
-2007,10491,Kwigillingok,Kwig Power Company,Political Subdivision,234,472,85,118,299,23,,,,352,771,108
-2006,10491,Kwigillingok,Kwig Power Company,Political Subdivision,219,457,85,139,357,23,0,0,0,358,814,108
-2005,10491,Kwigillingok,Kwig Power Company,Political Subdivision,259,457,88,110,210,20,16,41,3,385,708,111
-2004,10491,Kwigillingok,Kwig Power Company,Political Subdivision,241,457,88,104,204,20,14,40,3,359,701,111
-2003,10491,Kwigillingok,Kwig Power Company,Political Subdivision,220,437,88,93,193,20,13,40,3,326,670,111
-2011,10716,Larsen Bay,City of Larsen Bay,Municipal,66,172,54,115,256,35,0,0,0,181,428,89
-2010,10716,Larsen Bay,City of Larsen Bay,Municipal,60.9,156,37,157.4,470,37,0,0,0,218.3,626,74
-2009,10716,Larsen Bay,City of Larsen Bay,Municipal,127.5,310,52,90.5,310,38,0,0,0,218,620,90
-2008,10716,Larsen Bay,City of Larsen Bay,Municipal,57.5,138,41,180.5,549,46,0,0,0,238,687,87
-2007,10716,Larsen Bay,City of Larsen Bay,Municipal,75,193,48,164,471,26,0,0,0,239,664,74
-2006,10716,Larsen Bay,City of Larsen Bay,Municipal,185,363,48,96,181,26,0,0,0,281,544,74
-2005,10716,Larsen Bay,City of Larsen Bay,Municipal,145,363,48,73,181,26,0,0,0,218,544,74
-2004,10716,Larsen Bay,City of Larsen Bay,Municipal,85,280,48,163,306,38,0,0,0,248,586,86
-2003,10716,Larsen Bay,City of Larsen Bay,Municipal,78,268,48,145,290,38,0,0,0,223,558,86
-2008,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,82,123,76,88,133,13,0,0,0,170,256,89
-2007,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,86,112,75,75,111,14,0,0,0,161,223,89
-2006,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,88,116,75,77,114,14,0,0,0,165,230,89
-2005,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,91,122,75,81,118,14,0,0,0,172,240,89
-2004,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,92,124,74,90,130,15,0,0,0,182,254,89
-2003,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,92,124,72,88,136,15,0,0,0,180,260,87
-2014,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,74981.5,448552,56055,38697.7,273691,3831,0,0,0,113679.2,722243,59886
-2013,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,68393.6,452533,54900,34068.4,271422,3761,0,0,0,102462,723955,58661
-2012,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,69800,458393,53982,34198,268094,3711,0,0,0,103998,726487,57693
-2011,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,68212,451449,53239,33796,265746,3668,0,0,0,102008,717195,56907
-2010,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,60084,435159,52501,29083,256040,3643,0,0,0,89167,691199,56144
-2009,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,70686,438691,51796,36496,260239,3714,0,0,0,107182,698930,55510
-2008,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,63123,442498,50887,31320,258426,3673,0,0,0,94443,700924,54560
-2007,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,57511,428929,49939,28552,252183,3564,0,0,0,86063,681112,53503
-2006,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,56527,431007,48387,27524,247877,3354,0,0,0,84051,678884,51741
-2005,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,46335,406770,46313,22268,237640,3216,0,0,0,68603,644410,49529
-2004,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,41838,393646,43761,19583,225030,3113,0,0,0,61421,618676,46874
-2003,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,38309,368675,41566,17929,213014,3057,0,0,0,56238,581689,44623
-2011,12119,McGrath,McGrath Light & Power Co,Investor Owned,273.3,710,188,632.8,1809,115,0,0,0,906.1,2519,303
-2010,12119,McGrath,McGrath Light & Power Co,Investor Owned,270,670,178,698,1901,120,0,0,0,968,2571,298
-2009,12119,McGrath,McGrath Light & Power Co,Investor Owned,244.2,637,142,668.2,1880,127,0,0,0,912.4,2517,269
-2008,12119,McGrath,McGrath Light & Power Co,Investor Owned,263,688,139,641,1834,125,0,0,0,904,2522,264
-2007,12119,McGrath,McGrath Light & Power Co,Investor Owned,278,728,162,622,1783,92,0,0,0,900,2511,254
-2006,12119,McGrath,McGrath Light & Power Co,Investor Owned,272,712,160,634,1829,79,0,0,0,906,2541,239
-2005,12119,McGrath,McGrath Light & Power Co,Investor Owned,263,687,153,629,1814,73,0,0,0,892,2501,226
-2004,12119,McGrath,McGrath Light & Power Co,Investor Owned,295,775,162,619,1219,82,0,0,0,914,1994,244
-2003,12119,McGrath,McGrath Light & Power Co,Investor Owned,315,826,176,607,1731,79,0,0,0,922,2557,255
-2011,12385,Metlakatla,Metlakatla Power & Light,Municipal,772,8455,641,1185,9881,210,11,60,67,1968,18396,918
-2010,12385,Metlakatla,Metlakatla Power & Light,Municipal,671,7498,635,1065,9296,215,10,51,65,1746,16845,915
-2009,12385,Metlakatla,Metlakatla Power & Light,Municipal,682,7386,608,1000,9173,212,10,59,67,1692,16618,887
-2008,12385,Metlakatla,Metlakatla Power & Light,Municipal,659,6956,604,1002,8647,214,14,83,62,1675,15686,880
-2007,12385,Metlakatla,Metlakatla Power & Light,Municipal,572,6180,582,849,8030,214,11,68,58,1432,14278,854
-2006,12385,Metlakatla,Metlakatla Power & Light,Municipal,567,6126,540,983,8087,261,0,0,0,1550,14213,801
-2005,12385,Metlakatla,Metlakatla Power & Light,Municipal,564,5676,539,904,7786,253,33,234,1,1501,13696,793
-2004,12385,Metlakatla,Metlakatla Power & Light,Municipal,525,5673,539,851,7575,253,28,226,1,1404,13474,793
-2003,12385,Metlakatla,Metlakatla Power & Light,Municipal,519,5608,568,823,7513,260,97,665,1,1439,13786,829
-2011,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,352,413,131,478,559,60,0,0,0,830,972,191
-2010,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,415,442,133,441,519,61,0,0,0,856,961,194
-2009,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,429,420,145,520.9,530,68,0,0,0,949.9,950,213
-2008,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,384,409,153,483,523,64,0,0,0,867,932,217
-2007,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,357,395,171,500,560,59,0,0,0,857,955,230
-2006,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,330,411,142,432,550,55,0,0,0,762,961,197
-2005,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,329,406,138,403,570,56,0,0,0,732,976,194
-2004,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,313,421,140,336,484,58,0,0,0,649,905,198
-2003,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,289,412,128,291,430,62,0,0,0,580,842,190
-2011,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1795,3509,669,6925,14927,309,0,0,0,8720,18436,978
-2010,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1735,3737,684,7030,16165,337,0,0,0,8765,19902,1021
-2009,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1654,3789,686,6520,16169,328,0,0,0,8174,19958,1014
-2008,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1564,3928,753,6060,16562,360,0,0,0,7624,20490,1113
-2007,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1417,3967,686,5083,15666,328,0,0,0,6500,19633,1014
-2006,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1267,4052,695,4441,15492,333,0,0,0,5708,19544,1028
-2005,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1089,4019,710,3815,15592,339,0,0,0,4904,19611,1049
-2004,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,997,4143,710,3223,15174,320,0,0,0,4220,19317,1030
-2003,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,911,3961,710,2874,14361,320,0,0,0,3785,18322,1030
-2011,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,334,393,112,152,181,21,0,0,0,486,574,133
-2010,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,234.8,371,104,131.6,215,33,0,0,0,366.4,586,137
-2009,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,372,398,99,117,127,23,0,0,0,489,525,122
-2008,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,249,377,104,101,153,19,0,0,0,350,530,123
-2007,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,268,357,97,81,105,15,0,0,0,349,462,112
-2006,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,230,366,90,94,144,22,0,0,0,324,510,112
-2005,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,238,361,90,91,137,15,0,0,0,329,498,105
-2004,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,234,379,97,94,173,23,0,0,0,328,552,120
-2003,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,233,394,97,100,192,23,0,0,0,333,586,120
-2011,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,117.7,154,36,165.3,216,24,0,0,0,283,370,60
-2010,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,120,162,36,160.7,217,24,0,0,0,280.7,379,60
-2009,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,123.6,172,47,123.4,171,11,22,31,9,269,374,67
-2008,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,94,180,47,78,151,11,11,22,2,183,353,60
-2007,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,98,189,47,74,144,11,14,26,2,186,359,60
-2006,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,89,191,47,60,133,11,9,21,2,158,345,60
-2005,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,74,177,46,62,148,13,11,25,8,147,350,67
-2004,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,81,192,46,57,135,11,0,0,0,138,327,57
-2003,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,84,201,70,54,119,11,0,0,0,138,320,81
-2014,13642,Nome,Nome Joint Utility Systems,Municipal,3667,9302,1721,7516,20208,408,0,0,0,11183,29510,2129
-2013,13642,Nome,Nome Joint Utility Systems,Municipal,3579,9494,1707,7906,22347,411,0,0,0,11485,31841,2118
-2012,13642,Nome,Nome Joint Utility Systems,Municipal,3398,9780,1702,8220,23553,411,0,0,0,11618,33333,2113
-2011,13642,Nome,Nome Joint Utility Systems,Municipal,3374,9217,1701,8017,23559,407,0,0,0,11391,32776,2108
-2010,13642,Nome,Nome Joint Utility Systems,Municipal,3308,9181,1694,7969,24105,401,0,0,0,11277,33286,2095
-2009,13642,Nome,Nome Joint Utility Systems,Municipal,3417,9279,1690,8403,23774,403,0,0,0,11820,33053,2093
-2008,13642,Nome,Nome Joint Utility Systems,Municipal,3312,9680,1660,9305,28335,404,0,0,0,12617,38015,2064
-2007,13642,Nome,Nome Joint Utility Systems,Municipal,3015,9275,1623,5622,18540,403,0,0,0,8637,27815,2026
-2006,13642,Nome,Nome Joint Utility Systems,Municipal,2712,9499,1613,4960,18555,391,0,0,0,7672,28054,2004
-2005,13642,Nome,Nome Joint Utility Systems,Municipal,2333,9464,1606,4085,18697,389,0,0,0,6418,28161,1995
-2004,13642,Nome,Nome Joint Utility Systems,Municipal,1995,9428,1596,3434,17725,373,0,0,0,5429,27153,1969
-2003,13642,Nome,Nome Joint Utility Systems,Municipal,1868,9156,1561,3233,17382,374,0,0,0,5101,26538,1935
-2011,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2346,5696,1000,1948,2997,312,2906,9326,179,7200,18019,1491
-2010,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1921,5641,979,1721,4800,169,2460,7559,296,6102,18000,1444
-2009,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2650,5744,982,2151,4335,145,3223,7092,305,8024,17171,1432
-2008,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2458,6000,980,2138,5000,158,2630,6000,306,7226,17000,1444
-2007,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2107,5945,963,1800,6579,145,2243,4532,306,6150,17056,1414
-2006,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2010,5997,965,2980,9254,311,729,2180,142,5719,17431,1418
-2005,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1806,6046,972,2577,8987,310,642,2154,133,5025,17187,1415
-2004,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1609,6186,959,2303,9198,318,596,2244,138,4508,17628,1415
-2003,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1369,6022,963,1960,8719,324,480,2069,136,3809,16810,1423
-2011,14234,Ouzinkie,City of Ouzinkie,Municipal,111,325,76,132,343,16,0,0,0,243,668,92
-2010,14234,Ouzinkie,City of Ouzinkie,Municipal,109,320,76,132,332,17,0,0,0,241,652,93
-2009,14234,Ouzinkie,City of Ouzinkie,Municipal,93,286,68,121,322,15,0,0,0,214,608,83
-2008,14234,Ouzinkie,City of Ouzinkie,Municipal,91.1,267,71,107,284,13,0,0,0,198.1,551,84
-2007,14234,Ouzinkie,City of Ouzinkie,Municipal,94,300,76,123,400,15,0,0,0,217,700,91
-2006,14234,Ouzinkie,City of Ouzinkie,Municipal,99,300,78,127,400,14,0,0,0,226,700,92
-2005,14234,Ouzinkie,City of Ouzinkie,Municipal,117,350,81,146,396,14,0,0,0,263,746,95
-2004,14234,Ouzinkie,City of Ouzinkie,Municipal,113,346,80,145,405,14,0,0,0,258,751,94
-2003,14234,Ouzinkie,City of Ouzinkie,Municipal,108,341,82,103,289,7,0,0,0,211,630,89
-2011,14633,Pedro Bay,Pedro Bay Village Council,Municipal,60,67,29,116,132,16,0,0,0,176,199,45
-2010,14633,Pedro Bay,Pedro Bay Village Council,Municipal,59.2,65,30,130.7,154,12,0,0,0,189.9,219,42
-2009,14633,Pedro Bay,Pedro Bay Village Council,Municipal,65,72,21,122,162,9,0,0,0,187,234,30
-2008,14633,Pedro Bay,Pedro Bay Village Council,Municipal,47,65,24,101,161,8,0,0,0,148,226,32
-2007,14633,Pedro Bay,Pedro Bay Village Council,Municipal,46,77,28,87,155,10,0,0,0,133,232,38
-2006,14633,Pedro Bay,Pedro Bay Village Council,Municipal,55,91,31,81,167,10,0,0,0,136,258,41
-2005,14633,Pedro Bay,Pedro Bay Village Council,Municipal,54,89,34,78,165,9,0,0,0,132,254,43
-2004,14633,Pedro Bay,Pedro Bay Village Council,Municipal,43,68,22,66,117,10,0,0,0,109,185,32
-2003,14633,Pedro Bay,Pedro Bay Village Council,Municipal,39,65,22,59,111,10,0,0,0,98,176,32
-2011,14832,Perryville,Native Village of Perryville,Municipal,126.5,133,43,151,158,18,0,0,0,277.5,291,61
-2010,14832,Perryville,Native Village of Perryville,Municipal,93.4,122,43,151,197,18,0,0,0,244.4,319,61
-2009,14832,Perryville,Native Village of Perryville,Municipal,93,227,41,72.6,121,10,0,0,0,165.6,348,51
-2008,14832,Perryville,Native Village of Perryville,Municipal,101.4,252,45,27.6,46,10,0,0,0,129,298,55
-2007,14832,Perryville,Native Village of Perryville,Municipal,139,294,35,43,91,11,0,0,0,182,385,46
-2006,14832,Perryville,Native Village of Perryville,Municipal,142,300,35,12,25,6,0,0,0,154,325,41
-2005,14832,Perryville,Native Village of Perryville,Municipal,68,207,35,59,189,5,0,0,0,127,396,40
-2004,14832,Perryville,Native Village of Perryville,Municipal,63,207,35,56,184,5,0,0,0,119,391,40
-2003,14832,Perryville,Native Village of Perryville,Municipal,58,198,35,50,174,5,0,0,0,108,372,40
-2014,14856,Petersburg,City of Petersburg,Municipal,1942.1,19703,1372,1059,9246,708,2210.2,20201,31,5211.3,49150,2111
-2013,14856,Petersburg,City of Petersburg,Municipal,1972.9,20323,1361,1026,8977,684,2366.9,21896,38,5365.8,51196,2083
-2012,14856,Petersburg,City of Petersburg,Municipal,2010.2,20803,1354,1030.5,9064,717,2208.6,19905,39,5249.3,49772,2110
-2011,14856,Petersburg,City of Petersburg,Municipal,2006.8,20389,1367,1000.6,8580,713,2329.9,21706,37,5337.3,50675,2117
-2010,14856,Petersburg,City of Petersburg,Municipal,1890,18877,1366,935,8035,707,2063,19400,37,4888,46312,2110
-2009,14856,Petersburg,City of Petersburg,Municipal,2006,20559,1367,992,8634,702,2053,18991,36,5051,48184,2105
-2008,14856,Petersburg,City of Petersburg,Municipal,1808,17767,1368,934,7929,700,2027,18813,35,4769,44509,2103
-2007,14856,Petersburg,City of Petersburg,Municipal,1722,15235,1376,933,7617,685,2207,19940,33,4862,42792,2094
-2006,14856,Petersburg,City of Petersburg,Municipal,1629,14600,1375,915,7685,687,2006,18035,33,4550,40320,2095
-2005,14856,Petersburg,City of Petersburg,Municipal,1312,13464,1359,744,7187,667,1620,16944,30,3676,37595,2056
-2004,14856,Petersburg,City of Petersburg,Municipal,1282,13133,1358,696,6639,589,1615,16831,30,3593,36603,1977
-2003,14856,Petersburg,City of Petersburg,Municipal,1265,13248,1333,736,7014,633,1447,15801,30,3448,36063,1996
-2014,16955,Seward,Seward City of,Municipal,3234,15265,2097,1800,7964,513,5927,31961,125,10961,55190,2735
-2013,16955,Seward,Seward City of,Municipal,3182,15611,2074,1814,8392,507,5912,33947,125,10908,57950,2706
-2012,16955,Seward,Seward City of,Municipal,3344,16488,2064,1869,8651,503,5828,33599,126,11041,58738,2693
-2011,16955,Seward,Seward City of,Municipal,3123,16246,2053,1724,8464,496,5319,32544,122,10166,57254,2671
-2010,16955,Seward,Seward City of,Municipal,2728,15880,2038,1461,7920,493,4476,30884,120,8665,54684,2651
-2009,16955,Seward,Seward City of,Municipal,2831,16329,2013,1446,7756,489,4718,31631,122,8995,55716,2624
-2008,16955,Seward,Seward City of,Municipal,2671,16528,2000,1380,7912,482,4553,32899,120,8604,57339,2602
-2007,16955,Seward,Seward City of,Municipal,2563,15290,1973,1371,7977,476,4346,33752,118,8280,57019,2567
-2006,16955,Seward,Seward City of,Municipal,2516,16374,1942,1337,7963,447,4027,31075,118,7880,55412,2507
-2005,16955,Seward,Seward City of,Municipal,2276,15813,1879,1318,8149,403,3633,30825,105,7227,54787,2387
-2004,16955,Seward,Seward City of,Municipal,2160,15799,1924,1321,8953,412,3314,30774,105,6795,55526,2441
-2003,16955,Seward,Seward City of,Municipal,2033,15587,1938,2264,17343,460,2101,21734,58,6398,54664,2456
-2014,17271,Sitka,Sitka City & Borough of,Municipal,5207,43985,3581,7509,41009,1670,785,21003,21,13501,105997,5272
-2013,17271,Sitka,Sitka City & Borough of,Municipal,4875,45559,3685,6349,57230,1588,766,6776,21,11990,109565,5294
-2012,17271,Sitka,Sitka City & Borough of,Municipal,4570,47899,3669,5638,58534,1622,476,4968,15,10684,111401,5306
-2011,17271,Sitka,Sitka City & Borough of,Municipal,4573,48297,3682,5442,58422,1603,522,5563,16,10537,112282,5301
-2010,17271,Sitka,Sitka City & Borough of,Municipal,4399,46120,3677,5376,57272,1589,492,5223,15,10267,108615,5281
-2009,17271,Sitka,Sitka City & Borough of,Municipal,4635,49265,3652,5447,58663,1598,478,4769,15,10560,112697,5265
-2008,17271,Sitka,Sitka City & Borough of,Municipal,4620,48589,3650,5474,59803,1567,416,4514,15,10510,112906,5232
-2007,17271,Sitka,Sitka City & Borough of,Municipal,4248,44738,3602,5504,58378,1550,332,3746,11,10084,106862,5163
-2006,17271,Sitka,Sitka City & Borough of,Municipal,4107,43274,3550,5320,55922,1525,199,2028,9,9626,101224,5084
-2005,17271,Sitka,Sitka City & Borough of,Municipal,3812,40027,3504,5214,54380,1535,174,1772,9,9200,96179,5048
-2004,17271,Sitka,Sitka City & Borough of,Municipal,3723,39761,3481,4984,54181,1541,114,1827,1,8821,95769,5023
-2003,17271,Sitka,Sitka City & Borough of,Municipal,3613,38973,4169,4911,53766,736,89,1195,1,8613,93934,4906
-2011,17898,Saint Paul,City of Saint Paul,Municipal,453.1,873,154,1425.6,2442,64,162.8,343,17,2041.5,3658,235
-2010,17898,Saint Paul,City of Saint Paul,Municipal,396,841,154,1082,2031,64,541,1104,17,2019,3976,235
-2009,17898,Saint Paul,City of Saint Paul,Municipal,390,812,154,1048,1991,64,760,1657,17,2198,4460,235
-2008,17898,Saint Paul,City of Saint Paul,Municipal,455,821,154,1235,2020,64,1040,1902,17,2730,4743,235
-2007,17898,Saint Paul,City of Saint Paul,Municipal,354,861,154,908,1912,64,1019,2564,18,2281,5337,236
-2006,17898,Saint Paul,City of Saint Paul,Municipal,361,903,154,872,1877,64,929,2438,18,2162,5218,236
-2005,17898,Saint Paul,City of Saint Paul,Municipal,343,928,154,842,1964,33,874,2449,17,2059,5341,204
-2004,17898,Saint Paul,City of Saint Paul,Municipal,442,1084,154,434,1198,31,1021,3143,46,1897,5425,231
-2003,17898,Saint Paul,City of Saint Paul,Municipal,394,1040,154,360,1072,26,460,1291,46,1214,3403,226
-2011,18474,Tanana,Tanana Power Co Inc,Investor Owned,223,409,145,316,704,17,0,0,0,539,1113,162
-2010,18474,Tanana,Tanana Power Co Inc,Investor Owned,224,394,144,329,704,17,0,0,0,553,1098,161
-2009,18474,Tanana,Tanana Power Co Inc,Investor Owned,219,382,147,328,702,17,0,0,0,547,1084,164
-2008,18474,Tanana,Tanana Power Co Inc,Investor Owned,245,448,151,304,681,20,0,0,0,549,1129,171
-2007,18474,Tanana,Tanana Power Co Inc,Investor Owned,249,452,159,350,785,18,0,0,0,599,1237,177
-2006,18474,Tanana,Tanana Power Co Inc,Investor Owned,265,470,160,368,781,21,0,0,0,633,1251,181
-2005,18474,Tanana,Tanana Power Co Inc,Investor Owned,262,465,160,355,764,20,0,0,0,617,1229,180
-2004,18474,Tanana,Tanana Power Co Inc,Investor Owned,277,454,157,345,742,19,0,0,0,622,1196,176
-2003,18474,Tanana,Tanana Power Co Inc,Investor Owned,262,452,161,336,708,18,0,0,0,598,1160,179
-2011,18480,Tatitlek,Tatitlek Electric Utility,Municipal,87,138,40,158,244,28,0,0,0,245,382,68
-2010,18480,Tatitlek,Tatitlek Electric Utility,Municipal,76,139,40,124,270,23,0,0,0,200,409,63
-2009,18480,Tatitlek,Tatitlek Electric Utility,Municipal,89,133,38,135,221,27,0,0,0,224,354,65
-2008,18480,Tatitlek,Tatitlek Electric Utility,Municipal,86,150,37,154,218,25,0,0,0,240,368,62
-2007,18480,Tatitlek,Tatitlek Electric Utility,Municipal,64,149,34,58,257,24,0,0,0,122,406,58
-2006,18480,Tatitlek,Tatitlek Electric Utility,Municipal,47,152,36,108,245,20,0,0,0,155,397,56
-2005,18480,Tatitlek,Tatitlek Electric Utility,Municipal,38,141,35,61,253,21,0,0,0,99,394,56
-2004,18480,Tatitlek,Tatitlek Electric Utility,Municipal,55,135,36,95,230,19,0,0,0,150,365,55
-2003,18480,Tatitlek,Tatitlek Electric Utility,Municipal,50,129,36,85,218,19,0,0,0,135,347,55
-2004,18521,Teller,"Teller Power Company, Inc",Investor Owned,0,0,70,0,0,27,0,0,0,0,0,97
-2003,18521,Teller,"Teller Power Company, Inc",Investor Owned,144,276,70,228,444,27,0,0,0,372,720,97
-2011,18541,Tenakee Springs,City of Tenakee Springs,Municipal,165.7,241,124,83.2,120,35,0,0,0,248.9,361,159
-2010,18541,Tenakee Springs,City of Tenakee Springs,Municipal,153.2,240,124,72.5,113,36,0,0,0,225.7,353,160
-2009,18541,Tenakee Springs,City of Tenakee Springs,Municipal,157.5,249,126,78,124,35,0,0,0,235.5,373,161
-2008,18541,Tenakee Springs,City of Tenakee Springs,Municipal,128.6,201,110,77.3,121,15,0,0,0,205.9,322,125
-2007,18541,Tenakee Springs,City of Tenakee Springs,Municipal,90,243,125,64,104,27,0,0,0,154,347,152
-2006,18541,Tenakee Springs,City of Tenakee Springs,Municipal,127,256,109,77,139,43,0,0,0,204,395,152
-2005,18541,Tenakee Springs,City of Tenakee Springs,Municipal,114,210,116,70,131,45,0,0,0,184,341,161
-2004,18541,Tenakee Springs,City of Tenakee Springs,Municipal,84,232,119,57,159,43,0,0,0,141,391,162
-2003,18541,Tenakee Springs,City of Tenakee Springs,Municipal,73,230,99,54,168,36,0,0,0,127,398,135
-2011,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2980,4764,1037,2254,4411,192,709,1155,62,5943,10330,1291
-2010,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2656,4645,1129,1979,4301,220,501,889,63,5136,9835,1412
-2009,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2275,4688,1027,1657,4300,202,434,903,55,4366,9891,1284
-2008,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2890,4787,1041,2254,4575,210,532,896,52,5676,10258,1303
-2007,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2506,4805,1046,1911,4693,219,440,853,49,4857,10351,1314
-2006,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2593,4934,1036,2090,5257,212,452,873,48,5135,11064,1296
-2005,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2325,4970,1024,1633,4343,194,416,909,48,4374,10222,1266
-2004,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2012,5178,1027,1318,4370,186,386,1031,48,3716,10579,1261
-2003,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,1951,5258,1040,1260,4755,186,392,1108,47,3603,11121,1273
-2011,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,285,380,98,230,421,30,0,0,0,515,801,128
-2010,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,270,375,90,290,425,33,0,0,0,560,800,123
-2009,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,242,371,94,228,428,29,0,0,0,470,799,123
-2008,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,197,379,89,170,365,26,0,0,0,367,744,115
-2007,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,200,384,89,168,354,26,0,0,0,368,738,115
-2006,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,203,389,89,163,329,26,0,0,0,366,718,115
-2005,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,198,412,94,157,336,34,0,0,0,355,748,128
-2004,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,181,374,77,129,304,14,5,11,1,315,689,92
-2003,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,165,358,77,115,288,14,5,11,1,285,657,92
-2014,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,13905,68810,109,0,0,0,13905,68810,109
-2013,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,11960,64780,74,0,0,0,11960,64780,74
-2012,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,11466,66768,75,0,0,0,11466,66768,75
-2011,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,11574,57192,75,0,0,0,11574,57192,75
-2010,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,7274,55674,73,0,0,0,7274,55674,73
-2009,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,6763,48731,70,0,0,0,6763,48731,70
-2008,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,6115.3,41000,70,0,0,0,6115.3,41000,70
-2007,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,5758,39149,66,0,0,0,5758,39149,66
-2006,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,5022,30384,110,0,0,0,5022,30384,110
-2005,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,3992,28138,54,0,0,0,3992,28138,54
-2004,19277,Deadhorse,TDX North Slope Generating Co,Power Marketer,0,0,0,3193,26183,54,0,0,0,3193,26183,54
-2003,19277,Deadhorse,TDX North Slope Generating Co,Power Marketer,,,,3814,24616,54,,,,3814,24616,54
-2014,19454,Unalaska,City of Unalaska,Municipal,1758,3703,704,4676,10654,245,11771,30227,17,18205,44584,966
-2013,19454,Unalaska,City of Unalaska,Municipal,1888.8,3976,691,4892.1,11396,241,11397,29230,17,18177.9,44602,949
-2012,19454,Unalaska,City of Unalaska,Municipal,1997.6,4009,686,4906.4,11183,242,10572,27024,16,17476,42216,944
-2011,19454,Unalaska,City of Unalaska,Municipal,1778.7,3956,682,4631.5,12051,240,8820,25557,16,15230.2,41564,938
-2010,19454,Unalaska,City of Unalaska,Municipal,1525.8,3954,688,3488.6,10725,236,5652,20213,16,10666.4,34892,940
-2009,19454,Unalaska,City of Unalaska,Municipal,1320.9,3996,688,3241.1,12062,237,4017.7,18091,16,8579.7,34149,941
-2008,19454,Unalaska,City of Unalaska,Municipal,1834.3,3955,683,4864.4,12047,233,7045.8,19550,17,13744.5,35552,933
-2007,19454,Unalaska,City of Unalaska,Municipal,1567,4171,679,3881,11708,229,5478,19982,17,10926,35861,925
-2006,19454,Unalaska,City of Unalaska,Municipal,1383,4310,675,3507,12421,227,4414,19656,17,9304,36387,919
-2005,19454,Unalaska,City of Unalaska,Municipal,1313,4125,667,3539,12557,228,3924,17333,18,8776,34015,913
-2004,19454,Unalaska,City of Unalaska,Municipal,953,3950,456,2594,12373,169,1814,11974,14,5361,28297,639
-2003,19454,Unalaska,City of Unalaska,Municipal,1007,4251,456,2540,12072,169,1814,11974,14,5361,28297,639
-2014,19558,Homer,Homer Electric Assn Inc,Cooperative,41336,169999,26430,37559.5,175624,4025,11782.7,119489,23,90678.2,465112,30478
-2013,19558,Homer,Homer Electric Assn Inc,Cooperative,37754.1,179868,26150,33178.3,180983,3976,9511.7,120722,23,80444.1,481573,30149
-2012,19558,Homer,Homer Electric Assn Inc,Cooperative,36648,180859,25914,31967,181734,3916,11094,127076,23,79709,489669,29853
-2011,19558,Homer,Homer Electric Assn Inc,Cooperative,35185,178368,25634,31514,177869,3834,9509,118432,25,76208,474669,29493
-2010,19558,Homer,Homer Electric Assn Inc,Cooperative,29363,174990,25243,26283,178271,3784,9063,116657,25,64709,469918,29052
-2009,19558,Homer,Homer Electric Assn Inc,Cooperative,34555,176400,24685,31419.7,178680,3617,13145.8,128069,26,79120.5,483149,28328
-2008,19558,Homer,Homer Electric Assn Inc,Cooperative,30087,180989,24254,26821,181209,3610,12060,159829,27,68968,522027,27891
-2007,19558,Homer,Homer Electric Assn Inc,Cooperative,25794,173197,23811,22809,174380,3563,12957,182065,27,61560,529642,27401
-2006,19558,Homer,Homer Electric Assn Inc,Cooperative,25463,174054,23181,22517,173653,3503,9551,145675,27,57531,493382,26711
-2005,19558,Homer,Homer Electric Assn Inc,Cooperative,22022,170004,22589,19218,170239,3423,9093,163066,28,50333,503309,26040
-2004,19558,Homer,Homer Electric Assn Inc,Cooperative,19421,168678,22110,17040,171334,3501,7569,154991,29,44030,495003,25640
-2003,19558,Homer,Homer Electric Assn Inc,Cooperative,18607,160667,21640,16292,167954,3436,6390,150355,26,41289,478976,25102
-2011,20535,White Mountain,City of White Mountain,Municipal,178,247,70,319,443,34,0,0,0,497,690,104
-2010,20535,White Mountain,City of White Mountain,Municipal,174.5,242,68,321.7,431,34,0,0,0,496.2,673,102
-2009,20535,White Mountain,City of White Mountain,Municipal,146,238,68,359,461,34,0,0,0,505,699,102
-2008,20535,White Mountain,City of White Mountain,Municipal,158,236,73,352,524,20,0,0,0,510,760,93
-2007,20535,White Mountain,City of White Mountain,Municipal,163,272,64,366,609,24,,,,529,881,88
-2006,20535,White Mountain,City of White Mountain,Municipal,153,282,81,207,350,19,0,0,0,360,632,100
-2005,20535,White Mountain,City of White Mountain,Municipal,139,288,71,195,442,27,13,26,3,347,756,101
-2004,20535,White Mountain,City of White Mountain,Municipal,129,288,71,184,430,27,11,25,3,324,743,101
-2003,20535,White Mountain,City of White Mountain,Municipal,118,275,71,164,407,27,10,25,3,292,707,101
-2014,21015,Wrangell,City of Wrangell,Municipal,1537,13997,1193,2395,21439,863,0,0,0,3932,35436,2056
-2013,21015,Wrangell,City of Wrangell,Municipal,1525,14362,1174,2255,21096,814,0,0,0,3780,35458,1988
-2012,21015,Wrangell,City of Wrangell,Municipal,1604,15273,1170,2132,19919,778,0,0,0,3736,35192,1948
-2011,21015,Wrangell,City of Wrangell,Municipal,1506,14183,1050,2096,19585,578,0,0,0,3602,33768,1628
-2010,21015,Wrangell,City of Wrangell,Municipal,1365,12596,1059,1695,14625,605,0,0,0,3060,27221,1664
-2009,21015,Wrangell,City of Wrangell,Municipal,1283,12867,1058,1529,14096,530,3.6,53,1,2815.6,27016,1589
-2008,21015,Wrangell,City of Wrangell,Municipal,1135,10800,1058,1401,12945,510,35,888,1,2571,24633,1569
-2007,21015,Wrangell,City of Wrangell,Municipal,1004,9184,1050,1417,13128,489,142,3489,2,2563,25801,1541
-2006,21015,Wrangell,City of Wrangell,Municipal,898,7935,1037,1291,12068,472,195,5141,2,2384,25144,1511
-2005,21015,Wrangell,City of Wrangell,Municipal,863,7558,1039,1310,12388,464,185,4895,2,2358,24841,1505
-2004,21015,Wrangell,City of Wrangell,Municipal,847,7384,1040,1372,11696,466,164,4318,2,2383,23398,1508
-2003,21015,Wrangell,City of Wrangell,Municipal,844,7355,1045,1386,14371,472,5,65,1,2235,21791,1518
-2011,24486,Akutan,City of Akutan,Municipal,64,207,41,91,284,28,0,0,0,155,491,69
-2010,24486,Akutan,City of Akutan,Municipal,63,213,41,101,308,28,0,0,0,164,521,69
-2009,24486,Akutan,City of Akutan,Municipal,62,193,37,102,320,26,0,0,0,164,513,63
-2008,24486,Akutan,City of Akutan,Municipal,66,206,39,64,199,17,0,0,0,130,405,56
-2007,24486,Akutan,City of Akutan,Municipal,68,200,37,104,321,30,0,0,0,172,521,67
-2006,24486,Akutan,City of Akutan,Municipal,75,202,37,107,301,29,0,0,0,182,503,66
-2005,24486,Akutan,City of Akutan,Municipal,60,184,37,99,305,25,0,0,0,159,489,62
-2004,24486,Akutan,City of Akutan,Municipal,98,523,65,0,0,0,0,0,0,98,523,65
+2004,6111,Central,Central Electric Inc,Investor Owned,126,236,126,117,241,18,0,0,0,243,477,144
+2005,6111,Central,Central Electric Inc,Investor Owned,122,229,125,104,208,18,0,0,0,226,437,143
+2006,6111,Central,Central Electric Inc,Investor Owned,145,227,126,97,157,18,0,0,0,242,384,144
+2007,6111,Central,Central Electric Inc,Investor Owned,139,226,125,115,196,18,0,0,0,254,422,143
+2008,6111,Central,Central Electric Inc,Investor Owned,194,237,124,134,171,18,0,0,0,328,408,142
+2009,6111,Central,Central Electric Inc,Investor Owned,142,253,126,90,168,17,0,0,0,232,421,143
+2003,3465,Chitina,Chitina Electric Inc,Investor Owned,42,120,34,83,289,28,0,0,0,125,409,62
+2004,3465,Chitina,Chitina Electric Inc,Investor Owned,45,119,33,91,286,30,0,0,0,136,405,63
+2005,3465,Chitina,Chitina Electric Inc,Investor Owned,52,115,32,102,261,28,0,0,0,154,376,60
+2006,3465,Chitina,Chitina Electric Inc,Investor Owned,59,129,33,110,287,26,0,0,0,169,416,59
+2007,3465,Chitina,Chitina Electric Inc,Investor Owned,72,156,47,81,230,25,0,0,0,153,386,72
+2008,3465,Chitina,Chitina Electric Inc,Investor Owned,95,173,51,91,221,25,0,0,0,186,394,76
+2009,3465,Chitina,Chitina Electric Inc,Investor Owned,89.8,173,52,98.5,242,27,0,0,0,188.3,415,79
+2010,3465,Chitina,Chitina Electric Inc,Investor Owned,94,165,53,132,296,29,0,0,0,226,461,82
+2011,3465,Chitina,Chitina Electric Inc,Investor Owned,104,167,52,153,313,30,0,0,0,257,480,82
+2003,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,59643,547756,65993,51366,587798,8202,3159,41033,6,114168,1176587,74201
+2004,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,65651,571320,67161,56191,615973,8313,2989,37756,6,124831,1225049,75480
+2005,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,68822,559744,68294,61158,619507,8540,3200,37557,6,133180,1216808,76840
+2006,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,79712,564969,69221,70425,619060,8673,4413,45948,6,154550,1229977,77900
+2007,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,76960,557081,69449,69433,604827,8774,4499,44129,6,150892,1206037,78229
+2008,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,80307,560757,69685,73469,609268,8961,3773,35807,6,157549,1205832,78652
+2009,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,82365,551740,69430,75978,599519,9030,3758,32446,5,162101,1183705,78465
+2010,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,72356,545123,69590,63175,578892,9105,4579,45415,6,140110,1169430,78701
+2011,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,77575,545129,69729,68050,567652,9230,5849,53555,7,151474,1166336,78966
+2012,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,76083,549748,69495,67370,574284,9204,5902,54804,7,149355,1178836,78706
+2013,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,79210,534522,69686,70057,573447,9296,5941,54395,7,155208,1162364,78989
+2014,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,81880,513748,70127,73737,563581,9389,6718,57198,7,162335,1134527,79523
+2015,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,85849,509824,70515,77315,566779,9492,6983,56824,7,170147,1133427,80014
+2016,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,91552,501736,70917,81493,551590,9597,7794,59694,7,180839,1113020,80521
+2017,3522,Anchorage,Chugach Electric Assn Inc,Cooperative,100609.3,505275,71305,89542.3,545614,9615,7927.7,54284,7,198079.3,1105173,80927
+2015,17271,Sitka,City & Borough of Sitka - (AK),Municipal,5701,43381,3711,6282,41273,1719,2382,22199,21,14365,106853,5451
+2016,17271,Sitka,City & Borough of Sitka - (AK),Municipal,5802,40860,3696,5643,40944,1624,2252,18703,21,13697,100507,5341
+2017,17271,Sitka,City & Borough of Sitka - (AK),Municipal,7009.8,43415,3777,6233,39063,1976,2995,22821,24,16237.8,105299,5777
 2003,24486,Akutan,City of Akutan,Municipal,90,500,65,,0,0,0,0,0,90,500,65
-2011,26317,Manokotak,City of Manokotak,Municipal,298.6,543,147,385.7,680,46,0,0,0,684.3,1223,193
-2010,26317,Manokotak,City of Manokotak,Municipal,283.7,516,137,365.6,645,48,0,0,0,649.3,1161,185
-2009,26317,Manokotak,City of Manokotak,Municipal,259.6,518,128,312.3,612,44,0,0,0,571.9,1130,172
-2008,26317,Manokotak,City of Manokotak,Municipal,181.1,455,128,240.6,607,30,0,0,0,421.7,1062,158
-2007,26317,Manokotak,City of Manokotak,Municipal,178,884,126,24,72,11,0,0,0,202,956,137
-2006,26317,Manokotak,City of Manokotak,Municipal,177,1087,107,18,42,9,0,0,0,195,1129,116
-2005,26317,Manokotak,City of Manokotak,Municipal,177,1171,107,18,54,9,0,0,0,195,1225,116
-2004,26317,Manokotak,City of Manokotak,Municipal,302,850,98,121,334,38,0,0,0,423,1184,136
-2003,26317,Manokotak,City of Manokotak,Municipal,276,813,98,108,316,38,0,0,0,384,1129,136
-2014,26616,NSB,North Slope Borough Power & Light,Municipal,1051,6032,657,7610,26433,469,0,0,0,8661,32465,1126
-2013,26616,NSB,North Slope Borough Power & Light,Municipal,1049.8,6018,654,7664.8,24687,464,0,0,0,8714.6,30705,1118
-2012,26616,NSB,North Slope Borough Power & Light,Municipal,1015.8,5923,659,6125.8,21221,426,0,0,0,7141.6,27144,1085
-2011,26616,NSB,North Slope Borough Power & Light,Municipal,976.8,5248,711,6610.7,22662,464,0,0,0,7587.5,27910,1175
-2010,26616,NSB,North Slope Borough Power & Light,Municipal,1021.3,6385,658,6184.8,21856,400,0,0,0,7206.1,28241,1058
-2009,26616,NSB,North Slope Borough Power & Light,Municipal,1178,5746,744,6757,23623,380,0,0,0,7935,29369,1124
-2008,26616,NSB,North Slope Borough Power & Light,Municipal,1515,7278,1343,5715,20425,527,0,0,0,7230,27703,1870
-2007,26616,NSB,North Slope Borough Power & Light,Municipal,917,8087,616,6327,20681,306,0,0,0,7244,28768,922
-2006,26616,NSB,North Slope Borough Power & Light,Municipal,906,4466,620,5843,19587,540,360,2213,221,7109,26266,1381
-2005,26616,NSB,North Slope Borough Power & Light,Municipal,900,4451,619,6632,23329,542,,,,7532,27780,1161
-2004,26616,NSB,North Slope Borough Power & Light,Municipal,997,5000,646,6834,24000,534,0,0,0,7831,29000,1180
-2003,26616,NSB,North Slope Borough Power & Light,Municipal,1081,5194,646,7111,21698,529,0,0,0,8192,26892,1175
-2011,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,0,0,240,400,5,0,0,0,240,400,5
-2010,26754,Paxson,Paxson Inn & Lodge,Investor Owned,1.2,1,2,238.8,144,4,0,0,0,240,145,6
-2009,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,0,0,340,276,6,0,0,0,340,276,6
-2008,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,0,0,240,180,6,0,0,0,240,180,6
-2007,26754,Paxson,Paxson Inn & Lodge,Investor Owned,3,12,1,117,205,6,0,0,0,120,217,7
-2006,26754,Paxson,Paxson Inn & Lodge,Investor Owned,2,12,1,110,205,6,0,0,0,112,217,7
-2005,26754,Paxson,Paxson Inn & Lodge,Investor Owned,2,12,1,99,216,6,0,0,0,101,228,7
-2004,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,3,1,54,206,6,0,0,0,54,209,7
-2003,26754,Paxson,Paxson Inn & Lodge,Investor Owned,1,12,1,54,216,6,0,0,0,55,228,7
-2011,29297,Pelican,Pelican Utility,Investor Owned,230,333,71,218,313,37,0,0,0,448,646,108
-2010,29297,Pelican,Pelican Utility,Investor Owned,145,326,66,142,319,35,14,36,6,301,681,107
-2009,29297,Pelican,Pelican Utility,Investor Owned,106,390,76,97,350,36,89,399,7,292,1139,119
-2008,29297,Pelican,Pelican Utility,Investor Owned,77,467,74,66,375,40,95,653,13,238,1495,127
-2007,29297,Pelican,Pelican Utility,Investor Owned,80,437,73,69,398,37,184,1272,17,333,2107,127
-2006,29297,Pelican,Pelican Utility,Investor Owned,70,427,75,63,381,35,160,1138,17,293,1946,127
-2005,29297,Pelican,Pelican Utility,Investor Owned,61,401,73,56,372,33,108,815,20,225,1588,126
-2004,29297,Pelican,Pelican Utility,Investor Owned,105,682,143,29,193,13,111,848,20,245,1723,176
-2003,29297,Pelican,Pelican Utility,Investor Owned,82,535,80,67,422,76,186,1428,21,335,2385,177
-2011,30150,Yakutat,Yakutat Power Inc,Political Subdivision,739,1443,277,2065,4566,148,0,0,0,2804,6009,425
-2010,30150,Yakutat,Yakutat Power Inc,Political Subdivision,682,1413,270,1819,4564,140,0,0,0,2501,5977,410
-2009,30150,Yakutat,Yakutat Power Inc,Political Subdivision,645,1460,272,1719,4441,143,0,0,0,2364,5901,415
-2008,30150,Yakutat,Yakutat Power Inc,Political Subdivision,803,1550,276,2086,4535,142,0,0,0,2889,6085,418
-2007,30150,Yakutat,Yakutat Power Inc,Political Subdivision,670,1594,275,1740,4749,136,0,0,0,2410,6343,411
-2006,30150,Yakutat,Yakutat Power Inc,Political Subdivision,657,1573,279,1691,4595,134,0,0,0,2348,6168,413
-2005,30150,Yakutat,Yakutat Power Inc,Political Subdivision,518,1616,278,1215,4310,129,0,0,0,1733,5926,407
-2004,30150,Yakutat,Yakutat Power Inc,Political Subdivision,450,1736,280,918,4369,123,0,0,0,1368,6105,403
-2003,30150,Yakutat,Yakutat Power Inc,Political Subdivision,494,1696,276,790,3440,72,264,1069,50,1548,6205,398
-2014,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1816.5,4532,940,3735.2,11919,676,2306.4,9227,5,7858.1,25678,1621
-2013,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1921.8,4660,935,4080.1,12526,659,2137.1,9316,5,8139,26502,1599
-2012,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,2107,4998,929,4323,12611,625,1902,8004,5,8332,25613,1559
-2011,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,2114,5069,932,4191,12298,629,2001,8004,5,8306,25371,1566
-2010,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1931,5103,914,3489,11612,602,1793,8414,5,7213,25129,1521
-2009,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1698.7,4969,910,3168.8,11514,595,1433.5,7439,5,6301,23922,1510
-2008,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1915.2,4898,930,3830.8,11644,607,1511,6940,5,7257,23482,1542
-2007,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1850,5104,926,3650,12308,590,1338,7259,5,6838,24671,1521
-2006,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1851,5281,954,3432,11851,627,1214,6161,5,6497,23293,1586
-2005,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1791,5284,928,3210,11706,590,1122,6284,5,6123,23274,1523
-2004,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1703,5396,930,2969,11318,598,927,5118,7,5599,21832,1535
-2003,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1466,5435,935,2631,11386,708,890,4986,6,4987,21807,1649
-2011,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,594,1494,282,981,2633,74,0,0,0,1575,4127,356
-2010,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,606.9,1548,280,948.9,2577,75,0,0,0,1555.8,4125,355
-2009,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,699.1,1505,280,1060.5,2405,73,0,0,0,1759.6,3910,353
-2008,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,641,1481,279,1039,2531,75,0,0,0,1680,4012,354
-2007,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,574,1461,277,848,2285,75,0,0,0,1422,3746,352
-2006,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,554,1540,262,770,2273,70,0,0,0,1324,3813,332
-2005,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,492,1541,263,679,2284,72,31,166,2,1202,3991,337
-2004,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,437,1525,261,607,2293,71,0,0,0,1044,3818,332
-2003,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,421,1551,259,541,2170,71,0,0,0,962,3721,330
-2011,56256,Atka,City of Atka,Municipal,115,163,28,163,234,9,0,0,0,278,397,37
-2010,56256,Atka,City of Atka,Municipal,88.2,146,29,163,270,32,0,0,0,251.2,416,61
-2009,56256,Atka,City of Atka,Municipal,97,120,27,182,257,13,0,0,0,279,377,40
+2004,24486,Akutan,City of Akutan,Municipal,98,523,65,0,0,0,0,0,0,98,523,65
+2005,24486,Akutan,City of Akutan,Municipal,60,184,37,99,305,25,0,0,0,159,489,62
+2006,24486,Akutan,City of Akutan,Municipal,75,202,37,107,301,29,0,0,0,182,503,66
+2007,24486,Akutan,City of Akutan,Municipal,68,200,37,104,321,30,0,0,0,172,521,67
+2008,24486,Akutan,City of Akutan,Municipal,66,206,39,64,199,17,0,0,0,130,405,56
+2009,24486,Akutan,City of Akutan,Municipal,62,193,37,102,320,26,0,0,0,164,513,63
+2010,24486,Akutan,City of Akutan,Municipal,63,213,41,101,308,28,0,0,0,164,521,69
+2011,24486,Akutan,City of Akutan,Municipal,64,207,41,91,284,28,0,0,0,155,491,69
 2008,56256,Atka,City of Atka,Municipal,47.1,61,30,124,162,12,0,0,0,171.1,223,42
-2011,56503,Manley Hot Springs,TDX Manley Generating LLC,Municipal,49.1,157,82,69.8,177,19,0,0,0,118.9,334,101
-2010,56503,Manley Hot Springs,TDX Manley Generating LLC,Municipal,83,131,80,164,237,18,0,0,0,247,368,98
-2009,56503,Manley Hot Springs,TDX Manley Generating LLC,Municipal,77,111,75,233,164,18,0,0,0,310,275,93
-2011,56739,Central,Gold Country Energy,Investor Owned,211,266,137,132,174,16,0,0,0,343,440,153
-2010,56739,Central,Gold Country Energy,Investor Owned,161.6,243,131,107.7,168,17,0,0,0,269.3,411,148
+2009,56256,Atka,City of Atka,Municipal,97,120,27,182,257,13,0,0,0,279,377,40
+2010,56256,Atka,City of Atka,Municipal,88.2,146,29,163,270,32,0,0,0,251.2,416,61
+2011,56256,Atka,City of Atka,Municipal,115,163,28,163,234,9,0,0,0,278,397,37
+2003,3422,Chefornak,City of Chefornak,Municipal,124,364,78,94,239,27,0,0,0,218,603,105
+2004,3422,Chefornak,City of Chefornak,Municipal,131,360,83,97,330,50,0,0,0,228,690,133
+2005,3422,Chefornak,City of Chefornak,Municipal,164,357,86,123,265,36,0,0,0,287,622,122
+2006,3422,Chefornak,City of Chefornak,Municipal,183,360,91,146,278,43,0,0,0,329,638,134
+2007,3422,Chefornak,City of Chefornak,Municipal,224,407,85,173,309,30,0,0,0,397,716,115
+2008,3422,Chefornak,City of Chefornak,Municipal,269,444,85,263,511,30,0,0,0,532,955,115
+2009,3422,Chefornak,City of Chefornak,Municipal,281,442,86,288,555,29,0,0,0,569,997,115
+2010,3422,Chefornak,City of Chefornak,Municipal,206,424,94,268,583,32,0,0,0,474,1007,126
+2011,3422,Chefornak,City of Chefornak,Municipal,268,433,97,394,707,26,0,0,0,662,1140,123
+2003,3421,Chignik,City of Chignik,Municipal,75,223,59,128,350,29,0,0,0,203,573,88
+2004,3421,Chignik,City of Chignik,Municipal,82,217,55,136,359,30,0,0,0,218,576,85
+2005,3421,Chignik,City of Chignik,Municipal,174,362,74,87,181,18,0,0,0,261,543,92
+2006,3421,Chignik,City of Chignik,Municipal,102,217,53,159,365,33,0,0,0,261,582,86
+2007,3421,Chignik,City of Chignik,Municipal,95,193,54,141,296,32,0,0,0,236,489,86
+2008,3421,Chignik,City of Chignik,Municipal,118.3,185,49,227.5,349,30,0,0,0,345.8,534,79
+2009,3421,Chignik,City of Chignik,Municipal,92.7,182,53,276.1,523,39,0,0,0,368.8,705,92
+2010,3421,Chignik,City of Chignik,Municipal,91.3,193,54,271,623,41,0,0,0,362.3,816,95
+2011,3421,Chignik,City of Chignik,Municipal,91.7,207,60,281.3,592,39,0,0,0,373,799,99
 2011,57351,Egegik,City of Egegik - (AK),Municipal,121.7,143,41,304.9,349,34,39.8,79,2,466.4,571,77
+2003,5721,Elfin Cove,City of Elfin Cove,Municipal,54,184,43,45,165,30,0,0,0,99,349,73
+2004,5721,Elfin Cove,City of Elfin Cove,Municipal,33,86,36,89,232,38,0,0,0,122,318,74
+2005,5721,Elfin Cove,City of Elfin Cove,Municipal,42,88,37,103,214,36,0,0,0,145,302,73
+2006,5721,Elfin Cove,City of Elfin Cove,Municipal,44,97,38,101,205,35,0,0,0,145,302,73
+2007,5721,Elfin Cove,City of Elfin Cove,Municipal,25,93,38,97,203,26,0,0,0,122,296,64
+2008,5721,Elfin Cove,City of Elfin Cove,Municipal,30,107,38,129,227,19,0,0,0,159,334,57
+2009,5721,Elfin Cove,City of Elfin Cove,Municipal,24,88,40,104,228,21,0,0,0,128,316,61
+2010,5721,Elfin Cove,City of Elfin Cove,Municipal,27,82,42,93,177,27,0,0,0,120,259,69
+2011,5721,Elfin Cove,City of Elfin Cove,Municipal,38,73,41,118,168,37,0,0,0,156,241,78
+2003,9897,King Cove,City of King Cove,Municipal,161,803,171,528,2574,194,0,0,0,689,3377,365
+2004,9897,King Cove,City of King Cove,Municipal,160,818,180,463,2312,195,0,0,0,623,3130,375
+2005,9897,King Cove,City of King Cove,Municipal,166,835,185,472,2376,198,0,0,0,638,3211,383
+2006,9897,King Cove,City of King Cove,Municipal,166,784,180,474,2230,198,0,0,0,640,3014,378
+2007,9897,King Cove,City of King Cove,Municipal,167,734,180,475,2655,198,,,,642,3389,378
+2008,9897,King Cove,City of King Cove,Municipal,209,931,184,691.2,2880,87,0,0,0,900.2,3811,271
+2009,9897,King Cove,City of King Cove,Municipal,213,900,182,544,2947,81,0,0,0,757,3847,263
+2010,9897,King Cove,City of King Cove,Municipal,151,866,178,428,2465,77,0,0,0,579,3331,255
+2011,9897,King Cove,City of King Cove,Municipal,238,1224,110,831,2450,266,0,0,0,1069,3674,376
+2003,9898,Kotlik,City of Kotlik,Municipal,202,714,143,271,792,25,0,0,0,473,1506,168
+2004,9898,Kotlik,City of Kotlik,Municipal,207,600,152,235,710,24,0,0,0,442,1310,176
+2005,9898,Kotlik,City of Kotlik,Municipal,218,550,152,268,668,24,0,0,0,486,1218,176
+2006,9898,Kotlik,City of Kotlik,Municipal,272,651,153,413,790,28,0,0,0,685,1441,181
+2007,9898,Kotlik,City of Kotlik,Municipal,185,441,157,272,487,28,0,0,0,457,928,185
+2003,10716,Larsen Bay,City of Larsen Bay,Municipal,78,268,48,145,290,38,0,0,0,223,558,86
+2004,10716,Larsen Bay,City of Larsen Bay,Municipal,85,280,48,163,306,38,0,0,0,248,586,86
+2005,10716,Larsen Bay,City of Larsen Bay,Municipal,145,363,48,73,181,26,0,0,0,218,544,74
+2006,10716,Larsen Bay,City of Larsen Bay,Municipal,185,363,48,96,181,26,0,0,0,281,544,74
+2007,10716,Larsen Bay,City of Larsen Bay,Municipal,75,193,48,164,471,26,0,0,0,239,664,74
+2008,10716,Larsen Bay,City of Larsen Bay,Municipal,57.5,138,41,180.5,549,46,0,0,0,238,687,87
+2009,10716,Larsen Bay,City of Larsen Bay,Municipal,127.5,310,52,90.5,310,38,0,0,0,218,620,90
+2010,10716,Larsen Bay,City of Larsen Bay,Municipal,60.9,156,37,157.4,470,37,0,0,0,218.3,626,74
+2011,10716,Larsen Bay,City of Larsen Bay,Municipal,66,172,54,115,256,35,0,0,0,181,428,89
+2003,26317,Manokotak,City of Manokotak,Municipal,276,813,98,108,316,38,0,0,0,384,1129,136
+2004,26317,Manokotak,City of Manokotak,Municipal,302,850,98,121,334,38,0,0,0,423,1184,136
+2005,26317,Manokotak,City of Manokotak,Municipal,177,1171,107,18,54,9,0,0,0,195,1225,116
+2006,26317,Manokotak,City of Manokotak,Municipal,177,1087,107,18,42,9,0,0,0,195,1129,116
+2007,26317,Manokotak,City of Manokotak,Municipal,178,884,126,24,72,11,0,0,0,202,956,137
+2008,26317,Manokotak,City of Manokotak,Municipal,181.1,455,128,240.6,607,30,0,0,0,421.7,1062,158
+2009,26317,Manokotak,City of Manokotak,Municipal,259.6,518,128,312.3,612,44,0,0,0,571.9,1130,172
+2010,26317,Manokotak,City of Manokotak,Municipal,283.7,516,137,365.6,645,48,0,0,0,649.3,1161,185
+2011,26317,Manokotak,City of Manokotak,Municipal,298.6,543,147,385.7,680,46,0,0,0,684.3,1223,193
+2003,14234,Ouzinkie,City of Ouzinkie,Municipal,108,341,82,103,289,7,0,0,0,211,630,89
+2004,14234,Ouzinkie,City of Ouzinkie,Municipal,113,346,80,145,405,14,0,0,0,258,751,94
+2005,14234,Ouzinkie,City of Ouzinkie,Municipal,117,350,81,146,396,14,0,0,0,263,746,95
+2006,14234,Ouzinkie,City of Ouzinkie,Municipal,99,300,78,127,400,14,0,0,0,226,700,92
+2007,14234,Ouzinkie,City of Ouzinkie,Municipal,94,300,76,123,400,15,0,0,0,217,700,91
+2008,14234,Ouzinkie,City of Ouzinkie,Municipal,91.1,267,71,107,284,13,0,0,0,198.1,551,84
+2009,14234,Ouzinkie,City of Ouzinkie,Municipal,93,286,68,121,322,15,0,0,0,214,608,83
+2010,14234,Ouzinkie,City of Ouzinkie,Municipal,109,320,76,132,332,17,0,0,0,241,652,93
+2011,14234,Ouzinkie,City of Ouzinkie,Municipal,111,325,76,132,343,16,0,0,0,243,668,92
+2003,14856,Petersburg,City of Petersburg,Municipal,1265,13248,1333,736,7014,633,1447,15801,30,3448,36063,1996
+2004,14856,Petersburg,City of Petersburg,Municipal,1282,13133,1358,696,6639,589,1615,16831,30,3593,36603,1977
+2005,14856,Petersburg,City of Petersburg,Municipal,1312,13464,1359,744,7187,667,1620,16944,30,3676,37595,2056
+2006,14856,Petersburg,City of Petersburg,Municipal,1629,14600,1375,915,7685,687,2006,18035,33,4550,40320,2095
+2007,14856,Petersburg,City of Petersburg,Municipal,1722,15235,1376,933,7617,685,2207,19940,33,4862,42792,2094
+2008,14856,Petersburg,City of Petersburg,Municipal,1808,17767,1368,934,7929,700,2027,18813,35,4769,44509,2103
+2009,14856,Petersburg,City of Petersburg,Municipal,2006,20559,1367,992,8634,702,2053,18991,36,5051,48184,2105
+2010,14856,Petersburg,City of Petersburg,Municipal,1890,18877,1366,935,8035,707,2063,19400,37,4888,46312,2110
+2011,14856,Petersburg,City of Petersburg,Municipal,2006.8,20389,1367,1000.6,8580,713,2329.9,21706,37,5337.3,50675,2117
+2012,14856,Petersburg,City of Petersburg,Municipal,2010.2,20803,1354,1030.5,9064,717,2208.6,19905,39,5249.3,49772,2110
+2013,14856,Petersburg,City of Petersburg,Municipal,1972.9,20323,1361,1026,8977,684,2366.9,21896,38,5365.8,51196,2083
+2014,14856,Petersburg,City of Petersburg,Municipal,1942.1,19703,1372,1059,9246,708,2210.2,20201,31,5211.3,49150,2111
+2003,17898,Saint Paul,City of Saint Paul,Municipal,394,1040,154,360,1072,26,460,1291,46,1214,3403,226
+2004,17898,Saint Paul,City of Saint Paul,Municipal,442,1084,154,434,1198,31,1021,3143,46,1897,5425,231
+2005,17898,Saint Paul,City of Saint Paul,Municipal,343,928,154,842,1964,33,874,2449,17,2059,5341,204
+2006,17898,Saint Paul,City of Saint Paul,Municipal,361,903,154,872,1877,64,929,2438,18,2162,5218,236
+2007,17898,Saint Paul,City of Saint Paul,Municipal,354,861,154,908,1912,64,1019,2564,18,2281,5337,236
+2008,17898,Saint Paul,City of Saint Paul,Municipal,455,821,154,1235,2020,64,1040,1902,17,2730,4743,235
+2009,17898,Saint Paul,City of Saint Paul,Municipal,390,812,154,1048,1991,64,760,1657,17,2198,4460,235
+2010,17898,Saint Paul,City of Saint Paul,Municipal,396,841,154,1082,2031,64,541,1104,17,2019,3976,235
+2011,17898,Saint Paul,City of Saint Paul,Municipal,453.1,873,154,1425.6,2442,64,162.8,343,17,2041.5,3658,235
+2015,16955,Seward,City of Seward - (AK),Municipal,3210,14924,2113,1790,7810,519,5922,32109,127,10922,54843,2759
+2016,16955,Seward,City of Seward - (AK),Municipal,3257,14888,2116,1713,7423,546,5945,30792,134,10915,53103,2796
+2017,16955,Seward,City of Seward - (AK),Municipal,.,.,.,.,.,.,.,.,.,.,.,.
+2003,18541,Tenakee Springs,City of Tenakee Springs,Municipal,73,230,99,54,168,36,0,0,0,127,398,135
+2004,18541,Tenakee Springs,City of Tenakee Springs,Municipal,84,232,119,57,159,43,0,0,0,141,391,162
+2005,18541,Tenakee Springs,City of Tenakee Springs,Municipal,114,210,116,70,131,45,0,0,0,184,341,161
+2006,18541,Tenakee Springs,City of Tenakee Springs,Municipal,127,256,109,77,139,43,0,0,0,204,395,152
+2007,18541,Tenakee Springs,City of Tenakee Springs,Municipal,90,243,125,64,104,27,0,0,0,154,347,152
+2008,18541,Tenakee Springs,City of Tenakee Springs,Municipal,128.6,201,110,77.3,121,15,0,0,0,205.9,322,125
+2009,18541,Tenakee Springs,City of Tenakee Springs,Municipal,157.5,249,126,78,124,35,0,0,0,235.5,373,161
+2010,18541,Tenakee Springs,City of Tenakee Springs,Municipal,153.2,240,124,72.5,113,36,0,0,0,225.7,353,160
+2011,18541,Tenakee Springs,City of Tenakee Springs,Municipal,165.7,241,124,83.2,120,35,0,0,0,248.9,361,159
+2003,19454,Unalaska,City of Unalaska,Municipal,1007,4251,456,2540,12072,169,1814,11974,14,5361,28297,639
+2004,19454,Unalaska,City of Unalaska,Municipal,953,3950,456,2594,12373,169,1814,11974,14,5361,28297,639
+2005,19454,Unalaska,City of Unalaska,Municipal,1313,4125,667,3539,12557,228,3924,17333,18,8776,34015,913
+2006,19454,Unalaska,City of Unalaska,Municipal,1383,4310,675,3507,12421,227,4414,19656,17,9304,36387,919
+2007,19454,Unalaska,City of Unalaska,Municipal,1567,4171,679,3881,11708,229,5478,19982,17,10926,35861,925
+2008,19454,Unalaska,City of Unalaska,Municipal,1834.3,3955,683,4864.4,12047,233,7045.8,19550,17,13744.5,35552,933
+2009,19454,Unalaska,City of Unalaska,Municipal,1320.9,3996,688,3241.1,12062,237,4017.7,18091,16,8579.7,34149,941
+2010,19454,Unalaska,City of Unalaska,Municipal,1525.8,3954,688,3488.6,10725,236,5652,20213,16,10666.4,34892,940
+2011,19454,Unalaska,City of Unalaska,Municipal,1778.7,3956,682,4631.5,12051,240,8820,25557,16,15230.2,41564,938
+2012,19454,Unalaska,City of Unalaska,Municipal,1997.6,4009,686,4906.4,11183,242,10572,27024,16,17476,42216,944
+2013,19454,Unalaska,City of Unalaska,Municipal,1888.8,3976,691,4892.1,11396,241,11397,29230,17,18177.9,44602,949
+2014,19454,Unalaska,City of Unalaska,Municipal,1758,3703,704,4676,10654,245,11771,30227,17,18205,44584,966
+2015,19454,Unalaska,City of Unalaska - (AK),Municipal,1542.6,3864,714,3726.6,10442,235,9955,31626,17,15224.2,45932,966
+2016,19454,Unalaska,City of Unalaska - (AK),Municipal,1376,3769,731,3057,9710,229,9254,32756,18,13687,46235,978
+2017,19454,Unalaska,City of Unalaska - (AK),Municipal,1522.6,3873,735,3212.8,9335,233,13201.7,43654,19,17937.1,56862,987
+2003,20535,White Mountain,City of White Mountain,Municipal,118,275,71,164,407,27,10,25,3,292,707,101
+2004,20535,White Mountain,City of White Mountain,Municipal,129,288,71,184,430,27,11,25,3,324,743,101
+2005,20535,White Mountain,City of White Mountain,Municipal,139,288,71,195,442,27,13,26,3,347,756,101
+2006,20535,White Mountain,City of White Mountain,Municipal,153,282,81,207,350,19,0,0,0,360,632,100
+2007,20535,White Mountain,City of White Mountain,Municipal,163,272,64,366,609,24,,,,529,881,88
+2008,20535,White Mountain,City of White Mountain,Municipal,158,236,73,352,524,20,0,0,0,510,760,93
+2009,20535,White Mountain,City of White Mountain,Municipal,146,238,68,359,461,34,0,0,0,505,699,102
+2010,20535,White Mountain,City of White Mountain,Municipal,174.5,242,68,321.7,431,34,0,0,0,496.2,673,102
+2011,20535,White Mountain,City of White Mountain,Municipal,178,247,70,319,443,34,0,0,0,497,690,104
+2003,21015,Wrangell,City of Wrangell,Municipal,844,7355,1045,1386,14371,472,5,65,1,2235,21791,1518
+2004,21015,Wrangell,City of Wrangell,Municipal,847,7384,1040,1372,11696,466,164,4318,2,2383,23398,1508
+2005,21015,Wrangell,City of Wrangell,Municipal,863,7558,1039,1310,12388,464,185,4895,2,2358,24841,1505
+2006,21015,Wrangell,City of Wrangell,Municipal,898,7935,1037,1291,12068,472,195,5141,2,2384,25144,1511
+2007,21015,Wrangell,City of Wrangell,Municipal,1004,9184,1050,1417,13128,489,142,3489,2,2563,25801,1541
+2008,21015,Wrangell,City of Wrangell,Municipal,1135,10800,1058,1401,12945,510,35,888,1,2571,24633,1569
+2009,21015,Wrangell,City of Wrangell,Municipal,1283,12867,1058,1529,14096,530,3.6,53,1,2815.6,27016,1589
+2010,21015,Wrangell,City of Wrangell,Municipal,1365,12596,1059,1695,14625,605,0,0,0,3060,27221,1664
+2011,21015,Wrangell,City of Wrangell,Municipal,1506,14183,1050,2096,19585,578,0,0,0,3602,33768,1628
+2012,21015,Wrangell,City of Wrangell,Municipal,1604,15273,1170,2132,19919,778,0,0,0,3736,35192,1948
+2013,21015,Wrangell,City of Wrangell,Municipal,1525,14362,1174,2255,21096,814,0,0,0,3780,35458,1988
+2014,21015,Wrangell,City of Wrangell,Municipal,1537,13997,1193,2395,21439,863,0,0,0,3932,35436,2056
+2015,21015,Wrangell,City of Wrangell - (AK),Municipal,1592,13930,1206,2328,20236,866,.,.,.,3920,34166,2072
+2016,21015,Wrangell,City of Wrangell - (AK),Municipal,1566,13614,1218,2123,18119,856,.,.,.,3689,31733,2074
+2017,21015,Wrangell,City of Wrangell - (AK),Municipal,1715,15216,1228,2331,20107,867,.,.,.,4046,35323,2095
+2003,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3275,18236,2860,7562,46623,754,1277,10821,1,12114,75680,3615
+2004,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3385,18552,2889,7594,46722,754,1385,11704,1,12364,76978,3644
+2005,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3583,18034,2879,10015,59327,747,0,0,0,13598,77361,3626
+2006,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3735,17425,2887,10696,58376,748,0,0,0,14431,75801,3635
+2007,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3975,17185,2905,11578,57977,765,0,0,0,15553,75162,3670
+2008,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4074,16648,2918,11714,56011,778,0,0,0,15788,72659,3696
+2009,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3843,17553,2945,9218,47377,780,0,0,0,13061,64930,3725
+2010,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4480,17793,2971,12573.7,58457,782,0,0,0,17053.7,76250,3753
+2011,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,5174,18193,2978,15352,62228,787,0,0,0,20526,80421,3765
+2012,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,5264.1,17517,2983,17654.2,65757,797,0,0,0,22918.3,83274,3780
+2013,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4721,16731,2962,16269,66614,797,0,0,0,20990,83345,3759
+2014,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4262.2,16106,2951,15008.1,64974,793,0,0,0,19270.3,81080,3744
+2015,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3805.8,15839,2948,13246.2,64747,800,.,.,.,17052,80586,3748
+2016,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,3811,16225,2961,13348,64305,803,.,.,.,17159,80530,3764
+2017,4329,Copper Valley,"Copper Valley Elec Assn, Inc",Cooperative,4333,16441,2985,15481,66373,812,.,.,.,19814,82814,3797
+2003,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1466,5435,935,2631,11386,708,890,4986,6,4987,21807,1649
+2004,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1703,5396,930,2969,11318,598,927,5118,7,5599,21832,1535
+2005,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1791,5284,928,3210,11706,590,1122,6284,5,6123,23274,1523
+2006,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1851,5281,954,3432,11851,627,1214,6161,5,6497,23293,1586
+2007,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1850,5104,926,3650,12308,590,1338,7259,5,6838,24671,1521
+2008,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1915.2,4898,930,3830.8,11644,607,1511,6940,5,7257,23482,1542
+2009,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1698.7,4969,910,3168.8,11514,595,1433.5,7439,5,6301,23922,1510
+2010,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1931,5103,914,3489,11612,602,1793,8414,5,7213,25129,1521
+2011,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,2114,5069,932,4191,12298,629,2001,8004,5,8306,25371,1566
+2012,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,2107,4998,929,4323,12611,625,1902,8004,5,8332,25613,1559
+2013,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1921.8,4660,935,4080.1,12526,659,2137.1,9316,5,8139,26502,1599
+2014,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1816.5,4532,940,3735.2,11919,676,2306.4,9227,5,7858.1,25678,1621
+2015,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1660.9,4660,947,3390.2,12526,682,2064.5,9936,4,7115.6,27122,1633
+2016,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1642.7,4714,950,3128,11794,664,1530.8,6936,4,6301.5,23444,1618
+2017,40215,Cordova,"Cordova Electric Coop, Inc",Cooperative,1780,4766,958,3587,12604,667,1957,8998,4,7324,26368,1629
+2003,5553,Egegik,Egegik Light & Power Co,Investor Owned,74,130,50,195,352,41,44,157,1,313,639,92
+2004,5553,Egegik,Egegik Light & Power Co,Investor Owned,79,135,48,203,355,40,43,151,1,325,641,89
+2005,5553,Egegik,Egegik Light & Power Co,Investor Owned,90,137,49,237,360,42,53,150,1,380,647,92
+2006,5553,Egegik,Egegik Light & Power Co,Investor Owned,90,137,49,237,360,42,53,150,1,380,647,92
+2007,5553,Egegik,Egegik Light & Power Co,Investor Owned,93,121,46,258,331,39,68,148,1,419,600,86
+2008,5553,Egegik,Egegik Light & Power Co,Investor Owned,113,121,40,325,347,37,90,189,1,528,657,78
+2009,5553,Egegik,Egegik Light & Power Co,Investor Owned,112,121,39,334,367,34,64,96,1,510,584,74
+2010,5553,Egegik,Egegik Light & Power Co,Investor Owned,116,142,39,388,531,35,0,0,0,504,673,74
+2003,6866,Cold Bay,"G & K, Inc",Investor Owned,184,404,57,978,2107,48,73,161,1,1235,2672,106
+2004,6866,Cold Bay,"G & K, Inc",Investor Owned,0,0,57,0,0,48,0,0,1,0,0,106
+2005,6866,Cold Bay,"G & K, Inc",Investor Owned,211,402,59,1136,2144,49,81,158,1,1428,2704,109
+2006,6866,Cold Bay,"G & K, Inc",Investor Owned,170,395,75,1206,2050,35,87,155,1,1463,2600,111
+2007,6866,Cold Bay,"G & K, Inc",Investor Owned,228,390,61,1183,1990,53,89,154,1,1500,2534,115
+2008,6866,Cold Bay,"G & K, Inc",Investor Owned,263,389,63,1401,2043,53,115,173,1,1779,2605,117
+2009,6866,Cold Bay,"G & K, Inc",Investor Owned,231,380,63,1242,1975,53,101,168,1,1574,2523,117
+2010,6866,Cold Bay,"G & K, Inc",Investor Owned,244,401,62,1166,1879,54,114,193,1,1524,2473,117
+2011,6866,Cold Bay,"G & K, Inc",Investor Owned,262,385,63,1283,1852,53,113,169,1,1658,2406,117
+2003,6915,Galena,Galena Electric Utility,Municipal,266,1021,212,517,1942,87,1345,5337,36,2128,8300,335
+2004,6915,Galena,Galena Electric Utility,Municipal,291,1068,212,580,2052,87,1446,5378,36,2317,8498,335
+2005,6915,Galena,Galena Electric Utility,Municipal,266,1021,212,517,1942,87,1345,5337,36,2128,8300,335
+2006,6915,Galena,Galena Electric Utility,Municipal,266,1021,212,517,1942,87,1345,5337,36,2128,8300,335
+2007,6915,Galena,Galena Electric Utility,Municipal,480,1190,227,1312,3155,135,,,,1792,4345,362
+2008,6915,Galena,Galena Electric Utility,Municipal,494,1086,227,1208,2504,126,301,657,12,2003,4247,365
+2009,6915,Galena,Galena Electric Utility,Municipal,544,972,219,1624,2904,144,0,0,0,2168,3876,363
+2010,6915,Galena,Galena Electric Utility,Municipal,574,861,211,1841,3270,134,0,0,0,2415,4131,345
+2011,6915,Galena,Galena Electric Utility,Municipal,425,902,219,1931,3567,160,0,0,0,2356,4469,379
+2010,56739,Central,Gold Country Energy,Investor Owned,161.6,243,131,107.7,168,17,0,0,0,269.3,411,148
+2011,56739,Central,Gold Country Energy,Investor Owned,211,266,137,132,174,16,0,0,0,343,440,153
+2015,7353,Fairbanks,Golden Valley Elec Assn Inc,Cooperative,59396.1,280883,38521,24931.7,128572,6440,119725.3,795077,503,204053.1,1204532,45464
+2016,7353,Fairbanks,Golden Valley Elec Assn Inc,Cooperative,63959.9,282377,38824,26528.4,127014,6502,134344.3,837893,507,224832.6,1247284,45833
+2017,7353,Fairbanks,Golden Valley Elec Assn Inc,Cooperative,68098.8,282450,39019,28155.9,126290,6544,143484.6,827634,517,239739.3,1236374,46080
+2003,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,31609,301916,33215,12566,134977,5469,47170,665663,405,91345,1102556,39089
+2004,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,35397,316259,33981,14295,142209,5580,53891,687670,409,103583,1146138,39970
+2005,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,39318,318085,34837,15961,142695,5717,63648,712557,438,118927,1173337,40992
+2006,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,49937,323153,35554,20567,143844,5851,92805,779046,471,163309,1246043,41876
+2007,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,54266,320632,36395,22536,143962,6008,117438,884656,463,194240,1349250,42866
+2008,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,57380,310579,36860,24640,141461,6229,130198,882683,449,212218,1334723,43538
+2009,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,55270.6,307809,37154,23350.3,141444,6409,116066,861230,456,194686.9,1310483,44019
+2010,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,61625.2,304785,37530,26303.8,140257,6458,129233.6,843125,464,217162.6,1288167,44452
+2011,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,68389.2,305090,37835,28777.3,138534,6417,144490.7,846303,483,241657.2,1289927,44735
+2012,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,73023.3,301535,38011,30826.2,136451,6298,160872.2,855521,496,264721.7,1293507,44805
+2013,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,65591.6,286768,38163,28106.5,133156,6323,142972.8,833237,511,236670.9,1253161,44997
+2014,7353,Fairbanks,Golden Valley Electric Assn Inc,Cooperative,63436.1,276627,38287,27472.1,129773,6372,138842.4,812963,508,229750.6,1219363,45167
+2003,7822,Gustavus,Gustavus Electric Inc,Investor Owned,473,878,365,301,631,107,0,0,0,774,1509,472
+2004,7822,Gustavus,Gustavus Electric Inc,Investor Owned,517,895,393,316,622,109,0,0,0,833,1517,502
+2005,7822,Gustavus,Gustavus Electric Inc,Investor Owned,579,834,396,380,604,111,0,0,0,959,1438,507
+2006,7822,Gustavus,Gustavus Electric Inc,Investor Owned,588,810,399,424,660,110,0,0,0,1012,1470,509
+2007,7822,Gustavus,Gustavus Electric Inc,Investor Owned,571,805,383,440,723,123,0,0,0,1011,1528,506
+2008,7822,Gustavus,Gustavus Electric Inc,Investor Owned,683,811,391,559,754,131,0,0,0,1242,1565,522
+2009,7822,Gustavus,Gustavus Electric Inc,Investor Owned,480,752,394,424,797,139,0,0,0,904,1549,533
+2010,7822,Gustavus,Gustavus Electric Inc,Investor Owned,397,860,424,298,841,149,0,0,0,695,1701,573
+2011,7822,Gustavus,Gustavus Electric Inc,Investor Owned,454,912,439,368,913,152,0,0,0,822,1825,591
+2003,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,323,957,252,267,786,69,186,539,6,776,2282,327
+2004,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,346,1051,251,523,1507,84,,,,869,2558,335
+2005,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,345,1058,257,498,1453,84,0,0,0,843,2511,341
+2006,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,313,1053,255,586,1627,84,0,0,0,899,2680,339
+2007,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,328,1000,307,569,1721,100,0,0,0,897,2721,407
+2008,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,328.4,980,312,468.2,1328,82,0,0,0,796.6,2308,394
+2009,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,300.2,976,345,799.6,1335,94,0,0,0,1099.8,2311,439
+2010,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,293,1075,345,813,1623,95,0,0,0,1106,2698,440
+2011,7833,Fort Yukon,Gwitchyaa Zhee Utility Co,Investor Owned,371.7,1105,262,587,1649,100,0,0,0,958.7,2754,362
+2003,19558,Homer,Homer Electric Assn Inc,Cooperative,18607,160667,21640,16292,167954,3436,6390,150355,26,41289,478976,25102
+2004,19558,Homer,Homer Electric Assn Inc,Cooperative,19421,168678,22110,17040,171334,3501,7569,154991,29,44030,495003,25640
+2005,19558,Homer,Homer Electric Assn Inc,Cooperative,22022,170004,22589,19218,170239,3423,9093,163066,28,50333,503309,26040
+2006,19558,Homer,Homer Electric Assn Inc,Cooperative,25463,174054,23181,22517,173653,3503,9551,145675,27,57531,493382,26711
+2007,19558,Homer,Homer Electric Assn Inc,Cooperative,25794,173197,23811,22809,174380,3563,12957,182065,27,61560,529642,27401
+2008,19558,Homer,Homer Electric Assn Inc,Cooperative,30087,180989,24254,26821,181209,3610,12060,159829,27,68968,522027,27891
+2009,19558,Homer,Homer Electric Assn Inc,Cooperative,34555,176400,24685,31419.7,178680,3617,13145.8,128069,26,79120.5,483149,28328
+2010,19558,Homer,Homer Electric Assn Inc,Cooperative,29363,174990,25243,26283,178271,3784,9063,116657,25,64709,469918,29052
+2011,19558,Homer,Homer Electric Assn Inc,Cooperative,35185,178368,25634,31514,177869,3834,9509,118432,25,76208,474669,29493
+2012,19558,Homer,Homer Electric Assn Inc,Cooperative,36648,180859,25914,31967,181734,3916,11094,127076,23,79709,489669,29853
+2013,19558,Homer,Homer Electric Assn Inc,Cooperative,37754.1,179868,26150,33178.3,180983,3976,9511.7,120722,23,80444.1,481573,30149
+2014,19558,Homer,Homer Electric Assn Inc,Cooperative,41336,169999,26430,37559.5,175624,4025,11782.7,119489,23,90678.2,465112,30478
+2015,19558,Homer,Homer Electric Assn Inc,Cooperative,43370.7,171719,26757,38947.9,175687,4056,13919,124366,24,96237.6,471772,30837
+2016,19558,Homer,Homer Electric Assn Inc,Cooperative,43595.7,169766,27104,37382.6,164845,4062,13735.2,122677,25,94713.5,457288,31191
+2017,19558,Homer,Homer Electric Assn Inc,Cooperative,45235.8,173211,27374,38040.7,166481,4071,15498.7,139497,25,98775.2,479189,31470
+2003,9000,Hughes,Hughes Power & Light Co,Investor Owned,34,67,28,54,106,9,21,40,4,109,213,41
+2004,9000,Hughes,Hughes Power & Light Co,Investor Owned,36,68,28,75,146,9,20,39,4,131,253,41
+2005,9000,Hughes,Hughes Power & Light Co,Investor Owned,40,73,28,81,150,9,21,38,4,142,261,41
+2006,9000,Hughes,Hughes Power & Light Co,Investor Owned,49,93,36,62,112,9,30,57,3,141,262,48
+2007,9000,Hughes,Hughes Power & Light Co,Investor Owned,51,98,36,94,89,9,26,54,3,171,241,48
+2008,9000,Hughes,Hughes Power & Light Co,Investor Owned,60,104,35,78,122,13,0,0,0,138,226,48
+2009,9000,Hughes,Hughes Power & Light Co,Investor Owned,82.5,115,33,111.2,156,15,0,0,0,193.7,271,48
+2010,9000,Hughes,Hughes Power & Light Co,Investor Owned,84.5,118,35,122.5,163,15,0,0,0,207,281,50
+2011,9000,Hughes,Hughes Power & Light Co,Investor Owned,99,139,37,114,160,12,0,0,0,213,299,49
+2003,9192,Iguigig,Igiugig Electric Company,Political Subdivision,34,59,18,74,138,18,0,0,0,108,197,36
+2004,9192,Iguigig,Igiugig Electric Company,Political Subdivision,30,54,18,73,129,19,0,0,0,103,183,37
+2005,9192,Iguigig,Igiugig Electric Company,Political Subdivision,33,55,19,77,132,21,0,0,0,110,187,40
+2006,9192,Iguigig,Igiugig Electric Company,Political Subdivision,31,52,19,85,142,21,0,0,0,116,194,40
+2007,9192,Iguigig,Igiugig Electric Company,Political Subdivision,24,47,18,85,136,21,0,0,0,109,183,39
+2008,9192,Iguigig,Igiugig Electric Company,Political Subdivision,34,56,17,85,146,22,0,0,0,119,202,39
+2009,9192,Iguigig,Igiugig Electric Company,Political Subdivision,51,69,18,104.1,152,23,0,0,0,155.1,221,41
+2010,9192,Iguigig,Igiugig Electric Company,Political Subdivision,72.5,90,23,109.9,155,22,0,0,0,182.4,245,45
+2011,9192,Iguigig,Igiugig Electric Company,Political Subdivision,82,83,24,146,190,23,0,0,0,228,273,47
+2003,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,459,911,208,559,1170,105,0,0,0,1018,2081,313
+2004,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,502,953,208,627,1236,105,0,0,0,1129,2189,313
+2005,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,412,877,201,541,1289,105,0,0,0,953,2166,306
+2006,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,417,914,190,591,1446,102,0,0,0,1008,2360,292
+2007,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,454,1005,190,659,1617,102,0,0,0,1113,2622,292
+2008,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,509,1093,184,728,1698,109,0,0,0,1237,2791,293
+2009,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,522,932,180,752,1450,106,0,0,0,1274,2382,286
+2010,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,557,976,185,856,1675,99,0,0,0,1413,2651,284
+2011,9188,INN,"I-N-N Electric Coop, Inc",Cooperative,556,972,180,911,2177,104,0,0,0,1467,3149,284
+2003,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,1951,5258,1040,1260,4755,186,392,1108,47,3603,11121,1273
+2004,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2012,5178,1027,1318,4370,186,386,1031,48,3716,10579,1261
+2005,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2325,4970,1024,1633,4343,194,416,909,48,4374,10222,1266
+2006,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2593,4934,1036,2090,5257,212,452,873,48,5135,11064,1296
+2007,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2506,4805,1046,1911,4693,219,440,853,49,4857,10351,1314
+2008,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2890,4787,1041,2254,4575,210,532,896,52,5676,10258,1303
+2009,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2275,4688,1027,1657,4300,202,434,903,55,4366,9891,1284
+2010,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2656,4645,1129,1979,4301,220,501,889,63,5136,9835,1412
+2011,18963,IPEC,"Inside Passage Elec Coop, Inc",Political Subdivision,2980,4764,1037,2254,4411,192,709,1155,62,5943,10330,1291
+2003,9416,Deering,Ipnatchiaq Electric Company,Municipal,100,258,48,140,385,19,0,0,0,240,643,67
+2004,9416,Deering,Ipnatchiaq Electric Company,Municipal,109,270,48,157,407,19,0,0,0,266,677,67
+2005,9416,Deering,Ipnatchiaq Electric Company,Municipal,97,239,48,175,438,21,0,0,0,272,677,69
+2006,9416,Deering,Ipnatchiaq Electric Company,Municipal,119,241,46,227,465,22,0,0,0,346,706,68
+2007,9416,Deering,Ipnatchiaq Electric Company,Municipal,108,219,45,207,419,18,0,0,0,315,638,63
+2008,9416,Deering,Ipnatchiaq Electric Company,Municipal,132,207,42,284,448,20,0,0,0,416,655,62
+2009,9416,Deering,Ipnatchiaq Electric Company,Municipal,150,194,42,358,462,20,0,0,0,508,656,62
+2010,9416,Deering,Ipnatchiaq Electric Company,Municipal,134,177,39,314,416,18,0,0,0,448,593,57
+2011,9416,Deering,Ipnatchiaq Electric Company,Municipal,159.1,198,39,373.9,466,18,0,0,0,533,664,57
+2003,10210,Ketchikan,Ketchikan Public Utilities,Municipal,5562,58668,6064,5836,65332,1100,1550,21001,14,12948,145001,7178
+2004,10210,Ketchikan,Ketchikan Public Utilities,Municipal,5639,59636,6043,5949,65417,1103,1527,20587,15,13115,145640,7161
+2005,10210,Ketchikan,Ketchikan Public Utilities,Municipal,5668,58656,6070,6055,66669,1118,1524,19919,14,13247,145244,7202
+2006,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6234,62141,6105,6536,68837,1132,1714,21182,14,14484,152160,7251
+2007,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6475,64652,6140,6541,69286,1151,1779,20865,14,14795,154803,7305
+2008,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6980.8,68287,6166,6755.7,69778,1166,1787.3,21275,14,15523.8,159340,7346
+2009,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7018.8,68777,6166,6596.1,68155,1185,1796.2,21215,14,15411.1,158147,7365
+2010,10210,Ketchikan,Ketchikan Public Utilities,Municipal,6826.2,67041,6195,6619,67963,1210,1926.9,21981,13,15372.1,156985,7418
+2011,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7223.5,70815,6208,6837.1,70657,1223,1952.6,23242,12,16013.2,164714,7443
+2012,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7559.2,74274,6275,7144.8,73463,1230,2046.9,24453,13,16750.9,172190,7518
+2013,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7228.9,71044,6274,7187.4,73932,1228,2115.4,25306,13,16531.7,170282,7515
+2014,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7095,70161,6334,7183.7,74369,1258,1948.9,23409,13,16227.6,167939,7605
+2015,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7032,68590,6397,7061,72370,1282,1994.2,22936,15,16087.2,163896,7694
+2016,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7445.5,70161,6434,7335.5,72640,1291,1984.3,22306,16,16765.3,165107,7741
+2017,10210,Ketchikan,Ketchikan Public Utilities,Municipal,7969.4,75066,6477,7719.9,76316,1305,2157,24066,17,17846.3,175448,7799
+2003,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5386,32361,4631,0,0,0,13367,90194,1049,18753,122555,5680
+2004,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5289,32286,4560,3372,21558,1084,10939,74668,92,19600,128512,5736
+2005,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5370,31551,4611,3353,20528,1084,11904,78779,92,20627,130858,5787
+2006,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6158,32454,4612,3920,21354,1079,14237,82520,92,24315,136328,5783
+2007,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6497,32750,4639,4089,21344,1073,15031,84047,94,25617,138141,5806
+2008,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6306,32883,4649,3919,21171,1074,14326,82218,94,24551,136272,5817
+2009,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5488,33385,4665,3285,20736,1071,11832,80493,97,20605,134614,5833
+2010,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5941,33653,4670,3603,21088,1026,13525,84344,102,23069,139085,5798
+2011,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6493,34125,4689,3982,21537,1032,14978,86308,99,25453,141970,5820
+2012,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6536,35273,4696,4004,22282,1040,14770,87040,102,25310,144595,5838
+2013,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6148,34387,4705,3722,21450,1042,14219,87337,103,24089,143174,5850
+2014,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5845,34366,4741,3701,22546,1050,13804,90135,103,23350,147047,5894
+2015,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,5988,34841,4781,3784,22819,1053,13884,89559,104,23656,147219,5938
+2016,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6008,34526,4763,3689,21883,1045,13658,86332,106,23355,142741,5914
+2017,10433,Kodiak,Kodiak Electric Assn Inc,Cooperative,6241,36274,4756,3624,21604,1033,14524,92951,106,24389,150829,5895
+2003,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,97,171,48,48,86,14,0,0,0,145,257,62
+2004,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,100,167,49,80,197,16,0,0,0,180,364,65
+2005,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,67,163,50,138,209,18,0,0,0,205,372,68
+2006,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,103,172,50,122,253,18,0,0,0,225,425,68
+2007,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,104,173,50,119,230,17,0,0,0,223,403,67
+2008,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,131,178,47,157,226,18,0,0,0,288,404,65
+2009,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,171,192,50,154,220,19,0,0,0,325,412,69
+2010,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,161,179,56,198,219,19,0,0,0,359,398,75
+2011,10455,Kokhanok,Kokhanok Village Council,Political Subdivision,160,178,56,186,226,21,0,0,0,346,404,77
+2003,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,1939,7984,1042,2843,12746,137,0,0,0,4782,20730,1179
+2004,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2177,8198,1125,3085,12568,130,0,0,0,5262,20766,1255
+2005,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2492,8329,1139,3677,13225,125,0,0,0,6169,21554,1264
+2006,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2750,8264,1144,3938,12722,123,0,0,0,6688,20986,1267
+2007,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3020,8005,1141,4418,12547,121,0,0,0,7438,20552,1262
+2008,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3103,7996,1141,4535,12384,124,0,0,0,7638,20380,1265
+2009,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3790,7902,1160,5683,12298,129,0,0,0,9473,20200,1289
+2010,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3699,7669,1148,5667,12209,130,0,0,0,9366,19878,1278
+2011,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3293.1,7678,1136,5457.5,13285,128,0,0,0,8750.6,20963,1264
+2012,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3446,7887,1130,5625,13270,126,0,0,0,9071,21157,1256
+2013,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3066,7451,1123,5006,12912,126,0,0,0,8072,20363,1249
+2014,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3115.7,7275,1147,5124.8,12657,130,0,0,0,8240.5,19932,1277
+2015,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,3020,7325,1137,4886,12564,131,.,.,.,7906,19889,1268
+2016,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2852,7062,1122,4652,12170,140,.,.,.,7504,19232,1262
+2017,10451,Kotzebue,Kotzebue Electric Assn Inc,Cooperative,2708.6,7151,1135,4317.7,12257,114,.,.,.,7026.3,19408,1249
+2003,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,292,648,182,175,410,5,0,0,0,467,1058,187
+2004,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,284,631,182,171,507,5,0,0,0,455,1138,187
+2005,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,288,640,169,163,340,4,0,0,0,451,980,173
+2006,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,289,640,169,163,340,39,0,0,0,452,980,208
+2007,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,290,643,172,331,407,38,0,0,0,621,1050,210
+2008,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,306.8,650,172,178.8,351,38,0,0,0,485.6,1001,210
+2009,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,317.6,603,172,191.6,373,38,0,0,0,509.2,976,210
+2010,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,325.9,620,174,189.9,337,42,0,0,0,515.8,957,216
+2011,9832,Kwethluk,Kuiggluum Kallugvia,Investor Owned,325,624,181,203.9,391,40,0,0,0,528.9,1015,221
+2003,10491,Kwigillingok,Kwig Power Company,Political Subdivision,220,437,88,93,193,20,13,40,3,326,670,111
+2004,10491,Kwigillingok,Kwig Power Company,Political Subdivision,241,457,88,104,204,20,14,40,3,359,701,111
+2005,10491,Kwigillingok,Kwig Power Company,Political Subdivision,259,457,88,110,210,20,16,41,3,385,708,111
+2006,10491,Kwigillingok,Kwig Power Company,Political Subdivision,219,457,85,139,357,23,0,0,0,358,814,108
+2007,10491,Kwigillingok,Kwig Power Company,Political Subdivision,234,472,85,118,299,23,,,,352,771,108
+2008,10491,Kwigillingok,Kwig Power Company,Political Subdivision,197.4,414,85,138.3,352,21,0,0,0,335.7,766,106
+2009,10491,Kwigillingok,Kwig Power Company,Political Subdivision,228.5,453,85,123.3,302,19,16.1,42,3,367.9,797,107
+2010,10491,Kwigillingok,Kwig Power Company,Political Subdivision,304.3,506,85,164.1,338,19,21.6,47,3,490,891,107
+2011,10491,Kwigillingok,Kwig Power Company,Political Subdivision,260.4,402,86,244.2,411,27,47.9,81,6,552.5,894,119
+2003,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,92,124,72,88,136,15,0,0,0,180,260,87
+2004,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,92,124,74,90,130,15,0,0,0,182,254,89
+2005,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,91,122,75,81,118,14,0,0,0,172,240,89
+2006,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,88,116,75,77,114,14,0,0,0,165,230,89
+2007,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,86,112,75,75,111,14,0,0,0,161,223,89
+2008,11591,Manley Hot Springs,Manley Utility Co Inc,Investor Owned,82,123,76,88,133,13,0,0,0,170,256,89
+2003,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,38309,368675,41566,17929,213014,3057,0,0,0,56238,581689,44623
+2004,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,41838,393646,43761,19583,225030,3113,0,0,0,61421,618676,46874
+2005,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,46335,406770,46313,22268,237640,3216,0,0,0,68603,644410,49529
+2006,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,56527,431007,48387,27524,247877,3354,0,0,0,84051,678884,51741
+2007,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,57511,428929,49939,28552,252183,3564,0,0,0,86063,681112,53503
+2008,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,63123,442498,50887,31320,258426,3673,0,0,0,94443,700924,54560
+2009,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,70686,438691,51796,36496,260239,3714,0,0,0,107182,698930,55510
+2010,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,60084,435159,52501,29083,256040,3643,0,0,0,89167,691199,56144
+2011,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,68212,451449,53239,33796,265746,3668,0,0,0,102008,717195,56907
+2012,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,69800,458393,53982,34198,268094,3711,0,0,0,103998,726487,57693
+2013,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,68393.6,452533,54900,34068.4,271422,3761,0,0,0,102462,723955,58661
+2014,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,74981.5,448552,56055,38697.7,273691,3831,0,0,0,113679.2,722243,59886
+2015,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,88971.8,453133,57299,46996.6,278132,3892,0,0,0,135968.4,731265,61191
+2016,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,84018,427677,56661,50601.1,299418,5961,0,0,0,134619.1,727095,62622
+2017,11824,Mat-Su,Matanuska Electric Assn Inc,Cooperative,91958.3,447720,57798,53980.8,303696,5977,0,0,0,145939.1,751416,63775
+2003,12119,McGrath,McGrath Light & Power Co,Investor Owned,315,826,176,607,1731,79,0,0,0,922,2557,255
+2004,12119,McGrath,McGrath Light & Power Co,Investor Owned,295,775,162,619,1219,82,0,0,0,914,1994,244
+2005,12119,McGrath,McGrath Light & Power Co,Investor Owned,263,687,153,629,1814,73,0,0,0,892,2501,226
+2006,12119,McGrath,McGrath Light & Power Co,Investor Owned,272,712,160,634,1829,79,0,0,0,906,2541,239
+2007,12119,McGrath,McGrath Light & Power Co,Investor Owned,278,728,162,622,1783,92,0,0,0,900,2511,254
+2008,12119,McGrath,McGrath Light & Power Co,Investor Owned,263,688,139,641,1834,125,0,0,0,904,2522,264
+2009,12119,McGrath,McGrath Light & Power Co,Investor Owned,244.2,637,142,668.2,1880,127,0,0,0,912.4,2517,269
+2010,12119,McGrath,McGrath Light & Power Co,Investor Owned,270,670,178,698,1901,120,0,0,0,968,2571,298
+2011,12119,McGrath,McGrath Light & Power Co,Investor Owned,273.3,710,188,632.8,1809,115,0,0,0,906.1,2519,303
+2003,12385,Metlakatla,Metlakatla Power & Light,Municipal,519,5608,568,823,7513,260,97,665,1,1439,13786,829
+2004,12385,Metlakatla,Metlakatla Power & Light,Municipal,525,5673,539,851,7575,253,28,226,1,1404,13474,793
+2005,12385,Metlakatla,Metlakatla Power & Light,Municipal,564,5676,539,904,7786,253,33,234,1,1501,13696,793
+2006,12385,Metlakatla,Metlakatla Power & Light,Municipal,567,6126,540,983,8087,261,0,0,0,1550,14213,801
+2007,12385,Metlakatla,Metlakatla Power & Light,Municipal,572,6180,582,849,8030,214,11,68,58,1432,14278,854
+2008,12385,Metlakatla,Metlakatla Power & Light,Municipal,659,6956,604,1002,8647,214,14,83,62,1675,15686,880
+2009,12385,Metlakatla,Metlakatla Power & Light,Municipal,682,7386,608,1000,9173,212,10,59,67,1692,16618,887
+2010,12385,Metlakatla,Metlakatla Power & Light,Municipal,671,7498,635,1065,9296,215,10,51,65,1746,16845,915
+2011,12385,Metlakatla,Metlakatla Power & Light,Municipal,772,8455,641,1185,9881,210,11,60,67,1968,18396,918
+2003,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,289,412,128,291,430,62,0,0,0,580,842,190
+2004,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,313,421,140,336,484,58,0,0,0,649,905,198
+2005,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,329,406,138,403,570,56,0,0,0,732,976,194
+2006,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,330,411,142,432,550,55,0,0,0,762,961,197
+2007,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,357,395,171,500,560,59,0,0,0,857,955,230
+2008,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,384,409,153,483,523,64,0,0,0,867,932,217
+2009,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,429,420,145,520.9,530,68,0,0,0,949.9,950,213
+2010,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,415,442,133,441,519,61,0,0,0,856,961,194
+2011,12485,MKEC,Middle Kuskokwim Elec Coop Inc,Cooperative,352,413,131,478,559,60,0,0,0,830,972,191
+2003,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,911,3961,710,2874,14361,320,0,0,0,3785,18322,1030
+2004,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,997,4143,710,3223,15174,320,0,0,0,4220,19317,1030
+2005,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1089,4019,710,3815,15592,339,0,0,0,4904,19611,1049
+2006,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1267,4052,695,4441,15492,333,0,0,0,5708,19544,1028
+2007,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1417,3967,686,5083,15666,328,0,0,0,6500,19633,1014
+2008,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1564,3928,753,6060,16562,360,0,0,0,7624,20490,1113
+2009,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1654,3789,686,6520,16169,328,0,0,0,8174,19958,1014
+2010,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1735,3737,684,7030,16165,337,0,0,0,8765,19902,1021
+2011,13201,Naknek,"Naknek Electric Assn, Inc",Cooperative,1795,3509,669,6925,14927,309,0,0,0,8720,18436,978
+2003,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,233,394,97,100,192,23,0,0,0,333,586,120
+2004,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,234,379,97,94,173,23,0,0,0,328,552,120
+2005,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,238,361,90,91,137,15,0,0,0,329,498,105
+2006,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,230,366,90,94,144,22,0,0,0,324,510,112
+2007,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,268,357,97,81,105,15,0,0,0,349,462,112
+2008,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,249,377,104,101,153,19,0,0,0,350,530,123
+2009,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,372,398,99,117,127,23,0,0,0,489,525,122
+2010,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,234.8,371,104,131.6,215,33,0,0,0,366.4,586,137
+2011,13211,Napakiak,Napakiak Ircinraq Power Co,Investor Owned,334,393,112,152,181,21,0,0,0,486,574,133
+2003,14832,Perryville,Native Village of Perryville,Municipal,58,198,35,50,174,5,0,0,0,108,372,40
+2004,14832,Perryville,Native Village of Perryville,Municipal,63,207,35,56,184,5,0,0,0,119,391,40
+2005,14832,Perryville,Native Village of Perryville,Municipal,68,207,35,59,189,5,0,0,0,127,396,40
+2006,14832,Perryville,Native Village of Perryville,Municipal,142,300,35,12,25,6,0,0,0,154,325,41
+2007,14832,Perryville,Native Village of Perryville,Municipal,139,294,35,43,91,11,0,0,0,182,385,46
+2008,14832,Perryville,Native Village of Perryville,Municipal,101.4,252,45,27.6,46,10,0,0,0,129,298,55
+2009,14832,Perryville,Native Village of Perryville,Municipal,93,227,41,72.6,121,10,0,0,0,165.6,348,51
+2010,14832,Perryville,Native Village of Perryville,Municipal,93.4,122,43,151,197,18,0,0,0,244.4,319,61
+2011,14832,Perryville,Native Village of Perryville,Municipal,126.5,133,43,151,158,18,0,0,0,277.5,291,61
+2003,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,84,201,70,54,119,11,0,0,0,138,320,81
+2004,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,81,192,46,57,135,11,0,0,0,138,327,57
+2005,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,74,177,46,62,148,13,11,25,8,147,350,67
+2006,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,89,191,47,60,133,11,9,21,2,158,345,60
+2007,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,98,189,47,74,144,11,14,26,2,186,359,60
+2008,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,94,180,47,78,151,11,11,22,2,183,353,60
+2009,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,123.6,172,47,123.4,171,11,22,31,9,269,374,67
+2010,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,120,162,36,160.7,217,24,0,0,0,280.7,379,60
+2011,13477,Nelson Lagoon,Nelson Lagoon Elec Coop Inc,Cooperative,117.7,154,36,165.3,216,24,0,0,0,283,370,60
+2003,13642,Nome,Nome Joint Utility Systems,Municipal,1868,9156,1561,3233,17382,374,0,0,0,5101,26538,1935
+2004,13642,Nome,Nome Joint Utility Systems,Municipal,1995,9428,1596,3434,17725,373,0,0,0,5429,27153,1969
+2005,13642,Nome,Nome Joint Utility Systems,Municipal,2333,9464,1606,4085,18697,389,0,0,0,6418,28161,1995
+2006,13642,Nome,Nome Joint Utility Systems,Municipal,2712,9499,1613,4960,18555,391,0,0,0,7672,28054,2004
+2007,13642,Nome,Nome Joint Utility Systems,Municipal,3015,9275,1623,5622,18540,403,0,0,0,8637,27815,2026
+2008,13642,Nome,Nome Joint Utility Systems,Municipal,3312,9680,1660,9305,28335,404,0,0,0,12617,38015,2064
+2009,13642,Nome,Nome Joint Utility Systems,Municipal,3417,9279,1690,8403,23774,403,0,0,0,11820,33053,2093
+2010,13642,Nome,Nome Joint Utility Systems,Municipal,3308,9181,1694,7969,24105,401,0,0,0,11277,33286,2095
+2011,13642,Nome,Nome Joint Utility Systems,Municipal,3374,9217,1701,8017,23559,407,0,0,0,11391,32776,2108
+2012,13642,Nome,Nome Joint Utility Systems,Municipal,3398,9780,1702,8220,23553,411,0,0,0,11618,33333,2113
+2013,13642,Nome,Nome Joint Utility Systems,Municipal,3579,9494,1707,7906,22347,411,0,0,0,11485,31841,2118
+2014,13642,Nome,Nome Joint Utility Systems,Municipal,3667,9302,1721,7516,20208,408,0,0,0,11183,29510,2129
+2015,13642,Nome,Nome Joint Utility Systems,Municipal,3684,8992,1671,7608,20280,466,.,.,.,11292,29272,2137
+2016,13642,Nome,Nome Joint Utility Systems,Municipal,3157,8384,1689,6636,20458,459,.,.,.,9793,28842,2148
+2017,13642,Nome,Nome Joint Utility Systems,Municipal,3007,8462,1735,6214,20548,468,.,.,.,9221,29010,2203
+2003,26616,NSB,North Slope Borough Power & Light,Municipal,1081,5194,646,7111,21698,529,0,0,0,8192,26892,1175
+2004,26616,NSB,North Slope Borough Power & Light,Municipal,997,5000,646,6834,24000,534,0,0,0,7831,29000,1180
+2005,26616,NSB,North Slope Borough Power & Light,Municipal,900,4451,619,6632,23329,542,,,,7532,27780,1161
+2006,26616,NSB,North Slope Borough Power & Light,Municipal,906,4466,620,5843,19587,540,360,2213,221,7109,26266,1381
+2007,26616,NSB,North Slope Borough Power & Light,Municipal,917,8087,616,6327,20681,306,0,0,0,7244,28768,922
+2008,26616,NSB,North Slope Borough Power & Light,Municipal,1515,7278,1343,5715,20425,527,0,0,0,7230,27703,1870
+2009,26616,NSB,North Slope Borough Power & Light,Municipal,1178,5746,744,6757,23623,380,0,0,0,7935,29369,1124
+2010,26616,NSB,North Slope Borough Power & Light,Municipal,1021.3,6385,658,6184.8,21856,400,0,0,0,7206.1,28241,1058
+2011,26616,NSB,North Slope Borough Power & Light,Municipal,976.8,5248,711,6610.7,22662,464,0,0,0,7587.5,27910,1175
+2012,26616,NSB,North Slope Borough Power & Light,Municipal,1015.8,5923,659,6125.8,21221,426,0,0,0,7141.6,27144,1085
+2013,26616,NSB,North Slope Borough Power & Light,Municipal,1049.8,6018,654,7664.8,24687,464,0,0,0,8714.6,30705,1118
+2014,26616,NSB,North Slope Borough Power & Light,Municipal,1051,6032,657,7610,26433,469,0,0,0,8661,32465,1126
+2015,26616,NSB,North Slope Borough Power & Light,Municipal,1063,6266,732,7213,25742,485,.,.,.,8276,32008,1217
+2016,26616,NSB,North Slope Borough Power & Light,Municipal,1118.8,6582,742,7262.8,25544,475,0,0,0,8381.6,32126,1217
+2017,26616,NSB,North Slope Borough Power & Light,Municipal,1204,6890,750,7083.8,24653,464,0,0,0,8287.8,31543,1214
+2003,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1369,6022,963,1960,8719,324,480,2069,136,3809,16810,1423
+2004,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1609,6186,959,2303,9198,318,596,2244,138,4508,17628,1415
+2005,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1806,6046,972,2577,8987,310,642,2154,133,5025,17187,1415
+2006,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2010,5997,965,2980,9254,311,729,2180,142,5719,17431,1418
+2007,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2107,5945,963,1800,6579,145,2243,4532,306,6150,17056,1414
+2008,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2458,6000,980,2138,5000,158,2630,6000,306,7226,17000,1444
+2009,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2650,5744,982,2151,4335,145,3223,7092,305,8024,17171,1432
+2010,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,1921,5641,979,1721,4800,169,2460,7559,296,6102,18000,1444
+2011,13870,Dillingham,"Nushagak Electric Coop, Inc",Cooperative,2346,5696,1000,1948,2997,312,2906,9326,179,7200,18019,1491
+2003,26754,Paxson,Paxson Inn & Lodge,Investor Owned,1,12,1,54,216,6,0,0,0,55,228,7
+2004,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,3,1,54,206,6,0,0,0,54,209,7
+2005,26754,Paxson,Paxson Inn & Lodge,Investor Owned,2,12,1,99,216,6,0,0,0,101,228,7
+2006,26754,Paxson,Paxson Inn & Lodge,Investor Owned,2,12,1,110,205,6,0,0,0,112,217,7
+2007,26754,Paxson,Paxson Inn & Lodge,Investor Owned,3,12,1,117,205,6,0,0,0,120,217,7
+2008,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,0,0,240,180,6,0,0,0,240,180,6
+2009,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,0,0,340,276,6,0,0,0,340,276,6
+2010,26754,Paxson,Paxson Inn & Lodge,Investor Owned,1.2,1,2,238.8,144,4,0,0,0,240,145,6
+2011,26754,Paxson,Paxson Inn & Lodge,Investor Owned,0,0,0,240,400,5,0,0,0,240,400,5
+2003,14633,Pedro Bay,Pedro Bay Village Council,Municipal,39,65,22,59,111,10,0,0,0,98,176,32
+2004,14633,Pedro Bay,Pedro Bay Village Council,Municipal,43,68,22,66,117,10,0,0,0,109,185,32
+2005,14633,Pedro Bay,Pedro Bay Village Council,Municipal,54,89,34,78,165,9,0,0,0,132,254,43
+2006,14633,Pedro Bay,Pedro Bay Village Council,Municipal,55,91,31,81,167,10,0,0,0,136,258,41
+2007,14633,Pedro Bay,Pedro Bay Village Council,Municipal,46,77,28,87,155,10,0,0,0,133,232,38
+2008,14633,Pedro Bay,Pedro Bay Village Council,Municipal,47,65,24,101,161,8,0,0,0,148,226,32
+2009,14633,Pedro Bay,Pedro Bay Village Council,Municipal,65,72,21,122,162,9,0,0,0,187,234,30
+2010,14633,Pedro Bay,Pedro Bay Village Council,Municipal,59.2,65,30,130.7,154,12,0,0,0,189.9,219,42
+2011,14633,Pedro Bay,Pedro Bay Village Council,Municipal,60,67,29,116,132,16,0,0,0,176,199,45
+2003,29297,Pelican,Pelican Utility,Investor Owned,82,535,80,67,422,76,186,1428,21,335,2385,177
+2004,29297,Pelican,Pelican Utility,Investor Owned,105,682,143,29,193,13,111,848,20,245,1723,176
+2005,29297,Pelican,Pelican Utility,Investor Owned,61,401,73,56,372,33,108,815,20,225,1588,126
+2006,29297,Pelican,Pelican Utility,Investor Owned,70,427,75,63,381,35,160,1138,17,293,1946,127
+2007,29297,Pelican,Pelican Utility,Investor Owned,80,437,73,69,398,37,184,1272,17,333,2107,127
+2008,29297,Pelican,Pelican Utility,Investor Owned,77,467,74,66,375,40,95,653,13,238,1495,127
+2009,29297,Pelican,Pelican Utility,Investor Owned,106,390,76,97,350,36,89,399,7,292,1139,119
+2010,29297,Pelican,Pelican Utility,Investor Owned,145,326,66,142,319,35,14,36,6,301,681,107
+2011,29297,Pelican,Pelican Utility,Investor Owned,230,333,71,218,313,37,0,0,0,448,646,108
+2015,14856,Petersburg,Petersburg Borough - (AK),Municipal,1955.8,19326,1378,1134,9787,720,2202.3,19585,30,5292.1,48698,2128
+2016,14856,Petersburg,Petersburg Borough - (AK),Municipal,2020.3,19745,1378,1152.7,9750,725,2141.6,18676,30,5314.6,48171,2133
+2017,14856,Petersburg,Petersburg Borough - (AK),Municipal,2172.3,21628,1368,1233.8,10509,748,2238.7,20270,31,5644.8,52407,2147
+2003,16955,Seward,Seward City of,Municipal,2033,15587,1938,2264,17343,460,2101,21734,58,6398,54664,2456
+2004,16955,Seward,Seward City of,Municipal,2160,15799,1924,1321,8953,412,3314,30774,105,6795,55526,2441
+2005,16955,Seward,Seward City of,Municipal,2276,15813,1879,1318,8149,403,3633,30825,105,7227,54787,2387
+2006,16955,Seward,Seward City of,Municipal,2516,16374,1942,1337,7963,447,4027,31075,118,7880,55412,2507
+2007,16955,Seward,Seward City of,Municipal,2563,15290,1973,1371,7977,476,4346,33752,118,8280,57019,2567
+2008,16955,Seward,Seward City of,Municipal,2671,16528,2000,1380,7912,482,4553,32899,120,8604,57339,2602
+2009,16955,Seward,Seward City of,Municipal,2831,16329,2013,1446,7756,489,4718,31631,122,8995,55716,2624
+2010,16955,Seward,Seward City of,Municipal,2728,15880,2038,1461,7920,493,4476,30884,120,8665,54684,2651
+2011,16955,Seward,Seward City of,Municipal,3123,16246,2053,1724,8464,496,5319,32544,122,10166,57254,2671
+2012,16955,Seward,Seward City of,Municipal,3344,16488,2064,1869,8651,503,5828,33599,126,11041,58738,2693
+2013,16955,Seward,Seward City of,Municipal,3182,15611,2074,1814,8392,507,5912,33947,125,10908,57950,2706
+2014,16955,Seward,Seward City of,Municipal,3234,15265,2097,1800,7964,513,5927,31961,125,10961,55190,2735
+2003,17271,Sitka,Sitka City & Borough of,Municipal,3613,38973,4169,4911,53766,736,89,1195,1,8613,93934,4906
+2004,17271,Sitka,Sitka City & Borough of,Municipal,3723,39761,3481,4984,54181,1541,114,1827,1,8821,95769,5023
+2005,17271,Sitka,Sitka City & Borough of,Municipal,3812,40027,3504,5214,54380,1535,174,1772,9,9200,96179,5048
+2006,17271,Sitka,Sitka City & Borough of,Municipal,4107,43274,3550,5320,55922,1525,199,2028,9,9626,101224,5084
+2007,17271,Sitka,Sitka City & Borough of,Municipal,4248,44738,3602,5504,58378,1550,332,3746,11,10084,106862,5163
+2008,17271,Sitka,Sitka City & Borough of,Municipal,4620,48589,3650,5474,59803,1567,416,4514,15,10510,112906,5232
+2009,17271,Sitka,Sitka City & Borough of,Municipal,4635,49265,3652,5447,58663,1598,478,4769,15,10560,112697,5265
+2010,17271,Sitka,Sitka City & Borough of,Municipal,4399,46120,3677,5376,57272,1589,492,5223,15,10267,108615,5281
+2011,17271,Sitka,Sitka City & Borough of,Municipal,4573,48297,3682,5442,58422,1603,522,5563,16,10537,112282,5301
+2012,17271,Sitka,Sitka City & Borough of,Municipal,4570,47899,3669,5638,58534,1622,476,4968,15,10684,111401,5306
+2013,17271,Sitka,Sitka City & Borough of,Municipal,4875,45559,3685,6349,57230,1588,766,6776,21,11990,109565,5294
+2014,17271,Sitka,Sitka City & Borough of,Municipal,5207,43985,3581,7509,41009,1670,785,21003,21,13501,105997,5272
+2003,18474,Tanana,Tanana Power Co Inc,Investor Owned,262,452,161,336,708,18,0,0,0,598,1160,179
+2004,18474,Tanana,Tanana Power Co Inc,Investor Owned,277,454,157,345,742,19,0,0,0,622,1196,176
+2005,18474,Tanana,Tanana Power Co Inc,Investor Owned,262,465,160,355,764,20,0,0,0,617,1229,180
+2006,18474,Tanana,Tanana Power Co Inc,Investor Owned,265,470,160,368,781,21,0,0,0,633,1251,181
+2007,18474,Tanana,Tanana Power Co Inc,Investor Owned,249,452,159,350,785,18,0,0,0,599,1237,177
+2008,18474,Tanana,Tanana Power Co Inc,Investor Owned,245,448,151,304,681,20,0,0,0,549,1129,171
+2009,18474,Tanana,Tanana Power Co Inc,Investor Owned,219,382,147,328,702,17,0,0,0,547,1084,164
+2010,18474,Tanana,Tanana Power Co Inc,Investor Owned,224,394,144,329,704,17,0,0,0,553,1098,161
+2011,18474,Tanana,Tanana Power Co Inc,Investor Owned,223,409,145,316,704,17,0,0,0,539,1113,162
+2003,18480,Tatitlek,Tatitlek Electric Utility,Municipal,50,129,36,85,218,19,0,0,0,135,347,55
+2004,18480,Tatitlek,Tatitlek Electric Utility,Municipal,55,135,36,95,230,19,0,0,0,150,365,55
+2005,18480,Tatitlek,Tatitlek Electric Utility,Municipal,38,141,35,61,253,21,0,0,0,99,394,56
+2006,18480,Tatitlek,Tatitlek Electric Utility,Municipal,47,152,36,108,245,20,0,0,0,155,397,56
+2007,18480,Tatitlek,Tatitlek Electric Utility,Municipal,64,149,34,58,257,24,0,0,0,122,406,58
+2008,18480,Tatitlek,Tatitlek Electric Utility,Municipal,86,150,37,154,218,25,0,0,0,240,368,62
+2009,18480,Tatitlek,Tatitlek Electric Utility,Municipal,89,133,38,135,221,27,0,0,0,224,354,65
+2010,18480,Tatitlek,Tatitlek Electric Utility,Municipal,76,139,40,124,270,23,0,0,0,200,409,63
+2011,18480,Tatitlek,Tatitlek Electric Utility,Municipal,87,138,40,158,244,28,0,0,0,245,382,68
+2009,56503,Manley Hot Springs,TDX Manley Generating LLC,Municipal,77,111,75,233,164,18,0,0,0,310,275,93
+2010,56503,Manley Hot Springs,TDX Manley Generating LLC,Municipal,83,131,80,164,237,18,0,0,0,247,368,98
+2011,56503,Manley Hot Springs,TDX Manley Generating LLC,Municipal,49.1,157,82,69.8,177,19,0,0,0,118.9,334,101
+2003,19277,Deadhorse,TDX North Slope Generating Co,Power Marketer,,,,3814,24616,54,,,,3814,24616,54
+2004,19277,Deadhorse,TDX North Slope Generating Co,Power Marketer,0,0,0,3193,26183,54,0,0,0,3193,26183,54
+2005,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,3992,28138,54,0,0,0,3992,28138,54
+2006,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,5022,30384,110,0,0,0,5022,30384,110
+2007,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,5758,39149,66,0,0,0,5758,39149,66
+2008,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,6115.3,41000,70,0,0,0,6115.3,41000,70
+2009,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,6763,48731,70,0,0,0,6763,48731,70
+2010,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,7274,55674,73,0,0,0,7274,55674,73
+2011,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,11574,57192,75,0,0,0,11574,57192,75
+2012,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,11466,66768,75,0,0,0,11466,66768,75
+2013,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,11960,64780,74,0,0,0,11960,64780,74
+2014,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,13905,68810,109,0,0,0,13905,68810,109
+2015,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,.,.,.,17429,73055,168,.,.,.,17429,73055,168
+2016,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,16051,72337,169,0,0,0,16051,72337,169
+2017,19277,Deadhorse,TDX North Slope Generating Co,Investor Owned,0,0,0,14478,63132,166,0,0,0,14478,63132,166
+2003,18521,Teller,"Teller Power Company, Inc",Investor Owned,144,276,70,228,444,27,0,0,0,372,720,97
+2004,18521,Teller,"Teller Power Company, Inc",Investor Owned,0,0,70,0,0,27,0,0,0,0,0,97
+2003,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,165,358,77,115,288,14,5,11,1,285,657,92
+2004,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,181,374,77,129,304,14,5,11,1,315,689,92
+2005,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,198,412,94,157,336,34,0,0,0,355,748,128
+2006,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,203,389,89,163,329,26,0,0,0,366,718,115
+2007,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,200,384,89,168,354,26,0,0,0,368,738,115
+2008,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,197,379,89,170,365,26,0,0,0,367,744,115
+2009,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,242,371,94,228,428,29,0,0,0,470,799,123
+2010,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,270,375,90,290,425,33,0,0,0,560,800,123
+2011,19267,Tuntutliak,Tuntutuliak Comm Services Assn,Cooperative,285,380,98,230,421,30,0,0,0,515,801,128
+2003,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,421,1551,259,541,2170,71,0,0,0,962,3721,330
+2004,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,437,1525,261,607,2293,71,0,0,0,1044,3818,332
+2005,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,492,1541,263,679,2284,72,31,166,2,1202,3991,337
+2006,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,554,1540,262,770,2273,70,0,0,0,1324,3813,332
+2007,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,574,1461,277,848,2285,75,0,0,0,1422,3746,352
+2008,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,641,1481,279,1039,2531,75,0,0,0,1680,4012,354
+2009,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,699.1,1505,280,1060.5,2405,73,0,0,0,1759.6,3910,353
+2010,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,606.9,1548,280,948.9,2577,75,0,0,0,1555.8,4125,355
+2011,40548,Unalakleet,Unalakleet Valley Elec Coop,Cooperative,594,1494,282,981,2633,74,0,0,0,1575,4127,356
+2003,30150,Yakutat,Yakutat Power Inc,Political Subdivision,494,1696,276,790,3440,72,264,1069,50,1548,6205,398
+2004,30150,Yakutat,Yakutat Power Inc,Political Subdivision,450,1736,280,918,4369,123,0,0,0,1368,6105,403
+2005,30150,Yakutat,Yakutat Power Inc,Political Subdivision,518,1616,278,1215,4310,129,0,0,0,1733,5926,407
+2006,30150,Yakutat,Yakutat Power Inc,Political Subdivision,657,1573,279,1691,4595,134,0,0,0,2348,6168,413
+2007,30150,Yakutat,Yakutat Power Inc,Political Subdivision,670,1594,275,1740,4749,136,0,0,0,2410,6343,411
+2008,30150,Yakutat,Yakutat Power Inc,Political Subdivision,803,1550,276,2086,4535,142,0,0,0,2889,6085,418
+2009,30150,Yakutat,Yakutat Power Inc,Political Subdivision,645,1460,272,1719,4441,143,0,0,0,2364,5901,415
+2010,30150,Yakutat,Yakutat Power Inc,Political Subdivision,682,1413,270,1819,4564,140,0,0,0,2501,5977,410
+2011,30150,Yakutat,Yakutat Power Inc,Political Subdivision,739,1443,277,2065,4566,148,0,0,0,2804,6009,425
