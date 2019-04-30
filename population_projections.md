@@ -12,7 +12,9 @@
       * Community [unitless] ()
       * 1991...2050 [number of people] ()
     * Processing Steps
-      *  export first tab of source file to csv
+      1. Used excel filtering to move new data entries into the properly formatted csv file.
+	  2. Made necessary edits for data that was inputted incorrectly last time.
+	  3. Added Census Code information that was included with the new dataset.
 
 ### Source File
   * Description: UAA's ISER community-level projections.

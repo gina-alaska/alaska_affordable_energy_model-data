@@ -27,8 +27,8 @@
       * Total Megawatthours [MWh] (sales)
       * Total CustomerCount [# Customers] (customers)
   * Processing Steps
-    1. Export the Sales (861 2003-2014) tab to eia_sales.csv.
-    2. Remove all headers except the column labels.
+    1. Copied new datasets under the old datasets because the formats were the same.
+    2. Used Descending order in excel data format to put everything in order.
 
 ### Source File
   * Description: Energy Information Administration (EIA) data for 2003 - 2014. This file contains final 2003 data.  During the year, the EIA-906 and EIA-920 surveys collect monthly data from a sample of approximately 1800 generating plants.   After the end of the calendar year, data are collected from the approximately 3300 out-of-sample plants.  The annual responses are proportionately distributed over the months using the ratio of collected monthly data to the sum of that monthly data.  These data are shown below with plant-specific names and plant numbers.  Estimates for nonresponses are rolled-into state/fuel aggregates with a “99999” plant code.  For additional information, see the documentation file on page 3 of this workbook.

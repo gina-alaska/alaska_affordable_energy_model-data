@@ -11,7 +11,7 @@
     * Column Names
       * see fuel-price-survey-data-csv/data_dictionary_fuel-price-survey-data.html
   * Processing Steps
-    1. N/a
+    1. Replaced the old file with the new file.
 
 ### Source File
   * Description: Data from the semiannual survey conducted by the Alaska Housing Finance Corporation (AHFC) for use in AHFC's energy programs and stored in the AkWarm database. AHFC collaborates with the Alaska Department of Commerce, Community, and Economic Development (DCCED), Division of Community and Regional Affairs (DCRA) to include data from communities surveyed by DCRA. Prices for home heating fuel (No. 1 and No. 2 fuel oil, propane, and wood) are collected from vendors serving communities around the state and reflect the price reported by the vendor at the point in time of the survey. Sales tax is included since 2011, but may be included or excluded in prior surveys. The inclusion of sales tax causes prices for some communities in this dataset to be higher than prices reported in the DCRA survey.
